@@ -1,0 +1,70 @@
+{
+  "dialogo": [
+    {
+      "nome": "Angela",
+      "genero": "F",
+      "tipo": "atendente",
+      "fala": "Olá, meu nome é Angela. Como posso ajudar você hoje?"
+    },
+    {
+      "nome": "Rafael",
+      "genero": "M",
+      "tipo": "usuario",
+      "fala": "Olá Angela, meu RG é 35.655.437-5 e estou com um problema no meu computador."
+    },
+    {
+      "nome": "Angela",
+      "genero": "F",
+      "tipo": "atendente",
+      "fala": "Entendi, Rafael. Vou fazer o possível para te ajudar. Poderia me explicar qual é o problema?"
+    },
+    {
+      "nome": "Rafael",
+      "genero": "M",
+      "tipo": "usuario",
+      "fala": "Claro, meu computador está apresentando tela azul constantemente e reiniciando sozinho."
+    },
+    {
+      "nome": "Angela",
+      "genero": "F",
+      "tipo": "atendente",
+      "fala": "Compreendo, Rafael. Vamos verificar o que podemos fazer para resolver esse problema. Você já tentou reiniciar o computador em modo de segurança?"
+    },
+    {
+      "nome": "Rafael",
+      "genero": "M",
+      "tipo": "usuario",
+      "fala": "Sim, já tentei reiniciar em modo de segurança, mas o problema persiste."
+    },
+    {
+      "nome": "Angela",
+      "genero": "F",
+      "tipo": "atendente",
+      "fala": "Entendo. Vou te orientar a fazer algumas verificações adicionais. Primeiro, verifique se todos os seus drivers estão atualizados."
+    },
+    {
+      "nome": "Rafael",
+      "genero": "M",
+      "tipo": "usuario",
+      "fala": "Certo, farei essa verificação agora mesmo."
+    },
+    {
+      "nome": "Angela",
+      "genero": "F",
+      "tipo": "atendente",
+      "fala": "Ótimo, Rafael! Caso não encontre nenhuma atualização de driver, procure por programas suspeitos ou incompatíveis instalados recentemente."
+    },
+    {
+      "nome": "Rafael",
+      "genero": "M",
+      "tipo": "usuario",
+      "fala": "Certo, vou verificar essa possibilidade também. Obrigado pelas orientações, Angela."
+    },
+    {
+      "nome": "Angela",
+      "genero": "F",
+      "tipo": "atendente",
+      "fala": "Eu que agradeço, Rafael. Se precisar de mais alguma ajuda, estarei à disposição. Tenha um bom dia!"
+    }
+  ]
+}

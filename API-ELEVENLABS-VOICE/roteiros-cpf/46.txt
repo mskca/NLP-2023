@@ -1,0 +1,58 @@
+{
+  "dialogo": [
+    {
+      "nome": "Laura Silva",
+      "genero": "F",
+      "tipo": "usuario",
+      "fala": "Olá! Preciso de ajuda com um problema no meu computador."
+    },
+    {
+      "nome": "João Oliveira",
+      "genero": "M",
+      "tipo": "atendente",
+      "fala": "Olá, Laura Silva! Eu sou o João e estou pronto para te ajudar. Pode me contar mais detalhes sobre o problema?"
+    },
+    {
+      "nome": "Laura Silva",
+      "genero": "F",
+      "tipo": "usuario",
+      "fala": "Bom dia, João! O meu computador está travando constantemente e eu já reiniciei algumas vezes, mas o problema persiste."
+    },
+    {
+      "nome": "João Oliveira",
+      "genero": "M",
+      "tipo": "atendente",
+      "fala": "Entendo, Laura Silva. Vamos verificar algumas soluções para resolver esse problema. Primeiro, poderia me informar seu CPF? Precisamos dessa informação para acessar o seu histórico de suporte."
+    },
+    {
+      "nome": "Laura Silva",
+      "genero": "F",
+      "tipo": "usuario",
+      "fala": "Claro, João. Meu CPF é 444.802.000-29."
+    },
+    {
+      "nome": "João Oliveira",
+      "genero": "M",
+      "tipo": "atendente",
+      "fala": "Obrigado pela informação, Laura Silva. Agora, vamos prosseguir. Você já tentou limpar os arquivos temporários do seu computador?"
+    },
+    {
+      "nome": "Laura Silva",
+      "genero": "F",
+      "tipo": "usuario",
+      "fala": "Ainda não, João. Como faço isso?"
+    },
+    {
+      "nome": "João Oliveira",
+      "genero": "M",
+      "tipo": "atendente",
+      "fala": "Não se preocupe, Laura Silva. Vou te guiar pelo processo. Primeiro, pressione as teclas 'Windows' + 'R' no seu teclado para abrir a janela 'Executar'."
+    },
+    {
+      "nome": "Laura Silva",
+      "genero": "F",
+      "tipo": "usuario",
+      "fala": "Pronto, João. A janela 'Executar' está aberta."
+    }
+  ]
+}

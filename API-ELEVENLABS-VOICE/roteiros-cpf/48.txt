@@ -1,0 +1,88 @@
+{
+  "dialogo": [
+    {
+      "nome": "Joana Silva",
+      "genero": "F",
+      "tipo": "usuario",
+      "fala": "Olá, estou ligando para o suporte. Pode me ajudar?"
+    },
+    {
+      "nome": "Daniel Santos",
+      "genero": "M",
+      "tipo": "atendente",
+      "fala": "Claro! Meu nome é Daniel e estou aqui para ajudar. Qual é o seu problema?"
+    },
+    {
+      "nome": "Joana Silva",
+      "genero": "F",
+      "tipo": "usuario",
+      "fala": "Estou com um problema na minha conta. Não consigo acessar."
+    },
+    {
+      "nome": "Daniel Santos",
+      "genero": "M",
+      "tipo": "atendente",
+      "fala": "Entendo, Joana. Pode me passar o seu CPF para que eu possa localizar a sua conta?"
+    },
+    {
+      "nome": "Joana Silva",
+      "genero": "F",
+      "tipo": "usuario",
+      "fala": "Claro, meu CPF é 696.868.090-40."
+    },
+    {
+      "nome": "Daniel Santos",
+      "genero": "M",
+      "tipo": "atendente",
+      "fala": "Obrigado, Joana. Vou verificar aqui. Por favor, aguarde um momento."
+    },
+    {
+      "nome": "Joana Silva",
+      "genero": "F",
+      "tipo": "usuario",
+      "fala": "Sem problemas, estou aguardando."
+    },
+    {
+      "nome": "Daniel Santos",
+      "genero": "M",
+      "tipo": "atendente",
+      "fala": "Encontrei a sua conta, Joana. Parece que houve um bloqueio temporário por motivos de segurança. Vou te ajudar a resolver isso."
+    },
+    {
+      "nome": "Joana Silva",
+      "genero": "F",
+      "tipo": "usuario",
+      "fala": "Ótimo, estou preocupada com isso. O que devo fazer?"
+    },
+    {
+      "nome": "Daniel Santos",
+      "genero": "M",
+      "tipo": "atendente",
+      "fala": "Vou te enviar um e-mail com as etapas necessárias para desbloquear a sua conta. Verifique a sua caixa de entrada e siga as instruções."
+    },
+    {
+      "nome": "Joana Silva",
+      "genero": "F",
+      "tipo": "usuario",
+      "fala": "Certo, vou fazer isso agora mesmo. Obrigada pela ajuda, Daniel!"
+    },
+    {
+      "nome": "Daniel Santos",
+      "genero": "M",
+      "tipo": "atendente",
+      "fala": "Disponha, Joana! Estamos sempre aqui para ajudar. Se tiver mais alguma dúvida, é só entrar em contato."
+    },
+    {
+      "nome": "Joana Silva",
+      "genero": "F",
+      "tipo": "usuario",
+      "fala": "Com certeza, Daniel! Obrigada novamente. Tenha um bom dia!"
+    },
+    {
+      "nome": "Daniel Santos",
+      "genero": "M",
+      "tipo": "atendente",
+      "fala": "Você também, Joana! Bom dia e até mais."
+    }
+  ]
+}

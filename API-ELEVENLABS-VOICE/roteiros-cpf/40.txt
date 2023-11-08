@@ -1,0 +1,100 @@
+{
+  "dialogo": [
+    {
+      "nome": "Alice",
+      "genero": "F",
+      "tipo": "usuario",
+      "fala": "Olá, estou precisando de ajuda com um problema no meu computador."
+    },
+    {
+      "nome": "João",
+      "genero": "M",
+      "tipo": "atendente",
+      "fala": "Olá, Alice! Eu posso ajudar. Pode me explicar qual é o problema?"
+    },
+    {
+      "nome": "Alice",
+      "genero": "F",
+      "tipo": "usuario",
+      "fala": "Bom, meu computador está com um vírus e não consigo acessar meus arquivos."
+    },
+    {
+      "nome": "João",
+      "genero": "M",
+      "tipo": "atendente",
+      "fala": "Entendo, Alice. Vou precisar de algumas informações para que possamos prosseguir. Por favor, me informe seu CPF."
+    },
+    {
+      "nome": "Alice",
+      "genero": "F",
+      "tipo": "usuario",
+      "fala": "Claro, meu CPF é 856.579.070-35."
+    },
+    {
+      "nome": "João",
+      "genero": "M",
+      "tipo": "atendente",
+      "fala": "Obrigado, Alice! Agora vamos verificar algumas opções para resolver o problema com seu computador."
+    },
+    {
+      "nome": "Alice",
+      "genero": "F",
+      "tipo": "usuario",
+      "fala": "Ok, estou aguardando."
+    },
+    {
+      "nome": "João",
+      "genero": "M",
+      "tipo": "atendente",
+      "fala": "Uma opção seria realizar uma varredura completa em seu sistema para identificar e remover o vírus. Você concorda com essa ação?"
+    },
+    {
+      "nome": "Alice",
+      "genero": "F",
+      "tipo": "usuario",
+      "fala": "Sim, por favor, faça a varredura."
+    },
+    {
+      "nome": "João",
+      "genero": "M",
+      "tipo": "atendente",
+      "fala": "Perfeito, irei iniciar a varredura agora mesmo. Isso pode levar alguns minutos. Enquanto isso, gostaria de oferecer a você algumas dicas para evitar problemas com vírus no futuro. Posso falar sobre isso?"
+    },
+    {
+      "nome": "Alice",
+      "genero": "F",
+      "tipo": "usuario",
+      "fala": "Com certeza, estou interessada nas dicas."
+    },
+    {
+      "nome": "João",
+      "genero": "M",
+      "tipo": "atendente",
+      "fala": "Ótimo! Uma das principais recomendações é manter seu antivírus sempre atualizado e configurado para realizar verificações frequentes. Além disso, evite abrir e-mails de remetentes desconhecidos e não clique em links suspeitos. Por último, mantenha sempre um backup atualizado dos seus arquivos importantes."
+    },
+    {
+      "nome": "Alice",
+      "genero": "F",
+      "tipo": "usuario",
+      "fala": "Muito obrigada pelas dicas, João. A varredura já terminou? Estou ansiosa para recuperar meus arquivos."
+    },
+    {
+      "nome": "João",
+      "genero": "M",
+      "tipo": "atendente",
+      "fala": "Sim, a varredura foi concluída com sucesso e o vírus foi removido. Seus arquivos devem estar acessíveis novamente. Por favor, verifique se está tudo em ordem."
+    },
+    {
+      "nome": "Alice",
+      "genero": "F",
+      "tipo": "usuario",
+      "fala": "Uau, muito obrigada, João! Meus arquivos estão todos aqui agora. Fico muito grata pela sua ajuda."
+    },
+    {
+      "nome": "João",
+      "genero": "M",
+      "tipo": "atendente",
+      "fala": "Não há de quê, Alice! Fico contente em poder ajudar. Lembre-se das dicas que mencionei para evitar futuros problemas. Se precisar de algo mais, estou à disposição."
+    }
+  ]
+}

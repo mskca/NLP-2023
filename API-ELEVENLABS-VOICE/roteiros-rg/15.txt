@@ -1,0 +1,70 @@
+{
+  "dialogo": [
+    {
+      "nome": "João",
+      "genero": "M",
+      "tipo": "usuario",
+      "fala": "Olá, estou com um problema no meu produto."
+    },
+    {
+      "nome": "Alice",
+      "genero": "F",
+      "tipo": "atendente",
+      "fala": "Olá, meu nome é Alice. Como posso te ajudar?"
+    },
+    {
+      "nome": "João",
+      "genero": "M",
+      "tipo": "usuario",
+      "fala": "É sobre o meu computador. Ele não liga mais."
+    },
+    {
+      "nome": "Alice",
+      "genero": "F",
+      "tipo": "atendente",
+      "fala": "Entendo, João. Você poderia me informar o número do seu RG?"
+    },
+    {
+      "nome": "João",
+      "genero": "M",
+      "tipo": "usuario",
+      "fala": "Claro, meu RG é 38.072.281-1."
+    },
+    {
+      "nome": "Alice",
+      "genero": "F",
+      "tipo": "atendente",
+      "fala": "Obrigada pelo número do RG, João. Vamos verificar o seu caso."
+    },
+    {
+      "nome": "Alice",
+      "genero": "F",
+      "tipo": "atendente",
+      "fala": "Verifiquei em nossos registros e vejo que seu computador ainda está coberto pela garantia. Podemos fazer um agendamento para a assistência técnica?"
+    },
+    {
+      "nome": "João",
+      "genero": "M",
+      "tipo": "usuario",
+      "fala": "Sim, por favor. Quando posso levar o computador?"
+    },
+    {
+      "nome": "Alice",
+      "genero": "F",
+      "tipo": "atendente",
+      "fala": "Vamos agendar para amanhã, às 14h. Tudo bem para você?"
+    },
+    {
+      "nome": "João",
+      "genero": "M",
+      "tipo": "usuario",
+      "fala": "Ótimo, estarei lá. Obrigado pela ajuda, Alice."
+    },
+    {
+      "nome": "Alice",
+      "genero": "F",
+      "tipo": "atendente",
+      "fala": "De nada, João. Estamos aqui para ajudar. Até amanhã e boa sorte com o conserto do computador!"
+    }
+  ]
+}

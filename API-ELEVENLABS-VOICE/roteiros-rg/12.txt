@@ -1,0 +1,76 @@
+{
+  "dialogo": [
+    {
+      "nome": "Mariana Silva",
+      "genero": "F",
+      "tipo": "usuario",
+      "fala": "Olá, estou com problemas no meu serviço de internet."
+    },
+    {
+      "nome": "Carlos Sousa",
+      "genero": "M",
+      "tipo": "atendente",
+      "fala": "Olá, Mariana! Meu nome é Carlos e estou aqui para ajudar. Por favor, me informe seu RG."
+    },
+    {
+      "nome": "Mariana Silva",
+      "genero": "F",
+      "tipo": "usuario",
+      "fala": "Meu RG é 25.734.645-4."
+    },
+    {
+      "nome": "Carlos Sousa",
+      "genero": "M",
+      "tipo": "atendente",
+      "fala": "Perfeito, RG 25.734.645-4 confirmado. O que está exatamente acontecendo com o seu serviço de internet?"
+    },
+    {
+      "nome": "Mariana Silva",
+      "genero": "F",
+      "tipo": "usuario",
+      "fala": "Minha conexão está muito lenta e falhando constantemente."
+    },
+    {
+      "nome": "Carlos Sousa",
+      "genero": "M",
+      "tipo": "atendente",
+      "fala": "Entendo, Mariana. Vamos fazer alguns testes para verificar o que pode estar causando esse problema. Você poderia reiniciar o seu roteador?"
+    },
+    {
+      "nome": "Mariana Silva",
+      "genero": "F",
+      "tipo": "usuario",
+      "fala": "Já reiniciei algumas vezes, mas o problema persiste."
+    },
+    {
+      "nome": "Carlos Sousa",
+      "genero": "M",
+      "tipo": "atendente",
+      "fala": "Ok, Mariana. Vou analisar a sua conexão remotamente. Enquanto isso, por favor, verifique se todos os cabos estão corretamente conectados ao roteador."
+    },
+    {
+      "nome": "Mariana Silva",
+      "genero": "F",
+      "tipo": "usuario",
+      "fala": "Já verifiquei tudo e está tudo conectado corretamente."
+    },
+    {
+      "nome": "Carlos Sousa",
+      "genero": "M",
+      "tipo": "atendente",
+      "fala": "Entendi, Mariana. Parece que você já fez todos os procedimentos básicos. Vou abrir um chamado técnico para que um técnico especializado vá até a sua residência verificar a situação pessoalmente. O número do chamado é o 25.734.645-4."
+    },
+    {
+      "nome": "Mariana Silva",
+      "genero": "F",
+      "tipo": "usuario",
+      "fala": "Perfeito, obrigada pela ajuda!"
+    },
+    {
+      "nome": "Carlos Sousa",
+      "genero": "M",
+      "tipo": "atendente",
+      "fala": "Por nada, Mariana! Estamos à disposição para qualquer outra assistência. Tenha um ótimo dia!"
+    }
+  ]
+}

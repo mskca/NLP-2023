@@ -1,0 +1,94 @@
+{
+    "dialogo": [
+        {
+            "nome": "Lívia",
+            "genero": "F",
+            "tipo": "usuario",
+            "fala": "Olá, tudo bem? Preciso de suporte para configurar meu novo computador."
+        },
+        {
+            "nome": "Carlos",
+            "genero": "M",
+            "tipo": "atendente",
+            "fala": "Olá, Lívia! Claro, estou aqui para te ajudar. Poderia informar seu nome completo?"
+        },
+        {
+            "nome": "Lívia Souza",
+            "genero": "F",
+            "tipo": "usuario",
+            "fala": "Meu nome completo é Lívia Souza. E você, como posso te chamar?"
+        },
+        {
+            "nome": "Roberto",
+            "genero": "M",
+            "tipo": "atendente",
+            "fala": "Pode me chamar de Roberto, Lívia. Qual é o problema que está enfrentando?"
+        },
+        {
+            "nome": "Lívia Souza",
+            "genero": "F",
+            "tipo": "usuario",
+            "fala": "Bem, estou tendo dificuldades para conectar a minha impressora. Não sei quais os drivers necessários."
+        },
+        {
+            "nome": "Roberto",
+            "genero": "M",
+            "tipo": "atendente",
+            "fala": "Entendo, Lívia. Vamos resolver isso. Primeiramente, poderia me informar o modelo da sua impressora?"
+        },
+        {
+            "nome": "Lívia Souza",
+            "genero": "F",
+            "tipo": "usuario",
+            "fala": "Claro, o modelo é PIXMA MG3022."
+        },
+        {
+            "nome": "Roberto",
+            "genero": "M",
+            "tipo": "atendente",
+            "fala": "Obrigado, Lívia! Vou verificar os drivers compatíveis com a PIXMA MG3022. Enquanto isso, poderia me informar o seu RG?"
+        },
+        {
+            "nome": "Lívia Souza",
+            "genero": "F",
+            "tipo": "usuario",
+            "fala": "Meu RG é 44.686.991-0."
+        },
+        {
+            "nome": "Roberto",
+            "genero": "M",
+            "tipo": "atendente",
+            "fala": "Obrigado, Lívia. Vou conferir algumas informações e já voltarei com a solução. Por favor, aguarde um instante."
+        },
+        {
+            "nome": "Lívia Souza",
+            "genero": "F",
+            "tipo": "usuario",
+            "fala": "Sem problema, Roberto. Estou aqui aguardando sua ajuda."
+        },
+        {
+            "nome": "Roberto",
+            "genero": "M",
+            "tipo": "atendente",
+            "fala": "Lívia, encontrei os drivers que você precisa. Você pode acessar este link: www.exemplo.com.br e fazer o download deles."
+        },
+        {
+            "nome": "Lívia Souza",
+            "genero": "F",
+            "tipo": "usuario",
+            "fala": "Muito obrigada, Roberto! Vou fazer o download agora mesmo."
+        },
+        {
+            "nome": "Roberto",
+            "genero": "M",
+            "tipo": "atendente",
+            "fala": "Por nada, Lívia! Se tiver mais alguma dúvida ou precisar de ajuda adicional, estou à disposição. Tenha um ótimo dia!"
+        },
+        {
+            "nome": "Lívia Souza",
+            "genero": "F",
+            "tipo": "usuario",
+            "fala": "Agradeço sua ajuda, Roberto. Tenha um ótimo dia você também!"
+        }
+    ]
+}

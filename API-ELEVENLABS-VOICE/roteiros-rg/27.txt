@@ -1,0 +1,82 @@
+{
+   "dialogo":[
+      {
+         "nome":"Carlos Pereira",
+         "genero":"M",
+         "tipo":"usuario",
+         "fala":"Olá, estou com um problema no meu aplicativo."
+      },
+      {
+         "nome":"Ana Oliveira",
+         "genero":"F",
+         "tipo":"atendente",
+         "fala":"Olá, Carlos. Como posso ajudá-lo hoje?"
+      },
+      {
+         "nome":"Carlos Pereira",
+         "genero":"M",
+         "tipo":"usuario",
+         "fala":"Bom, toda vez que tento fazer login, aparece uma mensagem de erro."
+      },
+      {
+         "nome":"Ana Oliveira",
+         "genero":"F",
+         "tipo":"atendente",
+         "fala":"Entendo. Para que eu possa verificar seu caso, preciso do seu RG, por favor."
+      },
+      {
+         "nome":"Carlos Pereira",
+         "genero":"M",
+         "tipo":"usuario",
+         "fala":"Claro, meu RG é 47.318.275-0."
+      },
+      {
+         "nome":"Ana Oliveira",
+         "genero":"F",
+         "tipo":"atendente",
+         "fala":"Obrigada, Carlos. Agora, me diga qual mensagem de erro você está recebendo ao fazer login."
+      },
+      {
+         "nome":"Carlos Pereira",
+         "genero":"M",
+         "tipo":"usuario",
+         "fala":"Aparece a mensagem: 'Usuário ou senha incorretos'. Mas tenho certeza de que estou digitando corretamente."
+      },
+      {
+         "nome":"Ana Oliveira",
+         "genero":"F",
+         "tipo":"atendente",
+         "fala":"Compreendo, Carlos. Vou verificar o que pode estar causando esse problema. Por favor, aguarde um momento."
+      },
+      {
+         "nome":"Ana Oliveira",
+         "genero":"F",
+         "tipo":"atendente",
+         "fala":"Carlos, identifiquei que há um erro de digitação em seu cadastro. Seu nome de usuário está incorreto. Podemos corrigi-lo agora?"
+      },
+      {
+         "nome":"Carlos Pereira",
+         "genero":"M",
+         "tipo":"usuario",
+         "fala":"Sim, por favor. Meu nome de usuário correto é CarlosPereira83."
+      },
+      {
+         "nome":"Ana Oliveira",
+         "genero":"F",
+         "tipo":"atendente",
+         "fala":"Ótimo, Carlos. Já atualizei seu nome de usuário com sucesso. Agora você deve conseguir fazer login sem problemas. Alguma outra dúvida?"
+      },
+      {
+         "nome":"Carlos Pereira",
+         "genero":"M",
+         "tipo":"usuario",
+         "fala":"Não, muito obrigado pela ajuda, Ana. Tenha um bom dia!"
+      },
+      {
+         "nome":"Ana Oliveira",
+         "genero":"F",
+         "tipo":"atendente",
+         "fala":"Eu que agradeço, Carlos. Se precisar de mais assistência, estarei aqui para ajudá-lo. Tenha um ótimo dia!"
+      }
+   ]
+}

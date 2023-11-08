@@ -1,0 +1,100 @@
+{
+  "dialogo": [
+    {
+      "nome": "Alan",
+      "genero": "M",
+      "tipo": "usuario",
+      "fala": "Olá, estou com problemas no meu equipamento."
+    },
+    {
+      "nome": "Joana",
+      "genero": "F",
+      "tipo": "atendente",
+      "fala": "Olá, Alan. Seja bem-vindo. Como posso ajudá-lo hoje?"
+    },
+    {
+      "nome": "Alan",
+      "genero": "M",
+      "tipo": "usuario",
+      "fala": "Meu computador está apresentando travamentos constantes."
+    },
+    {
+      "nome": "Joana",
+      "genero": "F",
+      "tipo": "atendente",
+      "fala": "Entendo, Alan. Você já tentou reiniciar o computador para ver se resolve o problema?"
+    },
+    {
+      "nome": "Alan",
+      "genero": "M",
+      "tipo": "usuario",
+      "fala": "Sim, já reiniciei, mas o problema persiste."
+    },
+    {
+      "nome": "Joana",
+      "genero": "F",
+      "tipo": "atendente",
+      "fala": "Certo. Vou verificar algumas informações antes de prosseguirmos. Por favor, poderia me passar o seu RG?"
+    },
+    {
+      "nome": "Alan",
+      "genero": "M",
+      "tipo": "usuario",
+      "fala": "Claro, meu RG é 11.169.651-3."
+    },
+    {
+      "nome": "Joana",
+      "genero": "F",
+      "tipo": "atendente",
+      "fala": "Agradeço, Alan. Agora, gostaria que você verificasse se os drivers do seu computador estão atualizados."
+    },
+    {
+      "nome": "Alan",
+      "genero": "M",
+      "tipo": "usuario",
+      "fala": "Certo, vou verificar e te falo."
+    },
+    {
+      "nome": "Joana",
+      "genero": "F",
+      "tipo": "atendente",
+      "fala": "Estarei aguardando, Alan. Enquanto isso, você já verificou se há algum programa em segundo plano consumindo muitos recursos?"
+    },
+    {
+      "nome": "Alan",
+      "genero": "M",
+      "tipo": "usuario",
+      "fala": "Sim, já verifiquei e não encontrei nenhum programa que esteja consumindo excessivamente os recursos do computador."
+    },
+    {
+      "nome": "Joana",
+      "genero": "F",
+      "tipo": "atendente",
+      "fala": "Entendi, Alan. Nesse caso, recomendo que você traga o computador à nossa assistência técnica para uma análise mais detalhada. Podemos marcar um horário?"
+    },
+    {
+      "nome": "Alan",
+      "genero": "M",
+      "tipo": "usuario",
+      "fala": "Sim, pode ser amanhã às 10h?"
+    },
+    {
+      "nome": "Joana",
+      "genero": "F",
+      "tipo": "atendente",
+      "fala": "Claro, Alan. Agendei seu atendimento para amanhã às 10h. Anote o número do protocolo: 11.169.651-3. Por favor, compareça à nossa sede na Av. Central, número 123. Alguém estará esperando por você."
+    },
+    {
+      "nome": "Alan",
+      "genero": "M",
+      "tipo": "usuario",
+      "fala": "Certo, obrigado pela ajuda, Joana. Até amanhã, então!"
+    },
+    {
+      "nome": "Joana",
+      "genero": "F",
+      "tipo": "atendente",
+      "fala": "De nada, Alan. Até amanhã e boa sorte com o seu computador!"
+    }
+  ]
+}

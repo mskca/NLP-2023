@@ -1,0 +1,64 @@
+{
+  "dialogo": [
+    {
+      "nome": "Joana",
+      "genero": "F",
+      "tipo": "usuario",
+      "fala": "Olá, estou com um problema no meu produto. Podem me ajudar?"
+    },
+    {
+      "nome": "Marcelo",
+      "genero": "M",
+      "tipo": "atendente",
+      "fala": "Com certeza! Me chamo Marcelo e estou aqui para ajudá-la. Qual é o seu nome e número de RG?"
+    },
+    {
+      "nome": "Joana",
+      "genero": "F",
+      "tipo": "usuario",
+      "fala": "Meu nome é Joana e meu RG é 11.988.980-8."
+    },
+    {
+      "nome": "Marcelo",
+      "genero": "M",
+      "tipo": "atendente",
+      "fala": "Ótimo, Joana! Agora me conte qual é o problema que você está enfrentando."
+    },
+    {
+      "nome": "Joana",
+      "genero": "F",
+      "tipo": "usuario",
+      "fala": "O produto que comprei não está funcionando corretamente. Preciso de assistência técnica."
+    },
+    {
+      "nome": "Marcelo",
+      "genero": "M",
+      "tipo": "atendente",
+      "fala": "Entendo, Joana. Vou abrir uma solicitação de assistência técnica para você. Por favor, aguarde um momento enquanto verifico as opções disponíveis."
+    },
+    {
+      "nome": "Joana",
+      "genero": "F",
+      "tipo": "usuario",
+      "fala": "Certo, estarei aguardando."
+    },
+    {
+      "nome": "Marcelo",
+      "genero": "M",
+      "tipo": "atendente",
+      "fala": "Encontrei uma assistência técnica próxima a você, Joana. Anote o endereço: Rua das Flores, número 123. O técnico estará disponível para atendê-la amanhã às 10h. Mais alguma dúvida?"
+    },
+    {
+      "nome": "Joana",
+      "genero": "F",
+      "tipo": "usuario",
+      "fala": "Não, muito obrigada pela ajuda, Marcelo!"
+    },
+    {
+      "nome": "Marcelo",
+      "genero": "M",
+      "tipo": "atendente",
+      "fala": "De nada, Joana! Estamos sempre aqui para ajudar. Se precisar de mais alguma coisa, é só nos chamar. Tenha um ótimo dia!"
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "dialogo": [
+    {
+      "nome": "Joana Silva",
+      "genero": "F",
+      "tipo": "usuario",
+      "fala": "Olá, estou tendo um problema com meu produto."
+    },
+    {
+      "nome": "Lucas Santos",
+      "genero": "M",
+      "tipo": "atendente",
+      "fala": "Olá, Joana. Como posso ajudar?"
+    },
+    {
+      "nome": "Joana Silva",
+      "genero": "F",
+      "tipo": "usuario",
+      "fala": "Meu número de RG é 40.816.145-0."
+    },
+    {
+      "nome": "Lucas Santos",
+      "genero": "M",
+      "tipo": "atendente",
+      "fala": "Obrigado por fornecer seu RG, Joana. Qual é o problema específico que você está enfrentando?"
+    },
+    {
+      "nome": "Joana Silva",
+      "genero": "F",
+      "tipo": "usuario",
+      "fala": "Meu produto não liga mais. É como se estivesse sem energia."
+    },
+    {
+      "nome": "Lucas Santos",
+      "genero": "M",
+      "tipo": "atendente",
+      "fala": "Entendo, Joana. Vamos verificar o que pode estar causando isso. Você já tentou trocar as pilhas ou verificar se está conectado à energia?"
+    },
+    {
+      "nome": "Joana Silva",
+      "genero": "F",
+      "tipo": "usuario",
+      "fala": "Sim, já fiz essas verificações e nada resolveu."
+    },
+    {
+      "nome": "Lucas Santos",
+      "genero": "M",
+      "tipo": "atendente",
+      "fala": "Nesse caso, vamos precisar agendar um técnico para dar uma olhada no seu produto. Por favor, confirme seu endereço."
+    },
+    {
+      "nome": "Joana Silva",
+      "genero": "F",
+      "tipo": "usuario",
+      "fala": "Meu endereço é Rua das Flores, 123, Bairro Jardim Primavera, Cidade X."
+    },
+    {
+      "nome": "Lucas Santos",
+      "genero": "M",
+      "tipo": "atendente",
+      "fala": "Obrigado, Joana. Já registrei seu endereço. Um técnico será enviado à sua casa amanhã entre 10h e 12h. Alguém estará disponível para recebê-lo?"
+    },
+    {
+      "nome": "Joana Silva",
+      "genero": "F",
+      "tipo": "usuario",
+      "fala": "Sim, estaremos no aguardo."
+    },
+    {
+      "nome": "Lucas Santos",
+      "genero": "M",
+      "tipo": "atendente",
+      "fala": "Perfeito, Joana. Se houver qualquer alteração no horário, entraremos em contato com você. Obrigado por entrar em contato conosco e tenha um ótimo dia!"
+    },
+    {
+      "nome": "Joana Silva",
+      "genero": "F",
+      "tipo": "usuario",
+      "fala": "Obrigada, Lucas! Tenha um bom dia também!"
+    }
+  ]
+}

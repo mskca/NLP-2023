@@ -1,0 +1,52 @@
+{
+  "dialogo": [
+    {
+      "nome": "Bruno",
+      "genero": "M",
+      "tipo": "usuario",
+      "fala": "Olá, estou com um problema no meu produto."
+    },
+    {
+      "nome": "Lúcia",
+      "genero": "F",
+      "tipo": "atendente",
+      "fala": "Olá, Bruno. Me chamo Lúcia, sou a atendente responsável pelo suporte. Em que posso ajudar?"
+    },
+    {
+      "nome": "Bruno",
+      "genero": "M",
+      "tipo": "usuario",
+      "fala": "Estou com um vazamento na torneira do banheiro."
+    },
+    {
+      "nome": "Lúcia",
+      "genero": "F",
+      "tipo": "atendente",
+      "fala": "Entendo, Bruno. Para verificar as informações, você poderia me fornecer o seu RG novamente, por favor?"
+    },
+    {
+      "nome": "Bruno",
+      "genero": "M",
+      "tipo": "usuario",
+      "fala": "Claro, meu RG é 44.828.451-0."
+    },
+    {
+      "nome": "Lúcia",
+      "genero": "F",
+      "tipo": "atendente",
+      "fala": "Obrigada, Bruno, verifiquei seus dados. o número do seu protocolo de atendimento é 189273. Vou solicitar o envio de uma equipe técnica ao seu endereço para resolver o vazamento. Eles entrarão em contato dentro de 24 horas para agendar a visita. Alguma outra dúvida?"
+    },
+    {
+      "nome": "Bruno",
+      "genero": "M",
+      "tipo": "usuario",
+      "fala": "Não, obrigado, Lúcia. Fico no aguardo do contato da equipe técnica."
+    },
+    {
+      "nome": "Lúcia",
+      "genero": "F",
+      "tipo": "atendente",
+      "fala": "Ótimo, Bruno! Qualquer outra necessidade, pode me contatar novamente. Tenha um bom dia!"
+    }
+  ]
+}

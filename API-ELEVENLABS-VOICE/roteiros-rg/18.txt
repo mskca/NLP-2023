@@ -1,0 +1,112 @@
+{
+  "dialogo": [
+    {
+      "nome": "João Silva",
+      "genero": "M",
+      "tipo": "usuario",
+      "fala": "Olá, estou com um problema no meu computador."
+    },
+    {
+      "nome": "Maria Santos",
+      "genero": "F",
+      "tipo": "atendente",
+      "fala": "Olá, João. Em que posso ajudar?"
+    },
+    {
+      "nome": "João Silva",
+      "genero": "M",
+      "tipo": "usuario",
+      "fala": "Minha máquina está travando constantemente."
+    },
+    {
+      "nome": "Maria Santos",
+      "genero": "F",
+      "tipo": "atendente",
+      "fala": "Entendo, João. Vou precisar do seu RG para identificar o seu cadastro. Poderia informá-lo?"
+    },
+    {
+      "nome": "João Silva",
+      "genero": "M",
+      "tipo": "usuario",
+      "fala": "Claro, meu RG é 13.983.951-3."
+    },
+    {
+      "nome": "Maria Santos",
+      "genero": "F",
+      "tipo": "atendente",
+      "fala": "Obrigada, João. Vou verificar os registros e os possíveis problemas relacionados. Enquanto isso, você já tentou reiniciar o computador?"
+    },
+    {
+      "nome": "João Silva",
+      "genero": "M",
+      "tipo": "usuario",
+      "fala": "Sim, já reiniciei algumas vezes, mas o problema persiste."
+    },
+    {
+      "nome": "Maria Santos",
+      "genero": "F",
+      "tipo": "atendente",
+      "fala": "Entendo, João. Vamos tentar uma solução alternativa. Poderia me fornecer o modelo do seu computador?"
+    },
+    {
+      "nome": "João Silva",
+      "genero": "M",
+      "tipo": "usuario",
+      "fala": "Eu possuo um modelo Dell Inspiron 15."
+    },
+    {
+      "nome": "Maria Santos",
+      "genero": "F",
+      "tipo": "atendente",
+      "fala": "Ótimo, obrigada pela informação. Vou verificar se há algum problema conhecido com esse modelo. Enquanto isso, por favor, aguarde um momento."
+    },
+    {
+      "nome": "João Silva",
+      "genero": "M",
+      "tipo": "usuario",
+      "fala": "Certo, estarei aguardando."
+    },
+    {
+      "nome": "Maria Santos",
+      "genero": "F",
+      "tipo": "atendente",
+      "fala": "João, após consultar nossos registros, identificamos que uma atualização recente pode estar causando o travamento. Recomendo que você faça uma restauração do sistema para voltar a uma versão estável anterior. Posso guiá-lo nesse processo."
+    },
+    {
+      "nome": "João Silva",
+      "genero": "M",
+      "tipo": "usuario",
+      "fala": "Sim, por favor. Me explique como proceder."
+    },
+    {
+      "nome": "Maria Santos",
+      "genero": "F",
+      "tipo": "atendente",
+      "fala": "Perfeito, João. Vou te passar um passo a passo detalhado. Vá até o menu Iniciar, digite 'Restaurar sistema' na barra de pesquisa e selecione a opção correspondente. A partir daí, siga as instruções que serão exibidas na tela."
+    },
+    {
+      "nome": "João Silva",
+      "genero": "M",
+      "tipo": "usuario",
+      "fala": "Entendi, Maria. Farei isso agora mesmo."
+    },
+    {
+      "nome": "Maria Santos",
+      "genero": "F",
+      "tipo": "atendente",
+      "fala": "Ótimo, João. Espero que essa solução resolva o seu problema. Caso contrário, por favor, entre em contato conosco novamente."
+    },
+    {
+      "nome": "João Silva",
+      "genero": "M",
+      "tipo": "usuario",
+      "fala": "Muito obrigado, Maria. Farei a restauração e volto a entrar em contato se necessário."
+    },
+    {
+      "nome": "Maria Santos",
+      "genero": "F",
+      "tipo": "atendente",
+      "fala": "Por nada, João. Estamos aqui para ajudar. Tenha um ótimo dia!"
+    }
+  ]
+}

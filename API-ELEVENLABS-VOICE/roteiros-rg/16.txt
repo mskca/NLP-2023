@@ -1,0 +1,70 @@
+{
+  "dialogo": [
+    {
+      "nome": "José",
+      "genero": "M",
+      "tipo": "usuario",
+      "fala": "Olá, estou com problemas para acessar meu e-mail."
+    },
+    {
+      "nome": "Ana",
+      "genero": "F",
+      "tipo": "atendente",
+      "fala": "Olá, José. Sou a Ana, como posso ajudá-lo?"
+    },
+    {
+      "nome": "José",
+      "genero": "M",
+      "tipo": "usuario",
+      "fala": "Bem, toda vez que tento entrar na minha conta, aparece uma mensagem de erro."
+    },
+    {
+      "nome": "Ana",
+      "genero": "F",
+      "tipo": "atendente",
+      "fala": "Entendo, José. Poderia me informar o seu RG para que eu possa verificar seu cadastro no sistema?"
+    },
+    {
+      "nome": "José",
+      "genero": "M",
+      "tipo": "usuario",
+      "fala": "Claro, meu RG é 46.209.434-0."
+    },
+    {
+      "nome": "Ana",
+      "genero": "F",
+      "tipo": "atendente",
+      "fala": "Obrigada, José. Vou verificar seus dados agora mesmo. Só um momento, por favor."
+    },
+    {
+      "nome": "Ana",
+      "genero": "F",
+      "tipo": "atendente",
+      "fala": "José, encontrei seu cadastro no sistema. Parece que você esqueceu sua senha. Podemos redefini-la agora para você?"
+    },
+    {
+      "nome": "José",
+      "genero": "M",
+      "tipo": "usuario",
+      "fala": "Sim, por favor. Preciso recuperar o acesso ao meu e-mail."
+    },
+    {
+      "nome": "Ana",
+      "genero": "F",
+      "tipo": "atendente",
+      "fala": "Certo, José. Vou enviar um link para o seu e-mail cadastrado com as instruções para a redefinição de senha. Por favor, verifique sua caixa de entrada."
+    },
+    {
+      "nome": "José",
+      "genero": "M",
+      "tipo": "usuario",
+      "fala": "Muito obrigado, Ana. Vou verificar o e-mail agora mesmo."
+    },
+    {
+      "nome": "Ana",
+      "genero": "F",
+      "tipo": "atendente",
+      "fala": "Por nada, José. Fico à disposição caso precise de mais alguma ajuda. Tenha um ótimo dia!"
+    }
+  ]
+}

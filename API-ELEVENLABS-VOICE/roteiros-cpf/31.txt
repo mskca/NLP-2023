@@ -1,0 +1,77 @@
+
+{
+  "dialogo":[
+  {
+    "nome": "Alice",
+    "genero": "F",
+    "tipo": "usuario",
+    "fala": "Olá, preciso de ajuda com o meu produto."
+  },
+  {
+    "nome": "Carlos",
+    "genero": "M",
+    "tipo": "atendente",
+    "fala": "Olá, eu sou o Carlos. Posso ajudar?"
+  },
+  {
+    "nome": "Alice",
+    "genero": "F",
+    "tipo": "usuario",
+    "fala": "Sim, meu CPF é 119.333.090-40."
+  },
+  {
+    "nome": "Carlos",
+    "genero": "M",
+    "tipo": "atendente",
+    "fala": "Obrigado, Alice. Como posso ajudá-la?"
+  },
+  {
+    "nome": "Alice",
+    "genero": "F",
+    "tipo": "usuario",
+    "fala": "Estou com um problema no meu produto. Ele não liga."
+  },
+  {
+    "nome": "Carlos",
+    "genero": "M",
+    "tipo": "atendente",
+    "fala": "Entendo, Alice. Vou verificar o que pode ser feito. Por favor, aguarde um momento."
+  },
+  {
+    "nome": "Carlos",
+    "genero": "M",
+    "tipo": "atendente",
+    "fala": "Alice, falta de energia pode ser uma das causas. Você já tentou trocar o cabo de energia?"
+  },
+  {
+    "nome": "Alice",
+    "genero": "F",
+    "tipo": "usuario",
+    "fala": "Sim, já verifiquei o cabo e está tudo certo."
+  },
+  {
+    "nome": "Carlos",
+    "genero": "M",
+    "tipo": "atendente",
+    "fala": "Certo, Alice. Vamos tentar outras soluções. Primeiro, desligue o produto por alguns minutos e depois ligue novamente. Isso pode ajudar a reinicializá-lo."
+  },
+  {
+    "nome": "Alice",
+    "genero": "F",
+    "tipo": "usuario",
+    "fala": "Ok, vou tentar fazer isso agora."
+  },
+  {
+    "nome": "Carlos",
+    "genero": "M",
+    "tipo": "atendente",
+    "fala": "Ótimo, Alice. Me avise se o problema persistir ou se precisar de mais alguma ajuda."
+  },
+  {
+    "nome": "Alice",
+    "genero": "F",
+    "tipo": "usuario",
+    "fala": "Com certeza, Carlos. Muito obrigada pela sua assistência!"
+  }
+]
+}

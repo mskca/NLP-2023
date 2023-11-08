@@ -1,0 +1,118 @@
+{
+"dialogo": [
+{
+"nome": "Alexandre",
+"genero": "M",
+"tipo": "atendente",
+"fala": "Olá, sou o atendente Alexandre. Como posso ajudar hoje?"
+},
+{
+"nome": "Mariana",
+"genero": "F",
+"tipo": "usuario",
+"fala": "Olá, meu nome é Mariana e estou com um problema no meu computador."
+},
+{
+"nome": "Alexandre",
+"genero": "M",
+"tipo": "atendente",
+"fala": "Certo, Mariana. Poderia me informar o CPF para identificação?"
+},
+{
+"nome": "Mariana",
+"genero": "F",
+"tipo": "usuario",
+"fala": "Claro, meu CPF é 063.922.410-51."
+},
+{
+"nome": "Alexandre",
+"genero": "M",
+"tipo": "atendente",
+"fala": "Obrigado, Mariana. Agora vamos verificar qual é o problema com seu computador."
+},
+{
+"nome": "Mariana",
+"genero": "F",
+"tipo": "usuario",
+"fala": "Toda vez que eu ligo o computador, ele não inicia o sistema operacional."
+},
+{
+"nome": "Alexandre",
+"genero": "M",
+"tipo": "atendente",
+"fala": "Entendo, Mariana. Já reiniciou o computador algumas vezes para ver se o problema persiste?"
+},
+{
+"nome": "Mariana",
+"genero": "F",
+"tipo": "usuario",
+"fala": "Sim, já reiniciei várias vezes e o problema continua."
+},
+{
+"nome": "Alexandre",
+"genero": "M",
+"tipo": "atendente",
+"fala": "Vamos tentar algumas soluções básicas. Primeiro, verifique se todos os cabos estão devidamente conectados."
+},
+{
+"nome": "Mariana",
+"genero": "F",
+"tipo": "usuario",
+"fala": "Ok, estou verificando agora... Todos os cabos estão conectados corretamente."
+},
+{
+"nome": "Alexandre",
+"genero": "M",
+"tipo": "atendente",
+"fala": "Ótimo. Vamos realizar um procedimento de reinicialização completa do sistema para tentar resolver o problema."
+},
+{
+"nome": "Mariana",
+"genero": "F",
+"tipo": "usuario",
+"fala": "Tudo bem, como faço essa reinicialização completa?"
+},
+{
+"nome": "Alexandre",
+"genero": "M",
+"tipo": "atendente",
+"fala": "Para isso, precisaremos pressionar e manter pressionado o botão de ligar até que o computador desligue completamente. Após isso, aguarde alguns segundos e ligue novamente."
+},
+{
+"nome": "Mariana",
+"genero": "F",
+"tipo": "usuario",
+"fala": "Ok, vou fazer esse procedimento agora."
+},
+{
+"nome": "Alexandre",
+"genero": "M",
+"tipo": "atendente",
+"fala": "Perfeito, Mariana. Após reiniciar, verifique se o sistema operacional inicializa normalmente."
+},
+{
+"nome": "Mariana",
+"genero": "F",
+"tipo": "usuario",
+"fala": "Fiz o procedimento, mas o problema ainda persiste. "
+},
+{
+"nome": "Alexandre",
+"genero": "M",
+"tipo": "atendente",
+"fala": "Se o problema continua, pode ser necessário fazer uma análise mais detalhada do seu computador. Vou gerar um protocolo e encaminhá-lo para um técnico especializado entrar em contato com você para agendar uma visita, tudo bem?"
+},
+{
+"nome": "Mariana",
+"genero": "F",
+"tipo": "usuario",
+"fala": "Sim, por favor. Espero que o técnico possa resolver o problema."
+},
+{
+"nome": "Alexandre",
+"genero": "M",
+"tipo": "atendente",
+"fala": "Certo, Mariana. Cadastrei seu protocolo com o CPF 063.922.410-51. Nos próximos dias, você receberá um contato para agendamento. Agradecemos pela paciência e colaboração."
+}
+]
+}

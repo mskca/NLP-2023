@@ -1,0 +1,52 @@
+{
+  "dialogo": [
+    {
+      "nome": "Milena",
+      "genero": "F",
+      "tipo": "usuario",
+      "fala": "Olá, estou com um problema no meu produto."
+    },
+    {
+      "nome": "Rogério",
+      "genero": "M",
+      "tipo": "atendente",
+      "fala": "Boa tarde, posso ajudar? Qual é o seu nome?"
+    },
+    {
+      "nome": "Milena",
+      "genero": "F",
+      "tipo": "usuario",
+      "fala": "Meu nome é Milena Santos."
+    },
+    {
+      "nome": "Rogério",
+      "genero": "M",
+      "tipo": "atendente",
+      "fala": "Muito prazer, Milena. Qual é o problema que você está enfrentando?"
+    },
+    {
+      "nome": "Milena",
+      "genero": "F",
+      "tipo": "usuario",
+      "fala": "Bem, meu produto está apresentando alguns defeitos. Preciso consertá-lo o mais rápido possível."
+    },
+    {
+      "nome": "Rogério",
+      "genero": "M",
+      "tipo": "atendente",
+      "fala": "Entendo, Milena. Para prosseguirmos, poderia informar o número do seu RG? Preciso dessa informação para dar continuidade ao atendimento."
+    },
+    {
+      "nome": "Milena",
+      "genero": "F",
+      "tipo": "usuario",
+      "fala": "Claro, meu RG é 44.708.681-9."
+    },
+    {
+      "nome": "Rogério",
+      "genero": "M",
+      "tipo": "atendente",
+      "fala": "Perfeito, obrigado. Vamos verificar os detalhes do seu produto com base nesse número de identificação. Agradeço a sua atenção. Aguarde um momento, por favor."
+    }
+  ]
+}

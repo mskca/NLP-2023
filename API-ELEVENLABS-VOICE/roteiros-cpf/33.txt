@@ -1,0 +1,94 @@
+{
+  "dialogo": [
+    {
+      "nome": "Alice",
+      "genero": "F",
+      "tipo": "usuario",
+      "fala": "Olá! Preciso de ajuda com minha conta."
+    },
+    {
+      "nome": "John",
+      "genero": "M",
+      "tipo": "atendente",
+      "fala": "Olá, como posso ajudar, CPF 929.275.670-26?"
+    },
+    {
+      "nome": "Alice",
+      "genero": "F",
+      "tipo": "usuario",
+      "fala": "Estou com dificuldades para fazer login na minha conta."
+    },
+    {
+      "nome": "John",
+      "genero": "M",
+      "tipo": "atendente",
+      "fala": "Entendo, posso confirmar alguns dados para garantir que estou falando com a pessoa certa? Qual é o seu nome completo?"
+    },
+    {
+      "nome": "Alice",
+      "genero": "F",
+      "tipo": "usuario",
+      "fala": "Meu nome é Alice Thompson."
+    },
+    {
+      "nome": "John",
+      "genero": "M",
+      "tipo": "atendente",
+      "fala": "Obrigado pela confirmação, Sra. Thompson. Agora, por favor, informe sua data de nascimento."
+    },
+    {
+      "nome": "Alice",
+      "genero": "F",
+      "tipo": "usuario",
+      "fala": "Minha data de nascimento é 10/05/1982."
+    },
+    {
+      "nome": "John",
+      "genero": "M",
+      "tipo": "atendente",
+      "fala": "Perfeito! Agora, poderia nos dizer qual é o problema exato que você está enfrentando ao fazer login?"
+    },
+    {
+      "nome": "Alice",
+      "genero": "F",
+      "tipo": "usuario",
+      "fala": "Quando digito meu nome de usuário e senha corretos, aparece uma mensagem de erro dizendo 'credenciais inválidas'."
+    },
+    {
+      "nome": "John",
+      "genero": "M",
+      "tipo": "atendente",
+      "fala": "Entendi. Vou verificar o que pode estar causando esse problema. Por favor, aguarde um momento."
+    },
+    {
+      "nome": "John",
+      "genero": "M",
+      "tipo": "atendente",
+      "fala": "Sra. Thompson, parece que existe uma inconsistência nas suas informações. Seu CPF cadastrado está como 929.275.670-26, porém, em nossa base de dados, consta como 929.275.670-36."
+    },
+    {
+      "nome": "Alice",
+      "genero": "F",
+      "tipo": "usuario",
+      "fala": "Oh, me desculpe pelo erro. O correto é 929.275.670-36."
+    },
+    {
+      "nome": "John",
+      "genero": "M",
+      "tipo": "atendente",
+      "fala": "Sem problemas, Sra. Thompson. Vou corrigir o seu CPF em nosso sistema. Agora, por favor, tente fazer o login novamente com o nome de usuário e senha corretos."
+    },
+    {
+      "nome": "Alice",
+      "genero": "F",
+      "tipo": "usuario",
+      "fala": "Certo, vou tentar agora. Obrigada pela ajuda!"
+    },
+    {
+      "nome": "John",
+      "genero": "M",
+      "tipo": "atendente",
+      "fala": "De nada, Sra. Thompson. Estou disponível caso precise de mais alguma assistência. Tenha um ótimo dia!"
+    }
+  ]
+}

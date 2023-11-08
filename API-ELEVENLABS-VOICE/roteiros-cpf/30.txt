@@ -1,0 +1,94 @@
+{
+  "dialogo": [
+    {
+      "nome": "Lucas",
+      "genero": "M",
+      "tipo": "usuario",
+      "fala": "Olá, estou com um problema no meu celular."
+    },
+    {
+      "nome": "Roberta",
+      "genero": "F",
+      "tipo": "atendente",
+      "fala": "Olá, Lucas! Em que posso ajudar?"
+    },
+    {
+      "nome": "Lucas",
+      "genero": "M",
+      "tipo": "usuario",
+      "fala": "Meu CPF é 561.662.840-98, preciso de suporte técnico."
+    },
+    {
+      "nome": "Roberta",
+      "genero": "F",
+      "tipo": "atendente",
+      "fala": "Entendo, vou precisar de alguns detalhes. Qual é a marca e modelo do seu celular?"
+    },
+    {
+      "nome": "Lucas",
+      "genero": "M",
+      "tipo": "usuario",
+      "fala": "Eu tenho um iPhone X."
+    },
+    {
+      "nome": "Roberta",
+      "genero": "F",
+      "tipo": "atendente",
+      "fala": "Certo! Agora, me diga qual é o problema que você está enfrentando com o seu celular?"
+    },
+    {
+      "nome": "Lucas",
+      "genero": "M",
+      "tipo": "usuario",
+      "fala": "A bateria está descarregando muito rápido e a tela não está respondendo corretamente."
+    },
+    {
+      "nome": "Roberta",
+      "genero": "F",
+      "tipo": "atendente",
+      "fala": "Compreendo. Vou verificar algumas soluções para você. Por favor, aguarde um momento."
+    },
+    {
+      "nome": "Roberta",
+      "genero": "F",
+      "tipo": "atendente",
+      "fala": "Verifiquei algumas informações e seria importante fazer uma restauração de fábrica no seu iPhone X. Isso resolveria muitos problemas de desempenho e permite que você comece do zero."
+    },
+    {
+      "nome": "Lucas",
+      "genero": "M",
+      "tipo": "usuario",
+      "fala": "Tudo bem, gostaria de tentar essa solução. Meu CPF é 561.662.840-98 mesmo, correto?"
+    },
+    {
+      "nome": "Roberta",
+      "genero": "F",
+      "tipo": "atendente",
+      "fala": "Sim, Lucas. Seu CPF é 561.662.840-98. É importante fazer um backup de todos os seus dados antes de realizar a restauração. Você possui um backup atualizado?"
+    },
+    {
+      "nome": "Lucas",
+      "genero": "M",
+      "tipo": "usuario",
+      "fala": "Sim, tenho um backup recente. Vou fazer a restauração agora mesmo."
+    },
+    {
+      "nome": "Roberta",
+      "genero": "F",
+      "tipo": "atendente",
+      "fala": "Ótimo! Siga as instruções no seu celular para realizar a restauração. Se precisar de ajuda adicional, estou à disposição."
+    },
+    {
+      "nome": "Lucas",
+      "genero": "M",
+      "tipo": "usuario",
+      "fala": "Ok, farei isso. Muito obrigado pela ajuda!"
+    },
+    {
+      "nome": "Roberta",
+      "genero": "F",
+      "tipo": "atendente",
+      "fala": "De nada, Lucas! Se precisar de mais alguma coisa, estou aqui para ajudar. Tenha um ótimo dia!"
+    }
+  ]
+}

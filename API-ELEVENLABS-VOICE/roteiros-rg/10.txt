@@ -1,0 +1,154 @@
+{
+  "dialogo": [
+    {
+      "nome": "Joana",
+      "genero": "F",
+      "tipo": "usuário",
+      "fala": "Olá, estou com um problema no meu computador."
+    },
+    {
+      "nome": "Paulo",
+      "genero": "M",
+      "tipo": "atendente",
+      "fala": "Olá, Joana! Como posso te ajudar?"
+    },
+    {
+      "nome": "Joana",
+      "genero": "F",
+      "tipo": "usuário",
+      "fala": "Bom, meu computador não está ligando. Eu já tentei de tudo!"
+    },
+    {
+      "nome": "Paulo",
+      "genero": "M",
+      "tipo": "atendente",
+      "fala": "Entendo, Joana. Poderia me fornecer seu RG, por favor?"
+    },
+    {
+      "nome": "Joana",
+      "genero": "F",
+      "tipo": "usuário",
+      "fala": "Claro, meu RG é 38.957.182-9."
+    },
+    {
+      "nome": "Paulo",
+      "genero": "M",
+      "tipo": "atendente",
+      "fala": "Obrigado, Joana. Vou realizar uma busca rápida em nosso sistema."
+    },
+    {
+      "nome": "Paulo",
+      "genero": "M",
+      "tipo": "atendente",
+      "fala": "Encontrei suas informações, Joana. Agora, vamos solucionar seu problema."
+    },
+    {
+      "nome": "Joana",
+      "genero": "F",
+      "tipo": "usuário",
+      "fala": "Ótimo, estou aguardando."
+    },
+    {
+      "nome": "Paulo",
+      "genero": "M",
+      "tipo": "atendente",
+      "fala": "Primeiramente, vamos tentar reiniciar o computador. Por favor, desligue-o e ligue novamente."
+    },
+    {
+      "nome": "Joana",
+      "genero": "F",
+      "tipo": "usuário",
+      "fala": "Ok, estou fazendo isso agora."
+    },
+    {
+      "nome": "Paulo",
+      "genero": "M",
+      "tipo": "atendente",
+      "fala": "Após ligar novamente, verifique se o problema persiste."
+    },
+    {
+      "nome": "Joana",
+      "genero": "F",
+      "tipo": "usuário",
+      "fala": "Infelizmente continua não ligando. O que faço agora?"
+    },
+    {
+      "nome": "Paulo",
+      "genero": "M",
+      "tipo": "atendente",
+      "fala": "Vamos prosseguir para outros passos de solução. Por favor, verifique se todos os cabos estão corretamente conectados."
+    },
+    {
+      "nome": "Joana",
+      "genero": "F",
+      "tipo": "usuário",
+      "fala": "Já conferi, tudo parece estar conectado corretamente."
+    },
+    {
+      "nome": "Paulo",
+      "genero": "M",
+      "tipo": "atendente",
+      "fala": "Ok, Joana. Vamos tentar redefinir as configurações do BIOS. Você está familiarizada com esse processo?"
+    },
+    {
+      "nome": "Joana",
+      "genero": "F",
+      "tipo": "usuário",
+      "fala": "Não tenho muito conhecimento nessa área, mas estou disposta a tentar."
+    },
+    {
+      "nome": "Paulo",
+      "genero": "M",
+      "tipo": "atendente",
+      "fala": "Tudo bem, Joana. Vou te guiar pelo processo. Primeiro, reinicie o computador e pressione a tecla DEL durante a inicialização."
+    },
+    {
+      "nome": "Joana",
+      "genero": "F",
+      "tipo": "usuário",
+      "fala": "Certo, estou reiniciando agora e pressionarei a tecla DEL."
+    },
+    {
+      "nome": "Paulo",
+      "genero": "M",
+      "tipo": "atendente",
+      "fala": "Ótimo, Joana. Agora você estará no BIOS. Procure pelas opções de 'Restore Defaults' ou 'Load Optimal Defaults'"
+    },
+    {
+      "nome": "Joana",
+      "genero": "F",
+      "tipo": "usuário",
+      "fala": "Encontrei as opções de 'Restore Defaults'. Vou selecionar essa."
+    },
+    {
+      "nome": "Paulo",
+      "genero": "M",
+      "tipo": "atendente",
+      "fala": "Perfeito, Joana! Agora, salve as alterações e reinicie o computador novamente."
+    },
+    {
+      "nome": "Joana",
+      "genero": "F",
+      "tipo": "usuário",
+      "fala": "Já fiz isso. Estou ansiosa para ver se funcionou!"
+    },
+    {
+      "nome": "Paulo",
+      "genero": "M",
+      "tipo": "atendente",
+      "fala": "Vamos torcer, Joana! O computador deve reiniciar agora. Verifique se o problema foi resolvido."
+    },
+    {
+      "nome": "Joana",
+      "genero": "F",
+      "tipo": "usuário",
+      "fala": "Uau, Paulo! Funcionou! Obrigada por toda a ajuda!"
+    },
+    {
+      "nome": "Paulo",
+      "genero": "M",
+      "tipo": "atendente",
+      "fala": "Fico feliz em ajudar, Joana! Se tiver mais alguma dúvida, é só me procurar. Tenha um ótimo dia!"
+    }
+  ]
+}

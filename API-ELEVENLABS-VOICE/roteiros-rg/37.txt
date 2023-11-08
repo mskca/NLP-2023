@@ -1,0 +1,28 @@
+{
+  "dialogo": [
+    {
+      "nome": "João",
+      "genero": "M",
+      "tipo": "usuario",
+      "fala": "Olá, tudo bem? Preciso de ajuda com meu produto."
+    },
+    {
+      "nome": "Maria",
+      "genero": "F",
+      "tipo": "atendente",
+      "fala": "Olá, João! Claro, estou aqui para ajudar. Pode me dar seu RG para verificarmos seus dados?"
+    },
+    {
+      "nome": "João",
+      "genero": "M",
+      "tipo": "usuario",
+      "fala": "Claro, meu RG é 28.748.111-6."
+    },
+    {
+      "nome": "Maria",
+      "genero": "F",
+      "tipo": "atendente",
+      "fala": "Obrigada, João! Agora me conte qual é o problema que está enfrentando com seu produto."
+    }
+  ]
+}

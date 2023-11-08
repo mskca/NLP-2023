@@ -1,0 +1,95 @@
+{
+  "dialogo": [
+    {
+      "nome": "Maria",
+      "genero": "F",
+      "tipo": "usuario",
+      "fala": "Olá, estou com um problema no meu produto.",
+      "RG": "22.323.081-9"
+    },
+    {
+      "nome": "José",
+      "genero": "M",
+      "tipo": "atendente",
+      "fala": "Olá, Maria. Como posso te ajudar hoje? Por favor, me informe o seu RG novamente.",
+      "RG": "22.323.081-9"
+    },
+    {
+      "nome": "Maria",
+      "genero": "F",
+      "tipo": "usuario",
+      "fala": "Claro! Meu RG é 22.323.081-9.",
+      "RG": "22.323.081-9"
+    },
+    {
+      "nome": "José",
+      "genero": "M",
+      "tipo": "atendente",
+      "fala": "Obrigado, Maria. Agora, por favor, descreva qual é o problema com o seu produto.",
+      "RG": "22.323.081-9"
+    },
+    {
+      "nome": "Maria",
+      "genero": "F",
+      "tipo": "usuario",
+      "fala": "Eu comprei um celular e ele não está ligando. Preciso de ajuda para resolver essa questão.",
+      "RG": "22.323.081-9"
+    },
+    {
+      "nome": "José",
+      "genero": "M",
+      "tipo": "atendente",
+      "fala": "Entendo, Maria. Vou verificar nossos registros e identificar a melhor solução para o seu problema. Por favor, aguarde um momento.",
+      "RG": "22.323.081-9"
+    },
+    {
+      "nome": "José",
+      "genero": "M",
+      "tipo": "atendente",
+      "fala": "Maria, nosso sistema indica que o seu celular ainda está dentro do período de garantia. Vou providenciar a abertura de um chamado técnico para que possamos resolver o seu problema o mais rápido possível.",
+      "RG": "22.323.081-9"
+    },
+    {
+      "nome": "José",
+      "genero": "M",
+      "tipo": "atendente",
+      "fala": "Será necessário levar o celular até uma de nossas assistências técnicas autorizadas para que possamos realizar os reparos necessários. Gostaria que eu fornecesse o endereço da assistência mais próxima?",
+      "RG": "22.323.081-9"
+    },
+    {
+      "nome": "Maria",
+      "genero": "F",
+      "tipo": "usuario",
+      "fala": "Sim, por favor. Pode me passar o endereço?",
+      "RG": "22.323.081-9"
+    },
+    {
+      "nome": "José",
+      "genero": "M",
+      "tipo": "atendente",
+      "fala": "Claro, vou fornecer o endereço da assistência para você. Aguarde um momento, por favor.",
+      "RG": "22.323.081-9"
+    },
+    {
+      "nome": "José",
+      "genero": "M",
+      "tipo": "atendente",
+      "fala": "A assistência técnica mais próxima de você fica na Rua do Suporte, número 123. É importante lembrar que você deve levar o celular juntamente com a nota fiscal de compra para agilizar o processo.",
+      "RG": "22.323.081-9"
+    },
+    {
+      "nome": "Maria",
+      "genero": "F",
+      "tipo": "usuario",
+      "fala": "Perfeito! Anotei todas as informações. Muito obrigada pela sua ajuda, José.",
+      "RG": "22.323.081-9"
+    },
+    {
+      "nome": "José",
+      "genero": "M",
+      "tipo": "atendente",
+      "fala": "Eu que agradeço, Maria. Espero que seu problema seja resolvido rapidamente. Caso tenha mais alguma dúvida ou precise de qualquer outra assistência, não hesite em entrar em contato novamente.",
+      "RG": "22.323.081-9"
+    }
+  ]
+}

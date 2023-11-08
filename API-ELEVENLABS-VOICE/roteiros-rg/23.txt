@@ -1,0 +1,82 @@
+{
+  "dialogo": [
+    {
+      "nome": "Juliana",
+      "genero": "F",
+      "tipo": "usuario",
+      "fala": "Olá, preciso de ajuda com o meu produto."
+    },
+    {
+      "nome": "Rodrigo",
+      "genero": "M",
+      "tipo": "atendente",
+      "fala": "Olá, Juliana! Eu sou o Rodrigo e estou aqui para ajudá-la. Qual é o problema que está enfrentando?"
+    },
+    {
+      "nome": "Juliana",
+      "genero": "F",
+      "tipo": "usuario",
+      "fala": "Meu produto parou de funcionar de repente. O que posso fazer?"
+    },
+    {
+      "nome": "Rodrigo",
+      "genero": "M",
+      "tipo": "atendente",
+      "fala": "Vou precisar do RG do produto para localizar o seu registro. Você poderia me informar o número do RG?"
+    },
+    {
+      "nome": "Juliana",
+      "genero": "F",
+      "tipo": "usuario",
+      "fala": "Claro, o número do RG é 16.801.604-7."
+    },
+    {
+      "nome": "Rodrigo",
+      "genero": "M",
+      "tipo": "atendente",
+      "fala": "Perfeito, obrigado, Juliana. Vou verificar os dados do seu produto. Aguarde um momento, por favor."
+    },
+    {
+      "nome": "Rodrigo",
+      "genero": "M",
+      "tipo": "atendente",
+      "fala": "Juliana, verifiquei o seu registro e identifiquei o problema. Vou orientá-la sobre as possíveis soluções."
+    },
+    {
+      "nome": "Juliana",
+      "genero": "F",
+      "tipo": "usuario",
+      "fala": "Muito obrigada, Rodrigo! Estou aguardando as orientações."
+    },
+    {
+      "nome": "Rodrigo",
+      "genero": "M",
+      "tipo": "atendente",
+      "fala": "Juliana, você precisa realizar um reset no seu produto. Para isso, pressione os botões A e B simultaneamente e aguarde 10 segundos."
+    },
+    {
+      "nome": "Juliana",
+      "genero": "F",
+      "tipo": "usuario",
+      "fala": "Fiz o reset, Rodrigo. E agora?"
+    },
+    {
+      "nome": "Rodrigo",
+      "genero": "M",
+      "tipo": "atendente",
+      "fala": "Ótimo, Juliana! Agora, teste o funcionamento do produto. Se o problema persistir, entre em contato conosco novamente."
+    },
+    {
+      "nome": "Juliana",
+      "genero": "F",
+      "tipo": "usuario",
+      "fala": "Muito obrigada pela sua ajuda, Rodrigo! Farei o teste e, se precisar, entrarei em contato novamente."
+    },
+    {
+      "nome": "Rodrigo",
+      "genero": "M",
+      "tipo": "atendente",
+      "fala": "Eu que agradeço, Juliana! Estamos sempre à disposição para ajudá-la. Tenha um ótimo dia!"
+    }
+  ]
+}

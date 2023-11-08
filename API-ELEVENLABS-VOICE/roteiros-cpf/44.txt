@@ -1,0 +1,76 @@
+{
+  "dialogo": [
+    {
+      "nome": "Alice",
+      "genero": "F",
+      "tipo": "usuario",
+      "fala": "Olá, estou precisando de ajuda com o meu produto."
+    },
+    {
+      "nome": "John",
+      "genero": "M",
+      "tipo": "atendente",
+      "fala": "Olá, sou o atendente John. Em que posso ajudar você hoje?"
+    },
+    {
+      "nome": "Alice",
+      "genero": "F",
+      "tipo": "usuario",
+      "fala": "Eu estou com um problema na minha conta. Meu CPF é 802.009.780-55."
+    },
+    {
+      "nome": "John",
+      "genero": "M",
+      "tipo": "atendente",
+      "fala": "Certo, vou verificar os dados da sua conta. Por favor, aguarde um momento."
+    },
+    {
+      "nome": "Alice",
+      "genero": "F",
+      "tipo": "usuario",
+      "fala": "Claro, sem problemas."
+    },
+    {
+      "nome": "John",
+      "genero": "M",
+      "tipo": "atendente",
+      "fala": "Após verificar o seu cadastro, identifiquei o problema. O seu CPF está bloqueado temporariamente por questões de segurança. Vou precisar confirmar algumas informações adicionais para desbloqueá-lo, tudo bem?"
+    },
+    {
+      "nome": "Alice",
+      "genero": "F",
+      "tipo": "usuario",
+      "fala": "Tudo bem, estou à disposição. O que preciso fazer?"
+    },
+    {
+      "nome": "John",
+      "genero": "M",
+      "tipo": "atendente",
+      "fala": "Preciso que você confirme o número de telefone cadastrado no seu CPF 802.009.780-55, por favor."
+    },
+    {
+      "nome": "Alice",
+      "genero": "F",
+      "tipo": "usuario",
+      "fala": "Claro, o número é (11) 98765-4321."
+    },
+    {
+      "nome": "John",
+      "genero": "M",
+      "tipo": "atendente",
+      "fala": "Perfeito, agora vou solicitar o desbloqueio do seu CPF. Em até 24 horas, você receberá um e-mail com mais informações sobre o procedimento e as medidas de segurança que deve tomar. Alguma outra dúvida que eu possa ajudar?"
+    },
+    {
+      "nome": "Alice",
+      "genero": "F",
+      "tipo": "usuario",
+      "fala": "Não, era só isso mesmo. Obrigada pela ajuda, John!"
+    },
+    {
+      "nome": "John",
+      "genero": "M",
+      "tipo": "atendente",
+      "fala": "Disponha, estou aqui para ajudar. Se surgir qualquer outra questão, é só entrar em contato. Tenha um ótimo dia, Alice!"
+    }
+  ]
+}

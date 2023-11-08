@@ -1,0 +1,88 @@
+{
+  "dialogo": [
+    {
+      "nome": "Ana",
+      "genero": "F",
+      "tipo": "usuario",
+      "fala": "Olá, eu estou com um problema no meu computador."
+    },
+    {
+      "nome": "Roberto",
+      "genero": "M",
+      "tipo": "atendente",
+      "fala": "Boa tarde, Ana. Em que posso ajudar?"
+    },
+    {
+      "nome": "Ana",
+      "genero": "F",
+      "tipo": "usuario",
+      "fala": "Estou com dificuldades para acessar a internet. Já reiniciei o roteador mas não resolveu."
+    },
+    {
+      "nome": "Roberto",
+      "genero": "M",
+      "tipo": "atendente",
+      "fala": "Vou verificar algumas informações para te ajudar melhor. Pode me informar o CPF? Está registrado como 367.074.700-19."
+    },
+    {
+      "nome": "Ana",
+      "genero": "F",
+      "tipo": "usuario",
+      "fala": "Sim, esse é o meu CPF."
+    },
+    {
+      "nome": "Roberto",
+      "genero": "M",
+      "tipo": "atendente",
+      "fala": "Obrigado, Ana. Agora, vamos tentar algumas soluções. Por favor, verifique se todos os cabos do roteador estão devidamente conectados."
+    },
+    {
+      "nome": "Ana",
+      "genero": "F",
+      "tipo": "usuario",
+      "fala": "Já verifiquei e estão todos conectados corretamente."
+    },
+    {
+      "nome": "Roberto",
+      "genero": "M",
+      "tipo": "atendente",
+      "fala": "Ótimo. Agora, desligue o roteador da energia e aguarde cerca de 30 segundos antes de ligá-lo novamente."
+    },
+    {
+      "nome": "Ana",
+      "genero": "F",
+      "tipo": "usuario",
+      "fala": "Ok, fiz isso. Mas ainda não consigo acessar a internet."
+    },
+    {
+      "nome": "Roberto",
+      "genero": "M",
+      "tipo": "atendente",
+      "fala": "Vamos tentar um reset no roteador então. Há um pequeno botão na parte de trás. Pressione e segure por 10 segundos, até as luzes piscarem."
+    },
+    {
+      "nome": "Ana",
+      "genero": "F",
+      "tipo": "usuario",
+      "fala": "Feito, as luzes piscaram. Mas ainda nada."
+    },
+    {
+      "nome": "Roberto",
+      "genero": "M",
+      "tipo": "atendente",
+      "fala": "Peço desculpas pelo inconveniente. Vou agendar o envio de um técnico para verificar o seu roteador pessoalmente. Em breve, entraremos em contato para agendar uma visita."
+    },
+    {
+      "nome": "Ana",
+      "genero": "F",
+      "tipo": "usuario",
+      "fala": "Ok, obrigada pela ajuda!"
+    },
+    {
+      "nome": "Roberto",
+      "genero": "M",
+      "tipo": "atendente",
+      "fala": "Disponha, Ana. Estamos aqui para ajudar. Qualquer outra dúvida, estou à disposição."
+    }
+  ]
+}

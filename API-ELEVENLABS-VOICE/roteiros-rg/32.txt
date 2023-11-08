@@ -1,0 +1,64 @@
+{
+  "dialogo": [
+    {
+      "nome": "Lúcia",
+      "genero": "F",
+      "tipo": "usuário",
+      "fala": "Olá, estou tendo problemas com minha conta. Pode me ajudar?"
+    },
+    {
+      "nome": "Rafael",
+      "genero": "M",
+      "tipo": "atendente",
+      "fala": "Claro, vou fazer o possível para ajudar. Preciso do seu RG para verificar suas informações, por favor."
+    },
+    {
+      "nome": "Lúcia",
+      "genero": "F",
+      "tipo": "usuário",
+      "fala": "Meu RG é 48.849.757-7."
+    },
+    {
+      "nome": "Rafael",
+      "genero": "M",
+      "tipo": "atendente",
+      "fala": "Obrigado pelo seu RG. Agora, por favor, descreva o problema com mais detalhes."
+    },
+    {
+      "nome": "Lúcia",
+      "genero": "F",
+      "tipo": "usuário",
+      "fala": "Estou tendo dificuldades para acessar minha conta online. A senha não está funcionando."
+    },
+    {
+      "nome": "Rafael",
+      "genero": "M",
+      "tipo": "atendente",
+      "fala": "Entendo, vou verificar seu caso. Por favor, aguarde um momento."
+    },
+    {
+      "nome": "Rafael",
+      "genero": "M",
+      "tipo": "atendente",
+      "fala": "Encontrei o problema. Parece que houve um bloqueio temporário da sua conta devido a várias tentativas de login malsucedidas. Vou desbloqueá-la para você."
+    },
+    {
+      "nome": "Rafael",
+      "genero": "M",
+      "tipo": "atendente",
+      "fala": "Pronto, sua conta está desbloqueada. Por favor, tente efetuar o login novamente e verifique se tudo está funcionando corretamente."
+    },
+    {
+      "nome": "Lúcia",
+      "genero": "F",
+      "tipo": "usuário",
+      "fala": "Muito obrigada pela ajuda! Vou tentar agora mesmo."
+    },
+    {
+      "nome": "Rafael",
+      "genero": "M",
+      "tipo": "atendente",
+      "fala": "De nada, Lúcia! Estou aqui para ajudar. Caso tenha mais alguma dúvida ou problema, não hesite em entrar em contato conosco novamente. Tenha um bom dia!"
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+{
+    "dialogo": [
+        {
+            "nome": "Ana",
+            "genero": "F",
+            "tipo": "usuario",
+            "fala": "Olá, estou com um problema no meu computador. Poderia me ajudar?"
+        },
+        {
+            "nome": "João",
+            "genero": "M",
+            "tipo": "atendente",
+            "fala": "Claro, Ana! Eu ficarei feliz em ajudar. Poderia me informar o seu CPF para que eu possa verificar seus dados?"
+        },
+        {
+            "nome": "Ana",
+            "genero": "F",
+            "tipo": "usuario",
+            "fala": "Claro, meu CPF é 639.200.040-27."
+        },
+        {
+            "nome": "João",
+            "genero": "M",
+            "tipo": "atendente",
+            "fala": "Obrigado, Ana. Agora me diga qual é o problema que você está enfrentando com o seu computador?"
+        },
+        {
+            "nome": "Ana",
+            "genero": "F",
+            "tipo": "usuario",
+            "fala": "O computador está travando constantemente e fica muito lento, mesmo depois de reiniciar."
+        },
+        {
+            "nome": "João",
+            "genero": "M",
+            "tipo": "atendente",
+            "fala": "Entendo, Ana. Vamos tentar solucionar esse problema. Você já verificou se há algum programa ou processo consumindo muita memória?"
+        },
+        {
+            "nome": "Ana",
+            "genero": "F",
+            "tipo": "usuario",
+            "fala": "Sim, eu chequei e não encontrei nenhum programa específico consumindo muita memória."
+        },
+        {
+            "nome": "João",
+            "genero": "M",
+            "tipo": "atendente",
+            "fala": "Certo, nesse caso, podemos tentar realizar uma limpeza de disco para liberar espaço e verificar se há algum arquivo corrompido. Você gostaria que eu te guiasse pelo processo?"
+        },
+        {
+            "nome": "Ana",
+            "genero": "F",
+            "tipo": "usuario",
+            "fala": "Sim, por favor, me guie nesse processo. Estou disposta a tentar qualquer coisa."
+        },
+        {
+            "nome": "João",
+            "genero": "M",
+            "tipo": "atendente",
+            "fala": "Perfeito! Vou te fornecer as instruções passo a passo para a limpeza de disco. Primeiro, clique com o botão direito no ícone do Disco Local (C:) em Meu Computador e escolha Propriedades."
+        },
+        {
+            "nome": "Ana",
+            "genero": "F",
+            "tipo": "usuario",
+            "fala": "Ok, encontrei as Propriedades do Disco Local (C:)."
+        },
+        {
+            "nome": "João",
+            "genero": "M",
+            "tipo": "atendente",
+            "fala": "Agora, na guia Geral, clique no botão 'Limpar disco' para iniciar a limpeza."
+        },
+        {
+            "nome": "Ana",
+            "genero": "F",
+            "tipo": "usuario",
+            "fala": "Entendi, cliquei em 'Limpar disco'."
+        },
+        {
+            "nome": "João",
+            "genero": "M",
+            "tipo": "atendente",
+            "fala": "Ótimo! Agora aguarde enquanto o sistema calcula quanto espaço pode ser liberado. Em seguida, marque as caixas dos arquivos desnecessários que você deseja remover e clique em 'OK'."
+        },
+        {
+            "nome": "Ana",
+            "genero": "F",
+            "tipo": "usuario",
+            "fala": "Feito! Marquei todas as caixas e cliquei em 'OK'."
+        },
+        {
+            "nome": "João",
+            "genero": "M",
+            "tipo": "atendente",
+            "fala": "Perfeito, Ana! Agora o sistema irá realizar a limpeza de disco. Isso pode levar alguns minutos, então, por favor, aguarde."
+        },
+        {
+            "nome": "Ana",
+            "genero": "F",
+            "tipo": "usuario",
+            "fala": "Certo, vou aguardar a conclusão da limpeza de disco."
+        },
+        {
+            "nome": "João",
+            "genero": "M",
+            "tipo": "atendente",
+            "fala": "Pronto, Ana! A limpeza de disco foi concluída com sucesso. Agora, por favor, reinicie o seu computador para que as alterações tenham efeito."
+        }
+    ]
+}

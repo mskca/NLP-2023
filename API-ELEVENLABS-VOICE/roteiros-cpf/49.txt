@@ -1,0 +1,118 @@
+{
+  "dialogo": [
+    {
+      "nome": "Luciana",
+      "genero": "F",
+      "tipo": "usuario",
+      "fala": "Olá, estou precisando de ajuda com o meu produto."
+    },
+    {
+      "nome": "Roberto",
+      "genero": "M",
+      "tipo": "atendente",
+      "fala": "Olá, Luciana. Como posso te ajudar hoje?"
+    },
+    {
+      "nome": "Luciana",
+      "genero": "F",
+      "tipo": "usuario",
+      "fala": "Estou com problemas para ligar o meu aparelho. Poderia me orientar?"
+    },
+    {
+      "nome": "Roberto",
+      "genero": "M",
+      "tipo": "atendente",
+      "fala": "Claro! Vou precisar do seu CPF para acessar o seu cadastro, por favor."
+    },
+    {
+      "nome": "Luciana",
+      "genero": "F",
+      "tipo": "usuario",
+      "fala": "Meu CPF é 220.304.710-03."
+    },
+    {
+      "nome": "Roberto",
+      "genero": "M",
+      "tipo": "atendente",
+      "fala": "Obrigado, Luciana. Agora, vamos verificar o problema do seu aparelho."
+    },
+    {
+      "nome": "Luciana",
+      "genero": "F",
+      "tipo": "usuario",
+      "fala": "Ótimo, estou aguardando."
+    },
+    {
+      "nome": "Roberto",
+      "genero": "M",
+      "tipo": "atendente",
+      "fala": "Verifique se todas as conexões estão corretamente encaixadas. Alguma luz ou indicador está aceso no aparelho?"
+    },
+    {
+      "nome": "Luciana",
+      "genero": "F",
+      "tipo": "usuario",
+      "fala": "As conexões parecem estar corretas, mas não vejo nenhuma luz acesa."
+    },
+    {
+      "nome": "Roberto",
+      "genero": "M",
+      "tipo": "atendente",
+      "fala": "Nesse caso, vamos proceder com um reset no aparelho. Por favor, desligue-o da tomada e aguarde 30 segundos antes de ligá-lo novamente."
+    },
+    {
+      "nome": "Luciana",
+      "genero": "F",
+      "tipo": "usuario",
+      "fala": "Tudo bem, vou fazer o reset agora."
+    },
+    {
+      "nome": "Roberto",
+      "genero": "M",
+      "tipo": "atendente",
+      "fala": "Ótimo! Após ligá-lo novamente, me informe se algum indicador se acendeu ou se o problema persiste."
+    },
+    {
+      "nome": "Luciana",
+      "genero": "F",
+      "tipo": "usuario",
+      "fala": "Acabei de ligar novamente, mas ainda não há nenhuma luz acesa."
+    },
+    {
+      "nome": "Roberto",
+      "genero": "M",
+      "tipo": "atendente",
+      "fala": "Peço desculpas pela inconveniência. Nesse caso, vou agendar uma visita técnica para verificar presencialmente o seu aparelho. Podemos marcar para amanhã às 10h? Confirmo o endereço cadastrado: Rua das Flores, número 123, bairro Centro, cidade São Paulo?"
+    },
+    {
+      "nome": "Luciana",
+      "genero": "F",
+      "tipo": "usuario",
+      "fala": "Sim, esse é o meu endereço. Amanhã às 10h está perfeito."
+    },
+    {
+      "nome": "Roberto",
+      "genero": "M",
+      "tipo": "atendente",
+      "fala": "Perfeito, Luciana. O técnico estará aí amanhã às 10h para resolver o problema do seu aparelho. Mais alguma dúvida ou alguma outra questão que eu possa ajudar?"
+    },
+    {
+      "nome": "Luciana",
+      "genero": "F",
+      "tipo": "usuario",
+      "fala": "Não, por enquanto está tudo bem. Agradeço a sua ajuda!"
+    },
+    {
+      "nome": "Roberto",
+      "genero": "M",
+      "tipo": "atendente",
+      "fala": "Eu que agradeço, Luciana. Qualquer coisa, fique à vontade para entrar em contato novamente. Tenha um ótimo dia!"
+    },
+    {
+      "nome": "Luciana",
+      "genero": "F",
+      "tipo": "usuario",
+      "fala": "Obrigada, você também!"
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "dialogo": [
+    {
+      "nome": "Atendente",
+      "genero": "M",
+      "tipo": "atendente",
+      "fala": "Bom dia, meu nome é Carlos. Como posso ajudá-lo hoje?"
+    },
+    {
+      "nome": "Usuário",
+      "genero": "F",
+      "tipo": "usuario",
+      "fala": "Olá, Carlos! Meu nome é Isabela. Estou com um problema no meu produto, pode me ajudar?"
+    },
+    {
+      "nome": "Atendente",
+      "genero": "M",
+      "tipo": "atendente",
+      "fala": "Olá, Isabela! Claro, estou à disposição para ajudá-la. Por favor, me informe o seu CPF."
+    },
+    {
+      "nome": "Usuário",
+      "genero": "F",
+      "tipo": "usuario",
+      "fala": "Meu CPF é 159.557.220-17."
+    },
+    {
+      "nome": "Atendente",
+      "genero": "M",
+      "tipo": "atendente",
+      "fala": "Obrigado por fornecer seu CPF, Isabela. Agora, por favor, descreva qual é o problema que está enfrentando com o produto."
+    },
+    {
+      "nome": "Usuário",
+      "genero": "F",
+      "tipo": "usuario",
+      "fala": "O botão de ligar/desligar do aparelho não está funcionando corretamente. O que devo fazer?"
+    },
+    {
+      "nome": "Atendente",
+      "genero": "M",
+      "tipo": "atendente",
+      "fala": "Entendo, Isabela. Para resolvermos esse problema, eu sugiro que você faça um reset no aparelho. Você sabe como realizar essa ação?"
+    },
+    {
+      "nome": "Usuário",
+      "genero": "F",
+      "tipo": "usuario",
+      "fala": "Eu não tenho certeza de como fazer isso. Pode me orientar?"
+    },
+    {
+      "nome": "Atendente",
+      "genero": "M",
+      "tipo": "atendente",
+      "fala": "Claro, Isabela! Para realizar o reset, você precisará localizar o botão de reset no aparelho e mantê-lo pressionado por cerca de 10 segundos. Geralmente, esse botão é pequeno e está localizado na parte de trás do dispositivo."
+    },
+    {
+      "nome": "Usuário",
+      "genero": "F",
+      "tipo": "usuario",
+      "fala": "Entendi, Carlos. Vou tentar fazer o reset. Obrigada pela ajuda!"
+    },
+    {
+      "nome": "Atendente",
+      "genero": "M",
+      "tipo": "atendente",
+      "fala": "De nada, Isabela! Fico feliz em poder ajudar. Se tiver mais alguma dúvida, não hesite em entrar em contato novamente. Tenha um ótimo dia!"
+    }
+  ]
+}

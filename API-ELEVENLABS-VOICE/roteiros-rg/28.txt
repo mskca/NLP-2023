@@ -1,0 +1,154 @@
+{
+  "dialogo":[
+   {
+      "nome":"Daniel Oliveira",
+      "genero":"M",
+      "tipo":"atendente",
+      "fala":"Bom dia, meu nome é Daniel Oliveira e sou seu atendente hoje. Em que posso ajudar?"
+   },
+   {
+      "nome":"Ana Lopes",
+      "genero":"F",
+      "tipo":"usuario",
+      "fala":"Olá, meu nome é Ana Lopes. Estou com um problema no meu computador."
+   },
+   {
+      "nome":"Daniel Oliveira",
+      "genero":"M",
+      "tipo":"atendente",
+      "fala":"Certo, Ana. Vamos resolver isso. Poderia me fornecer seu RG para identificação?"
+   },
+   {
+      "nome":"Ana Lopes",
+      "genero":"F",
+      "tipo":"usuario",
+      "fala":"Claro, meu RG é 12.418.976-3"
+   },
+   {
+      "nome":"Daniel Oliveira",
+      "genero":"M",
+      "tipo":"atendente",
+      "fala":"Obrigado, Ana. Agora me diga qual é o problema que você está enfrentando."
+   },
+   {
+      "nome":"Ana Lopes",
+      "genero":"F",
+      "tipo":"usuario",
+      "fala":"Estou com dificuldades para acessar a internet pelo meu computador"
+   },
+   {
+      "nome":"Daniel Oliveira",
+      "genero":"M",
+      "tipo":"atendente",
+      "fala":"Entendo, Ana. Vou te guiar em alguns passos para solucionar o problema. Primeiro, vamos verificar se todas as conexões estão corretas."
+   },
+   {
+      "nome":"Ana Lopes",
+      "genero":"F",
+      "tipo":"usuario",
+      "fala":"Certo, verifiquei todas as conexões e estão todas bem encaixadas."
+   },
+   {
+      "nome":"Daniel Oliveira",
+      "genero":"M",
+      "tipo":"atendente",
+      "fala":"Ótimo, Ana. Agora, vamos reiniciar o seu modem. Desligue-o da tomada, espere 30 segundos e depois ligue novamente."
+   },
+   {
+      "nome":"Ana Lopes",
+      "genero":"F",
+      "tipo":"usuario",
+      "fala":"Ok, reiniciei o modem como você orientou. Ainda não está funcionando."
+   },
+   {
+      "nome":"Daniel Oliveira",
+      "genero":"M",
+      "tipo":"atendente",
+      "fala":"Hmm, entendo, Ana. Vamos tentar reconfigurar o seu computador para se conectar ao modem novamente. Pode me informar qual sistema operacional você está usando?"
+   },
+   {
+      "nome":"Ana Lopes",
+      "genero":"F",
+      "tipo":"usuario",
+      "fala":"Estou usando o sistema operacional Windows 10."
+   },
+   {
+      "nome":"Daniel Oliveira",
+      "genero":"M",
+      "tipo":"atendente",
+      "fala":"Perfeito, Ana. Vou te guiar no processo de reconfiguração da rede. Primeiro, clique no ícone de rede na barra de tarefas."
+   },
+   {
+      "nome":"Ana Lopes",
+      "genero":"F",
+      "tipo":"usuario",
+      "fala":"Certo, cliquei no ícone de rede."
+   },
+   {
+      "nome":"Daniel Oliveira",
+      "genero":"M",
+      "tipo":"atendente",
+      "fala":"Agora, clique em 'Configurações de Rede e Internet' e depois em 'Wi-Fi'."
+   },
+   {
+      "nome":"Ana Lopes",
+      "genero":"F",
+      "tipo":"usuario",
+      "fala":"Encontrei as configurações de rede e estou na opção 'Wi-Fi'."
+   },
+   {
+      "nome":"Daniel Oliveira",
+      "genero":"M",
+      "tipo":"atendente",
+      "fala":"Ótimo, Ana. Agora, clique em 'Gerenciar Redes Conhecidas' e encontre a rede que você está tentando conectar."
+   },
+   {
+      "nome":"Ana Lopes",
+      "genero":"F",
+      "tipo":"usuario",
+      "fala":"Encontrei a rede. E agora?"
+   },
+   {
+      "nome":"Daniel Oliveira",
+      "genero":"M",
+      "tipo":"atendente",
+      "fala":"Clique com o botão direito do mouse na rede e selecione 'Esquecer'."
+   },
+   {
+      "nome":"Ana Lopes",
+      "genero":"F",
+      "tipo":"usuario",
+      "fala":"Certo, esqueci a rede."
+   },
+   {
+      "nome":"Daniel Oliveira",
+      "genero":"M",
+      "tipo":"atendente",
+      "fala":"Agora, Ana, clique novamente no ícone de rede e selecione a sua rede. Informe a senha quando solicitado."
+   },
+   {
+      "nome":"Ana Lopes",
+      "genero":"F",
+      "tipo":"usuario",
+      "fala":"Fiz o procedimento como você explicou. Agora estou conectada à rede sem fio novamente!"
+   },
+   {
+      "nome":"Daniel Oliveira",
+      "genero":"M",
+      "tipo":"atendente",
+      "fala":"Ótimo trabalho, Ana! Fico feliz em ter te ajudado a resolver o problema. Alguma outra dúvida que eu possa ajudar?"
+   },
+   {
+      "nome":"Ana Lopes",
+      "genero":"F",
+      "tipo":"usuario",
+      "fala":"Não, Daniel. Muito obrigada pelo suporte! Tenha um ótimo dia!"
+   },
+   {
+      "nome":"Daniel Oliveira",
+      "genero":"M",
+      "tipo":"atendente",
+      "fala":"O prazer foi todo meu, Ana. Tenha um excelente dia também!"
+   }
+]
+}

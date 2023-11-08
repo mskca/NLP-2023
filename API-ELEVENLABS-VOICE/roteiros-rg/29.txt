@@ -1,0 +1,106 @@
+{
+  "dialogo": [
+    {
+      "nome": "Rafaela",
+      "genero": "F",
+      "tipo": "usuario",
+      "fala": "Olá, estou com um problema no meu dispositivo. Pode me ajudar?"
+    },
+    {
+      "nome": "Alex",
+      "genero": "M",
+      "tipo": "atendente",
+      "fala": "Claro, Rafaela! Com certeza posso ajudar. Pode me informar o RG para que eu possa localizar seu cadastro?"
+    },
+    {
+      "nome": "Rafaela",
+      "genero": "F",
+      "tipo": "usuario",
+      "fala": "Meu RG é 13.367.862-3."
+    },
+    {
+      "nome": "Alex",
+      "genero": "M",
+      "tipo": "atendente",
+      "fala": "Obrigado, Rafaela, vou checar suas informações. Qual é o problema que você está enfrentando com seu dispositivo?"
+    },
+    {
+      "nome": "Rafaela",
+      "genero": "F",
+      "tipo": "usuario",
+      "fala": "Está com um mau funcionamento na câmera. As fotos estão saindo borradas."
+    },
+    {
+      "nome": "Alex",
+      "genero": "M",
+      "tipo": "atendente",
+      "fala": "Entendo, Rafaela. Vou verificar algumas soluções possíveis para o seu problema. Por favor, aguarde um momento."
+    },
+    {
+      "nome": "Alex",
+      "genero": "M",
+      "tipo": "atendente",
+      "fala": "Rafaela, você já tentou reiniciar o dispositivo ou fazer alguma atualização?"
+    },
+    {
+      "nome": "Rafaela",
+      "genero": "F",
+      "tipo": "usuario",
+      "fala": "Sim, já fiz essas tentativas, mas o problema persiste."
+    },
+    {
+      "nome": "Alex",
+      "genero": "M",
+      "tipo": "atendente",
+      "fala": "Compreendo, Rafaela. Vamos tentar outra abordagem, você se importa se eu te passar algumas instruções? Vou te guiar por alguns passos para tentarmos resolver essa questão juntos."
+    },
+    {
+      "nome": "Rafaela",
+      "genero": "F",
+      "tipo": "usuario",
+      "fala": "Claro, estou disposta a tentar qualquer coisa para resolver o problema."
+    },
+    {
+      "nome": "Alex",
+      "genero": "M",
+      "tipo": "atendente",
+      "fala": "Ótimo! Primeiro, vamos verificar se o aplicativo da câmera está atualizado. Você pode abrir a loja de aplicativos do seu dispositivo e procurar por atualizações para o aplicativo."
+    },
+    {
+      "nome": "Rafaela",
+      "genero": "F",
+      "tipo": "usuario",
+      "fala": "Ok, estou fazendo isso agora."
+    },
+    {
+      "nome": "Alex",
+      "genero": "M",
+      "tipo": "atendente",
+      "fala": "Perfeito, Rafaela! Enquanto você verifica as atualizações, você pode limpar a lente da câmera com um pano macio e sem fiapos. Muitas vezes, sujeira na lente pode causar a qualidade da imagem ruim."
+    },
+    {
+      "nome": "Rafaela",
+      "genero": "F",
+      "tipo": "usuario",
+      "fala": "Entendi, vou limpar a lente agora mesmo."
+    },
+    {
+      "nome": "Alex",
+      "genero": "M",
+      "tipo": "atendente",
+      "fala": "Ótimo, Rafaela! Agora que verificamos as atualizações do aplicativo e limpamos a lente da câmera, por favor, abra o aplicativo da câmera novamente e tente tirar uma foto para ver se melhorou."
+    },
+    {
+      "nome": "Rafaela",
+      "genero": "F",
+      "tipo": "usuario",
+      "fala": "Funcionou! Agora as fotos estão saindo nítidas. Muito obrigada pela ajuda, Alex!"
+    },
+    {
+      "nome": "Alex",
+      "genero": "M",
+      "tipo": "atendente",
+      "fala": "De nada, Rafaela! Fico feliz em ter ajudado. Se você tiver mais alguma dúvida ou problema, não hesite em me contatar. Tenha um ótimo dia!"
+    }
+  ]
+}

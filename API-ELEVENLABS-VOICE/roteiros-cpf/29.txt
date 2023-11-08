@@ -1,0 +1,65 @@
+
+{
+  "dialogo": [
+    {
+      "nome": "Luísa",
+      "genero": "F",
+      "tipo": "atendente",
+      "fala": "Olá! Bem-vindo ao suporte ao cliente. Como posso ajudar hoje?"
+    },
+    {
+      "nome": "Miguel",
+      "genero": "M",
+      "tipo": "usuario",
+      "fala": "Olá, Luísa. Estou com um problema no meu produto e preciso de ajuda."
+    },
+    {
+      "nome": "Luísa",
+      "genero": "F",
+      "tipo": "atendente",
+      "fala": "Claro, Miguel! Pode me informar o número do CPF cadastrado, por favor?"
+    },
+    {
+      "nome": "Miguel",
+      "genero": "M",
+      "tipo": "usuario",
+      "fala": "O meu CPF é 517.633.520-48."
+    },
+    {
+      "nome": "Luísa",
+      "genero": "F",
+      "tipo": "atendente",
+      "fala": "Obrigada, Miguel! Agora, por favor, descreva o problema que você está enfrentando."
+    },
+    {
+      "nome": "Miguel",
+      "genero": "M",
+      "tipo": "usuario",
+      "fala": "Recentemente adquiri um celular e ele está com problemas na câmera. As fotos saem todas borradas."
+    },
+    {
+      "nome": "Luísa",
+      "genero": "F",
+      "tipo": "atendente",
+      "fala": "Entendo, Miguel. Vou verificar o seu registro e as informações do aparelho. Um momento, por favor."
+    },
+    {
+      "nome": "Luísa",
+      "genero": "F",
+      "tipo": "atendente",
+      "fala": "Verifiquei aqui, Miguel. De acordo com o nosso sistema, você possui garantia e pode levar o aparelho à assistência técnica mais próxima. Eles poderão resolver esse problema para você."
+    },
+    {
+      "nome": "Miguel",
+      "genero": "M",
+      "tipo": "usuario",
+      "fala": "Ok, Luísa. Muito obrigado pela ajuda!"
+    },
+    {
+      "nome": "Luísa",
+      "genero": "F",
+      "tipo": "atendente",
+      "fala": "Por nada, Miguel! Estamos aqui para te ajudar. Qualquer outra dúvida, é só entrar em contato novamente. Tenha um bom dia!"
+    }
+  ]
+}

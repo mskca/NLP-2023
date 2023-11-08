@@ -1,0 +1,88 @@
+{
+"dialogo": [
+    {
+        "nome": "Alice",
+        "genero": "F",
+        "tipo": "usuario",
+        "fala": "Olá, boa tarde! Meu nome é Alice, e estou com um problema no meu celular."
+    },
+    {
+        "nome": "Bruno",
+        "genero": "M",
+        "tipo": "atendente",
+        "fala": "Olá, Alice! Como posso te ajudar hoje? Poderia me fornecer seu CPF?"
+    },
+    {
+        "nome": "Alice",
+        "genero": "F",
+        "tipo": "usuario",
+        "fala": "Claro, meu CPF é 730.112.110-51."
+    },
+    {
+        "nome": "Bruno",
+        "genero": "M",
+        "tipo": "atendente",
+        "fala": "Obrigado, Alice! Agora, por favor, descreva o problema que você está enfrentando com seu celular."
+    },
+    {
+        "nome": "Alice",
+        "genero": "F",
+        "tipo": "usuario",
+        "fala": "Bom, o meu celular não está ligando. Já tentei carregar, mas ele não responde."
+    },
+    {
+        "nome": "Bruno",
+        "genero": "M",
+        "tipo": "atendente",
+        "fala": "Entendo, Alice. Vamos verificar algumas possíveis soluções. Primeiramente, você poderia tentar reiniciar o aparelho?"
+    },
+    {
+        "nome": "Alice",
+        "genero": "F",
+        "tipo": "usuario",
+        "fala": "Já tentei reiniciar, mas não adiantou."
+    },
+    {
+        "nome": "Bruno",
+        "genero": "M",
+        "tipo": "atendente",
+        "fala": "Certo, Alice. Vamos tentar um procedimento de reset. Para isso, preciso que você siga algumas etapas."
+    },
+    {
+        "nome": "Alice",
+        "genero": "F",
+        "tipo": "usuario",
+        "fala": "Ok, estou pronta para seguir suas instruções."
+    },
+    {
+        "nome": "Bruno",
+        "genero": "M",
+        "tipo": "atendente",
+        "fala": "Ótimo, Alice! Vamos pressionar os botões de volume mais o botão de ligar/desligar ao mesmo tempo por cerca de 10 segundos. Isso deve reiniciar seu aparelho."
+    },
+    {
+        "nome": "Alice",
+        "genero": "F",
+        "tipo": "usuario",
+        "fala": "Ok, fiz isso, mas meu celular ainda não liga."
+    },
+    {
+        "nome": "Bruno",
+        "genero": "M",
+        "tipo": "atendente",
+        "fala": "Entendo, Alice. Nesse caso, recomendo que você leve seu aparelho a uma assistência técnica autorizada, para que possam verificar o problema com mais detalhes."
+    },
+    {
+        "nome": "Alice",
+        "genero": "F",
+        "tipo": "usuario",
+        "fala": "Tudo bem, Bruno. Vou seguir sua recomendação então. Obrigada pela sua ajuda!"
+    },
+    {
+        "nome": "Bruno",
+        "genero": "M",
+        "tipo": "atendente",
+        "fala": "De nada, Alice! Espero que seu problema seja resolvido em breve. Se precisar de mais alguma ajuda, estaremos à disposição. Tenha um ótimo dia!"
+    }
+  ]
+}

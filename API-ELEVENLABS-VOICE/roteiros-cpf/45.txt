@@ -1,0 +1,64 @@
+{
+  "dialogo": [
+    {
+      "nome": "Fernanda Silva",
+      "genero": "F",
+      "tipo": "usuario",
+      "fala": "Olá, gostaria de registrar uma reclamação."
+    },
+    {
+      "nome": "Carlos Oliveira",
+      "genero": "M",
+      "tipo": "atendente",
+      "fala": "Claro, senhora. Como posso ajudá-la?"
+    },
+    {
+      "nome": "Fernanda Silva",
+      "genero": "F",
+      "tipo": "usuario",
+      "fala": "Gostaria de relatar um problema com um produto que comprei."
+    },
+    {
+      "nome": "Carlos Oliveira",
+      "genero": "M",
+      "tipo": "atendente",
+      "fala": "Entendo, senhora. Poderia fornecer seu CPF para que eu possa acessar suas informações?"
+    },
+    {
+      "nome": "Fernanda Silva",
+      "genero": "F",
+      "tipo": "usuario",
+      "fala": "Claro, meu CPF é 938.986.250-79."
+    },
+    {
+      "nome": "Carlos Oliveira",
+      "genero": "M",
+      "tipo": "atendente",
+      "fala": "Obrigado, senhora Silva. Poderia explicar qual é o problema com o produto?"
+    },
+    {
+      "nome": "Fernanda Silva",
+      "genero": "F",
+      "tipo": "usuario",
+      "fala": "Recebi o produto danificado e gostaria de solicitar uma troca."
+    },
+    {
+      "nome": "Carlos Oliveira",
+      "genero": "M",
+      "tipo": "atendente",
+      "fala": "Compreendo sua situação, senhora Silva. Vou registrar a reclamação e solicitar a troca do produto imediatamente."
+    },
+    {
+      "nome": "Fernanda Silva",
+      "genero": "F",
+      "tipo": "usuario",
+      "fala": "Ótimo, obrigada!"
+    },
+    {
+      "nome": "Carlos Oliveira",
+      "genero": "M",
+      "tipo": "atendente",
+      "fala": "Por nada, senhora Silva. Nossa equipe entrará em contato com você em breve para fornecer mais informações sobre a troca. Se precisar de algo adicional, estou à disposição."
+    }
+  ]
+}

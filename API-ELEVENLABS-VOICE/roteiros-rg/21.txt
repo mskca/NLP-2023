@@ -1,0 +1,64 @@
+{
+  "dialogo": [
+    {
+      "nome": "Hugo",
+      "genero": "M",
+      "tipo": "usuario",
+      "fala": "Olá, estou com um problema no meu produto."
+    },
+    {
+      "nome": "Larissa",
+      "genero": "F",
+      "tipo": "atendente",
+      "fala": "Boa tarde, Hugo. Em que posso ajudar?"
+    },
+    {
+      "nome": "Hugo",
+      "genero": "M",
+      "tipo": "usuario",
+      "fala": "Eu comprei o produto com o RG 16.349.573-7 e ele não está funcionando corretamente."
+    },
+    {
+      "nome": "Larissa",
+      "genero": "F",
+      "tipo": "atendente",
+      "fala": "Me desculpe, Hugo. Vamos resolver esse problema juntos. Poderia me dizer qual é o produto e qual é o defeito que está apresentando?"
+    },
+    {
+      "nome": "Hugo",
+      "genero": "M",
+      "tipo": "usuario",
+      "fala": "Claro! Eu comprei um celular modelo XPTO e ele está com a tela quebrada."
+    },
+    {
+      "nome": "Larissa",
+      "genero": "F",
+      "tipo": "atendente",
+      "fala": "Entendo, Hugo. Vamos realizar o processo de assistência técnica para a troca da tela. Peço que você nos envie o dispositivo para os devidos reparos. Você deseja receber um código de postagem gratuito?"
+    },
+    {
+      "nome": "Hugo",
+      "genero": "M",
+      "tipo": "usuario",
+      "fala": "Sim, por favor! Pode me enviar o código."
+    },
+    {
+      "nome": "Larissa",
+      "genero": "F",
+      "tipo": "atendente",
+      "fala": "Claro, Hugo! Já enviei para o seu e-mail cadastrado. Assim que receber o código, basta ir até uma agência dos Correios e enviar o celular para a nossa assistência técnica."
+    },
+    {
+      "nome": "Hugo",
+      "genero": "M",
+      "tipo": "usuario",
+      "fala": "Está bem, Larissa. Irei fazer isso o mais rápido possível. Obrigado pela ajuda!"
+    },
+    {
+      "nome": "Larissa",
+      "genero": "F",
+      "tipo": "atendente",
+      "fala": "Por nada, Hugo! Estamos aqui para auxiliá-lo. Qualquer dúvida, é só entrar em contato novamente. Tenha um ótimo dia!"
+    }
+  ]
+}

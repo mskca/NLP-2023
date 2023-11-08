@@ -1,0 +1,89 @@
+
+{
+    "dialogo":[
+  {
+    "nome": "Alexandre",
+    "genero": "M",
+    "tipo": "usuario",
+    "fala": "Olá, bom dia!"
+  },
+  {
+    "nome": "Ana",
+    "genero": "F",
+    "tipo": "atendente",
+    "fala": "Bom dia! Em que posso ajudar?"
+  },
+  {
+    "nome": "Alexandre",
+    "genero": "M",
+    "tipo": "usuario",
+    "fala": "Estou com um problema no meu produto. Poderia me ajudar?"
+  },
+  {
+    "nome": "Ana",
+    "genero": "F",
+    "tipo": "atendente",
+    "fala": "Com certeza! Qual é o número de RG cadastrado no seu perfil?"
+  },
+  {
+    "nome": "Alexandre",
+    "genero": "M",
+    "tipo": "usuario",
+    "fala": "Meu RG é 49.372.169-1."
+  },
+  {
+    "nome": "Ana",
+    "genero": "F",
+    "tipo": "atendente",
+    "fala": "Obrigada por fornecer seu RG. Agora, por favor, descreva detalhadamente qual é o problema que você está enfrentando."
+  },
+  {
+    "nome": "Alexandre",
+    "genero": "M",
+    "tipo": "usuario",
+    "fala": "O produto que comprei está com defeito e não está funcionando corretamente."
+  },
+  {
+    "nome": "Ana",
+    "genero": "F",
+    "tipo": "atendente",
+    "fala": "Sinto muito por isso. Vou verificar os registros e, enquanto isso, podemos realizar alguns testes para tentar solucionar o problema. Você já tentou reiniciar o produto?"
+  },
+  {
+    "nome": "Alexandre",
+    "genero": "M",
+    "tipo": "usuario",
+    "fala": "Sim, já tentei reiniciar, mas o problema persiste."
+  },
+  {
+    "nome": "Ana",
+    "genero": "F",
+    "tipo": "atendente",
+    "fala": "Entendo. Vamos prosseguir. Por favor, confirme seu endereço completo para que eu possa agendar o envio de um técnico para a sua residência."
+  },
+  {
+    "nome": "Alexandre",
+    "genero": "M",
+    "tipo": "usuario",
+    "fala": "Meu endereço é Rua das Flores, número 123, Bairro Centro, Cidade Nova."
+  },
+  {
+    "nome": "Ana",
+    "genero": "F",
+    "tipo": "atendente",
+    "fala": "Ótimo. Agendei o envio do técnico para a sua residência. Ele estará aí amanhã, pela manhã, entre às 10h e 12h. Alguma outra dúvida?"
+  },
+  {
+    "nome": "Alexandre",
+    "genero": "M",
+    "tipo": "usuario",
+    "fala": "Não, acredito que isso seja tudo. Obrigado pela sua ajuda!"
+  },
+  {
+    "nome": "Ana",
+    "genero": "F",
+    "tipo": "atendente",
+    "fala": "Eu que agradeço. Estamos sempre à disposição para ajudar. Tenha um ótimo dia!"
+  }
+]
+}

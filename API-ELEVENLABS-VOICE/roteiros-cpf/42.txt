@@ -1,0 +1,46 @@
+{
+  "dialogo": [
+    {
+      "nome": "Alice",
+      "genero": "F",
+      "tipo": "usuario",
+      "fala": "Olá, estou com problemas para acessar minha conta."
+    },
+    {
+      "nome": "Bob",
+      "genero": "M",
+      "tipo": "atendente",
+      "fala": "Olá, meu nome é Bob e eu vou te ajudar. Você pode me passar seu CPF, por favor?"
+    },
+    {
+      "nome": "Alice",
+      "genero": "F",
+      "tipo": "usuario",
+      "fala": "Claro, meu CPF é 960.053.750-08."
+    },
+    {
+      "nome": "Bob",
+      "genero": "M",
+      "tipo": "atendente",
+      "fala": "Obrigado, Alice. Vou verificar sua conta agora."
+    },
+    {
+      "nome": "Bob",
+      "genero": "M",
+      "tipo": "atendente",
+      "fala": "Encontrei seu cadastro, Alice. Parece que há um problema no sistema. Vou abrir um chamado para nossa equipe técnica resolver esse inconveniente."
+    },
+    {
+      "nome": "Alice",
+      "genero": "F",
+      "tipo": "usuario",
+      "fala": "Ok, obrigada pela ajuda, Bob. Fico no aguardo da solução."
+    },
+    {
+      "nome": "Bob",
+      "genero": "M",
+      "tipo": "atendente",
+      "fala": "De nada, Alice. Pedimos desculpas pelo transtorno causado. Assim que tivermos uma atualização, entraremos em contato com você. Tenha um ótimo dia!"
+    }
+  ]
+}

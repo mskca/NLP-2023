@@ -1,0 +1,100 @@
+{
+  "dialogo": [
+    {
+      "nome": "Fernanda",
+      "genero": "F",
+      "tipo": "atendente",
+      "fala": "Olá! Bem-vindo ao suporte técnico. Qual é o seu nome?"
+    },
+    {
+      "nome": "João",
+      "genero": "M",
+      "tipo": "usuario",
+      "fala": "Meu nome é João. Estou com um problema no meu dispositivo."
+    },
+    {
+      "nome": "Fernanda",
+      "genero": "F",
+      "tipo": "atendente",
+      "fala": "Oi, João! Em que posso ajudar? Por favor, me informe o CPF, no formato 902.695.520-06, para que eu possa localizar o seu registro."
+    },
+    {
+      "nome": "João",
+      "genero": "M",
+      "tipo": "usuario",
+      "fala": "Claro! O meu CPF é 902.695.520-06."
+    },
+    {
+      "nome": "Fernanda",
+      "genero": "F",
+      "tipo": "atendente",
+      "fala": "Perfeito, João! Agora me diga qual é o problema que você está enfrentando com o seu dispositivo?"
+    },
+    {
+      "nome": "João",
+      "genero": "M",
+      "tipo": "usuario",
+      "fala": "Estou com dificuldades para acessar a internet. Minha conexão cai constantemente."
+    },
+    {
+      "nome": "Fernanda",
+      "genero": "F",
+      "tipo": "atendente",
+      "fala": "Entendo, João. Irei verificar o seu histórico e verificar se há alguma instabilidade na sua região. Por favor, aguarde um momento."
+    },
+    {
+      "nome": "Fernanda",
+      "genero": "F",
+      "tipo": "atendente",
+      "fala": "João, não foi registrado nenhum problema de conexão na sua região. Vamos fazer alguns testes para identificar a origem do seu problema."
+    },
+    {
+      "nome": "João",
+      "genero": "M",
+      "tipo": "usuario",
+      "fala": "Tudo bem, estou disponível para fazer os testes necessários."
+    },
+    {
+      "nome": "Fernanda",
+      "genero": "F",
+      "tipo": "atendente",
+      "fala": "Primeiramente, preciso que você verifique se os cabos de conexão estão corretamente conectados ao seu dispositivo e ao modem."
+    },
+    {
+      "nome": "João",
+      "genero": "M",
+      "tipo": "usuario",
+      "fala": "Verifiquei os cabos e estão todos conectados corretamente."
+    },
+    {
+      "nome": "Fernanda",
+      "genero": "F",
+      "tipo": "atendente",
+      "fala": "Certo, João. Vou reiniciar remotamente o seu modem para tentar resolver o problema. Isso pode levar alguns minutos, por favor, aguarde."
+    },
+    {
+      "nome": "João",
+      "genero": "M",
+      "tipo": "usuario",
+      "fala": "Ok, vou aguardar."
+    },
+    {
+      "nome": "Fernanda",
+      "genero": "F",
+      "tipo": "atendente",
+      "fala": "Pronto, João! Reiniciei o seu modem. Por favor, verifique se a conexão melhorou após a reinicialização."
+    },
+    {
+      "nome": "João",
+      "genero": "M",
+      "tipo": "usuario",
+      "fala": "Ótimo! Parece que a conexão ficou estável agora. Muito obrigado pela ajuda!"
+    },
+    {
+      "nome": "Fernanda",
+      "genero": "F",
+      "tipo": "atendente",
+      "fala": "Fico feliz em ajudar, João! Se você tiver mais alguma dúvida ou problema, não hesite em entrar em contato conosco novamente. Tenha um ótimo dia!"
+    }
+  ]
+}

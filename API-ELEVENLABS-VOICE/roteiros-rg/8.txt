@@ -1,0 +1,160 @@
+{
+  "dialogo": [
+    {
+      "nome": "Gabriel Fernandes",
+      "genero": "M",
+      "tipo": "usuario",
+      "fala": "Olá, estou com um problema no meu computador. Podem me ajudar?"
+    },
+    {
+      "nome": "Camila Santos",
+      "genero": "F",
+      "tipo": "atendente",
+      "fala": "Claro, Gabriel! Eu sou a Camila, sua atendente. Pode me falar mais detalhes sobre o problema?"
+    },
+    {
+      "nome": "Gabriel Fernandes",
+      "genero": "M",
+      "tipo": "usuario",
+      "fala": "Certamente! Estou recebendo uma tela azul toda vez que tento inicializar."
+    },
+    {
+      "nome": "Camila Santos",
+      "genero": "F",
+      "tipo": "atendente",
+      "fala": "Entendo, Gabriel. Vamos verificar algumas possibilidades. Você já tentou reiniciar o computador?"
+    },
+    {
+      "nome": "Gabriel Fernandes",
+      "genero": "M",
+      "tipo": "usuario",
+      "fala": "Sim, já tentei reiniciar algumas vezes e o problema persiste."
+    },
+    {
+      "nome": "Camila Santos",
+      "genero": "F",
+      "tipo": "atendente",
+      "fala": "Tudo bem, Gabriel. Vamos tentar uma solução mais avançada. Você se sente confortável em fazer algumas alterações nas configurações do sistema?"
+    },
+    {
+      "nome": "Gabriel Fernandes",
+      "genero": "M",
+      "tipo": "usuario",
+      "fala": "Sim, estou disposto a tentar qualquer coisa para resolver esse problema."
+    },
+    {
+      "nome": "Camila Santos",
+      "genero": "F",
+      "tipo": "atendente",
+      "fala": "Ótimo! Vou te guiar nesse processo. Primeiro, preciso que você abra o menu Iniciar e digite 'cmd' para abrir o Prompt de Comando."
+    },
+    {
+      "nome": "Gabriel Fernandes",
+      "genero": "M",
+      "tipo": "usuario",
+      "fala": "OK, abri o Prompt de Comando."
+    },
+    {
+      "nome": "Camila Santos",
+      "genero": "F",
+      "tipo": "atendente",
+      "fala": "Agora, digite 'sfc /scannow' e pressione Enter. Esse comando verificará e corrigirá quaisquer problemas de sistema que possam existir."
+    },
+    {
+      "nome": "Gabriel Fernandes",
+      "genero": "M",
+      "tipo": "usuario",
+      "fala": "Entendido, estou executando o comando agora."
+    },
+    {
+      "nome": "Camila Santos",
+      "genero": "F",
+      "tipo": "atendente",
+      "fala": "Ótimo, Gabriel! Aguarde o processo ser concluído. Pode levar algum tempo."
+    },
+    {
+      "nome": "Gabriel Fernandes",
+      "genero": "M",
+      "tipo": "usuario",
+      "fala": "Certo, estou aguardando."
+    },
+    {
+      "nome": "Camila Santos",
+      "genero": "F",
+      "tipo": "atendente",
+      "fala": "Pronto, Gabriel! O processo foi concluído. Alguma mensagem de erro foi exibida?"
+    },
+    {
+      "nome": "Gabriel Fernandes",
+      "genero": "M",
+      "tipo": "usuario",
+      "fala": "Não, nenhuma mensagem de erro foi exibida."
+    },
+    {
+      "nome": "Camila Santos",
+      "genero": "F",
+      "tipo": "atendente",
+      "fala": "Perfeito! Isso significa que as verificações não detectaram nenhum problema grave. Vamos tentar outra solução. Agora, digite 'chkdsk C: /f' no Prompt de Comando e pressione Enter. Esse comando verifica e repara erros no disco rígido."
+    },
+    {
+      "nome": "Gabriel Fernandes",
+      "genero": "M",
+      "tipo": "usuario",
+      "fala": "Ok, estou digitando o comando agora."
+    },
+    {
+      "nome": "Camila Santos",
+      "genero": "F",
+      "tipo": "atendente",
+      "fala": "Ótimo, Gabriel! Esse processo também pode levar algum tempo. Fique atento às instruções exibidas."
+    },
+    {
+      "nome": "Gabriel Fernandes",
+      "genero": "M",
+      "tipo": "usuario",
+      "fala": "Entendido, estou acompanhando."
+    },
+    {
+      "nome": "Camila Santos",
+      "genero": "F",
+      "tipo": "atendente",
+      "fala": "Concluído, Gabriel? Alguma mensagem de erro foi exibida?"
+    },
+    {
+      "nome": "Gabriel Fernandes",
+      "genero": "M",
+      "tipo": "usuario",
+      "fala": "Sim, foram encontrados alguns erros e eles foram corrigidos."
+    },
+    {
+      "nome": "Camila Santos",
+      "genero": "F",
+      "tipo": "atendente",
+      "fala": "Ótimo! Agora, reinicie o computador e veja se o problema persiste. Se sim, podemos continuar com outras soluções."
+    },
+    {
+      "nome": "Gabriel Fernandes",
+      "genero": "M",
+      "tipo": "usuario",
+      "fala": "Tudo bem, vou reiniciar agora mesmo."
+    },
+    {
+      "nome": "Camila Santos",
+      "genero": "F",
+      "tipo": "atendente",
+      "fala": "Fico no aguardo, Gabriel. Espero que isso resolva o seu problema."
+    },
+    {
+      "nome": "Gabriel Fernandes",
+      "genero": "M",
+      "tipo": "usuario",
+      "fala": "Ótima notícia, Camila! O problema foi resolvido após o reinício. Muito obrigado pela ajuda!"
+    },
+    {
+      "nome": "Camila Santos",
+      "genero": "F",
+      "tipo": "atendente",
+      "fala": "Fico feliz em ajudar, Gabriel! Qualquer outra dúvida, estarei à disposição. Tenha um ótimo dia!"
+    }
+  ]
+}

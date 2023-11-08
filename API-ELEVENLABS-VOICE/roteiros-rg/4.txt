@@ -1,0 +1,148 @@
+{
+  "dialogo": [
+    {
+      "nome": "Ana",
+      "genero": "F",
+      "tipo": "usuario",
+      "fala": "Olá, estou com um problema no meu computador."
+    },
+    {
+      "nome": "Carlos",
+      "genero": "M",
+      "tipo": "atendente",
+      "fala": "Olá, Ana. Em que posso ajudar?"
+    },
+    {
+      "nome": "Ana",
+      "genero": "F",
+      "tipo": "usuario",
+      "fala": "Meu computador está barrando meu acesso à internet."
+    },
+    {
+      "nome": "Carlos",
+      "genero": "M",
+      "tipo": "atendente",
+      "fala": "Entendo. Vamos verificar o que está acontecendo. Poderia me informar o seu RG, por favor?"
+    },
+    {
+      "nome": "Ana",
+      "genero": "F",
+      "tipo": "usuario",
+      "fala": "Claro, meu RG é 18.142.622-5."
+    },
+    {
+      "nome": "Carlos",
+      "genero": "M",
+      "tipo": "atendente",
+      "fala": "Obrigado, Ana. Aguarde um momento enquanto verifico o seu cadastro."
+    },
+    {
+      "nome": "Carlos",
+      "genero": "M",
+      "tipo": "atendente",
+      "fala": "Verifiquei aqui, seu RG está correto. Vamos prosseguir com o suporte."
+    },
+    {
+      "nome": "Carlos",
+      "genero": "M",
+      "tipo": "atendente",
+      "fala": "Primeiro, reinicie o seu modem e o computador. Em seguida, verifique se consegue acessar a internet novamente."
+    },
+    {
+      "nome": "Ana",
+      "genero": "F",
+      "tipo": "usuario",
+      "fala": "Ok, farei isso agora mesmo."
+    },
+    {
+      "nome": "Ana",
+      "genero": "F",
+      "tipo": "usuario",
+      "fala": "Pronto, fiz a reinicialização, mas ainda não consigo acessar a internet."
+    },
+    {
+      "nome": "Carlos",
+      "genero": "M",
+      "tipo": "atendente",
+      "fala": "Certo, vamos fazer mais alguns testes. Poderia me informar o modelo do seu modem?"
+    },
+    {
+      "nome": "Ana",
+      "genero": "F",
+      "tipo": "usuario",
+      "fala": "É um modelo XYZ123."
+    },
+    {
+      "nome": "Carlos",
+      "genero": "M",
+      "tipo": "atendente",
+      "fala": "Perfeito. Aguarde um momento enquanto verifico as informações do modelo XYZ123."
+    },
+    {
+      "nome": "Carlos",
+      "genero": "M",
+      "tipo": "atendente",
+      "fala": "Encontrei algumas informações relevantes sobre o modelo XYZ123. Vou guiá-la por alguns passos de configuração."
+    },
+    {
+      "nome": "Carlos",
+      "genero": "M",
+      "tipo": "atendente",
+      "fala": "Primeiramente, acesse as configurações avançadas do seu modem através do endereço IP 192.168.1.1."
+    },
+    {
+      "nome": "Ana",
+      "genero": "F",
+      "tipo": "usuario",
+      "fala": "Ok, estou na página de configurações do modem."
+    },
+    {
+      "nome": "Carlos",
+      "genero": "M",
+      "tipo": "atendente",
+      "fala": "Ótimo. Agora, procure pela opção 'Restaurar configurações de fábrica' e clique nela."
+    },
+    {
+      "nome": "Ana",
+      "genero": "F",
+      "tipo": "usuario",
+      "fala": "Encontrei e cliquei em 'Restaurar configurações de fábrica'."
+    },
+    {
+      "nome": "Carlos",
+      "genero": "M",
+      "tipo": "atendente",
+      "fala": "Perfeito, agora aguarde alguns segundos enquanto o modem reinicia e restaura as configurações."
+    },
+    {
+      "nome": "Carlos",
+      "genero": "M",
+      "tipo": "atendente",
+      "fala": "Após o reinício, tente novamente acessar a internet. Isso deve resolver o problema."
+    },
+    {
+      "nome": "Ana",
+      "genero": "F",
+      "tipo": "usuario",
+      "fala": "Ok, vou aguardar o reinício do modem."
+    },
+    {
+      "nome": "Carlos",
+      "genero": "M",
+      "tipo": "atendente",
+      "fala": "Ótimo, Ana. Caso o problema persista, por favor, entre em contato conosco novamente."
+    },
+    {
+      "nome": "Ana",
+      "genero": "F",
+      "tipo": "usuario",
+      "fala": "Muito obrigada pela ajuda, Carlos. Espero que resolva!"
+    },
+    {
+      "nome": "Carlos",
+      "genero": "M",
+      "tipo": "atendente",
+      "fala": "Por nada, Ana. Foi um prazer ajudar. Tenha um ótimo dia!"
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "dialogo": [
+    {
+      "nome": "Pedro",
+      "genero": "M",
+      "tipo": "usuario",
+      "fala": "Olá, estou com problemas no meu computador."
+    },
+    {
+      "nome": "Carolina",
+      "genero": "F",
+      "tipo": "atendente",
+      "fala": "Olá, como posso ajudá-lo, senhor? Poderia me informar seu nome e seu RG, por favor?"
+    },
+    {
+      "nome": "Pedro",
+      "genero": "M",
+      "tipo": "usuario",
+      "fala": "Meu nome é João Silva, meu RG é 23.629.405-2."
+    },
+    {
+      "nome": "Carolina",
+      "genero": "F",
+      "tipo": "atendente",
+      "fala": "Obrigada, Sr. Silva. Agora, por favor, descreva o problema com mais detalhes."
+    },
+    {
+      "nome": "Pedro",
+      "genero": "M",
+      "tipo": "usuario",
+      "fala": "Estou enfrentando lentidão extrema e travamentos frequentes no sistema operacional."
+    },
+    {
+      "nome": "Carolina",
+      "genero": "F",
+      "tipo": "atendente",
+      "fala": "Entendi, Sr. Silva. Vou precisar acessar seu computador remotamente para verificar o que está acontecendo. Você concorda?"
+    },
+    {
+      "nome": "Pedro",
+      "genero": "M",
+      "tipo": "usuario",
+      "fala": "Sim, pode acessar remotamente."
+    },
+    {
+      "nome": "Carolina",
+      "genero": "F",
+      "tipo": "atendente",
+      "fala": "Perfeito! Vou enviar um link para download do software de acesso remoto. Por favor, abra-o e me informe o código de acesso."
+    },
+    {
+      "nome": "Pedro",
+      "genero": "M",
+      "tipo": "usuario",
+      "fala": "Certo, abrindo o link... O código de acesso é 5421."
+    },
+    {
+      "nome": "Carolina",
+      "genero": "F",
+      "tipo": "atendente",
+      "fala": "Ótimo! Já estou conectando ao seu computador. Por favor, aguarde alguns instantes."
+    },
+    {
+      "nome": "Carolina",
+      "genero": "F",
+      "tipo": "atendente",
+      "fala": "Pronto, Sr. Silva. Estou visualizando seu computador e identifiquei alguns problemas. Vou executar algumas correções."
+    },
+    {
+      "nome": "Pedro",
+      "genero": "M",
+      "tipo": "usuario",
+      "fala": "Muito obrigado, Carolina. Espero que isso resolva o problema."
+    },
+    {
+      "nome": "Carolina",
+      "genero": "F",
+      "tipo": "atendente",
+      "fala": "Eu que agradeço, Sr. Silva. As correções devem melhorar o desempenho do seu computador. Se tiver mais alguma dúvida, estou à disposição."
+    },
+    {
+      "nome": "Pedro",
+      "genero": "M",
+      "tipo": "usuario",
+      "fala": "Por enquanto, é só. Obrigado novamente pela ajuda."
+    },
+    {
+      "nome": "Carolina",
+      "genero": "F",
+      "tipo": "atendente",
+      "fala": "De nada, Sr. Silva. Tenha um ótimo dia!"
+    }
+  ]
+}

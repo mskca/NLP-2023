@@ -1,0 +1,76 @@
+{
+  "dialogo": [
+    {
+      "nome": "Alice",
+      "genero": "F",
+      "tipo": "usuario",
+      "fala": "Olá, estou com um problema no meu serviço de internet."
+    },
+    {
+      "nome": "João",
+      "genero": "M",
+      "tipo": "atendente",
+      "fala": "Olá, Alice! Como posso ajudá-la hoje?"
+    },
+    {
+      "nome": "Alice",
+      "genero": "F",
+      "tipo": "usuario",
+      "fala": "Minha conexão está muito lenta e tenho dificuldades em acessar alguns websites."
+    },
+    {
+      "nome": "João",
+      "genero": "M",
+      "tipo": "atendente",
+      "fala": "Entendo, Alice. Vamos verificar o que está ocorrendo. Por favor, poderia informar seu CPF?"
+    },
+    {
+      "nome": "Alice",
+      "genero": "F",
+      "tipo": "usuario",
+      "fala": "Claro, meu CPF é 553.957.660-81."
+    },
+    {
+      "nome": "João",
+      "genero": "M",
+      "tipo": "atendente",
+      "fala": "Obrigado, Alice. Vou checar seu plano e as configurações do seu roteador. Enquanto isso, poderia me informar se o problema ocorre em todos os dispositivos conectados?"
+    },
+    {
+      "nome": "Alice",
+      "genero": "F",
+      "tipo": "usuario",
+      "fala": "Sim, acontece em meu celular, tablet e computador."
+    },
+    {
+      "nome": "João",
+      "genero": "M",
+      "tipo": "atendente",
+      "fala": "Certo, vamos fazer alguns testes. Primeiro, peço que reinicie o seu roteador. Depois, tentaremos um diagnóstico remoto."
+    },
+    {
+      "nome": "Alice",
+      "genero": "F",
+      "tipo": "usuario",
+      "fala": "Ok, já reiniciei o roteador, mas o problema continua."
+    },
+    {
+      "nome": "João",
+      "genero": "M",
+      "tipo": "atendente",
+      "fala": "Entendo, Alice. Vou registrar uma solicitação de visita técnica para verificarmos o problema presencialmente. Você receberá um número de protocolo por e-mail em breve."
+    },
+    {
+      "nome": "Alice",
+      "genero": "F",
+      "tipo": "usuario",
+      "fala": "Perfeito, espero que resolvam o problema logo. Obrigada!"
+    },
+    {
+      "nome": "João",
+      "genero": "M",
+      "tipo": "atendente",
+      "fala": "De nada, Alice. Pedimos desculpas pelo inconveniente e entraremos em contato o mais breve possível. Tenha um bom dia!"
+    }
+  ]
+}

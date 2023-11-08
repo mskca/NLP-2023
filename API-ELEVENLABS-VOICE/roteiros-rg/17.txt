@@ -1,0 +1,76 @@
+{
+   "dialogo":[
+      {
+         "nome":"Isabella",
+         "genero":"F",
+         "tipo":"usuario",
+         "fala":"Olá, estou com um problema no meu software. Poderia me ajudar?"
+      },
+      {
+         "nome":"John",
+         "genero":"M",
+         "tipo":"atendente",
+         "fala":"Claro, Isabella! Fico feliz em ajudar. Poderia me fornecer o RG?"
+      },
+      {
+         "nome":"Isabella",
+         "genero":"F",
+         "tipo":"usuario",
+         "fala":"Meu RG é 29.025.737-2."
+      },
+      {
+         "nome":"John",
+         "genero":"M",
+         "tipo":"atendente",
+         "fala":"Obrigado, Isabella. Agora, por favor, descreva o problema com mais detalhes."
+      },
+      {
+         "nome":"Isabella",
+         "genero":"F",
+         "tipo":"usuario",
+         "fala":"Eu estou recebendo uma mensagem de erro sempre que tento abrir o aplicativo."
+      },
+      {
+         "nome":"John",
+         "genero":"M",
+         "tipo":"atendente",
+         "fala":"Entendo, Isabella. Vamos resolver esse problema juntos. Você já tentou reinstalar o aplicativo?"
+      },
+      {
+         "nome":"Isabella",
+         "genero":"F",
+         "tipo":"usuario",
+         "fala":"Sim, eu já tentei reinstalar, mas o erro persiste."
+      },
+      {
+         "nome":"John",
+         "genero":"M",
+         "tipo":"atendente",
+         "fala":"Certo. Vamos verificar outras possíveis soluções. Você poderia me informar qual sistema operacional você está usando?"
+      },
+      {
+         "nome":"Isabella",
+         "genero":"F",
+         "tipo":"usuario",
+         "fala":"Estou utilizando o Windows 10."
+      },
+      {
+         "nome":"John",
+         "genero":"M",
+         "tipo":"atendente",
+         "fala":"Ótimo. Temos um guia específico de solução de problemas para o Windows 10. Vou te enviar o link por e-mail. Você pode conferir as instruções e seguir os passos indicados para resolver o erro."
+      },
+      {
+         "nome":"Isabella",
+         "genero":"F",
+         "tipo":"usuario",
+         "fala":"Muito obrigada, John! Vou verificar o e-mail agora mesmo."
+      },
+      {
+         "nome":"John",
+         "genero":"M",
+         "tipo":"atendente",
+         "fala":"Por nada, Isabella! Espero que as instruções te ajudem a solucionar o problema. Se tiver mais alguma dúvida, não hesite em me contatar novamente. Tenha um ótimo dia!"
+      }
+   ]
+}

@@ -1,0 +1,88 @@
+{
+  "dialogo": [
+    {
+      "nome": "Eduarda",
+      "genero": "F",
+      "tipo": "usuario",
+      "fala": "Olá, estou com um problema no meu computador."
+    },
+    {
+      "nome": "Alexandre",
+      "genero": "M",
+      "tipo": "atendente",
+      "fala": "Olá, Eduarda! Como posso ajudar? Poderia me fornecer seu RG para identificação?"
+    },
+    {
+      "nome": "Eduarda",
+      "genero": "F",
+      "tipo": "usuario",
+      "fala": "Claro, meu RG é 14.385.084-2."
+    },
+    {
+      "nome": "Alexandre",
+      "genero": "M",
+      "tipo": "atendente",
+      "fala": "Agradeço pelo seu RG, Eduarda. Agora, por favor, descreva o problema que está enfrentando com seu computador."
+    },
+    {
+      "nome": "Eduarda",
+      "genero": "F",
+      "tipo": "usuario",
+      "fala": "Meu computador está muito lento e trava constantemente. Não sei o que fazer."
+    },
+    {
+      "nome": "Alexandre",
+      "genero": "M",
+      "tipo": "atendente",
+      "fala": "Entendo, Eduarda. Vamos realizar algumas verificações para identificar a causa desse problema. Primeiro, por favor, me informe qual o sistema operacional do seu computador."
+    },
+    {
+      "nome": "Eduarda",
+      "genero": "F",
+      "tipo": "usuario",
+      "fala": "Estou usando o Windows 10."
+    },
+    {
+      "nome": "Alexandre",
+      "genero": "M",
+      "tipo": "atendente",
+      "fala": "Ótimo, Eduarda. Vamos tentar algumas soluções básicas. Reinicie o computador e verifique se o desempenho melhorou. Além disso, você já realizou uma verificação completa de vírus recentemente?"
+    },
+    {
+      "nome": "Eduarda",
+      "genero": "F",
+      "tipo": "usuario",
+      "fala": "Sim, já reiniciei o computador algumas vezes e realizei uma varredura de vírus, mas o problema persiste."
+    },
+    {
+      "nome": "Alexandre",
+      "genero": "M",
+      "tipo": "atendente",
+      "fala": "Entendo, Eduarda. Vamos tentar outro procedimento. Você poderia desligar o computador, conectar e desconectar todos os cabos internos, inclusive o da fonte de energia, e ligá-lo novamente?"
+    },
+    {
+      "nome": "Eduarda",
+      "genero": "F",
+      "tipo": "usuario",
+      "fala": "Certo, farei isso agora mesmo."
+    },
+    {
+      "nome": "Alexandre",
+      "genero": "M",
+      "tipo": "atendente",
+      "fala": "Ótimo. Após realizar esse procedimento, teste novamente o computador e verifique se houve alguma melhora no desempenho."
+    },
+    {
+      "nome": "Eduarda",
+      "genero": "F",
+      "tipo": "usuario",
+      "fala": "Parece que agora está funcionando melhor! Obrigada pela ajuda, Alexandre."
+    },
+    {
+      "nome": "Alexandre",
+      "genero": "M",
+      "tipo": "atendente",
+      "fala": "Fico feliz em ajudar, Eduarda. Se tiver mais alguma dúvida ou problema, não hesite em entrar em contato conosco. Tenha um ótimo dia!"
+    }
+  ]
+}

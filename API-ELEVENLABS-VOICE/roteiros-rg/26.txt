@@ -1,0 +1,88 @@
+{
+  "dialogo": [
+    {
+      "nome": "João",
+      "genero": "M",
+      "tipo": "usuario",
+      "fala": "Olá, estou com um problema no meu computador. Pode me ajudar?"
+    },
+    {
+      "nome": "Maria",
+      "genero": "F",
+      "tipo": "atendente",
+      "fala": "Com certeza, João! Meu nome é Maria. Qual é o problema que você está enfrentando?"
+    },
+    {
+      "nome": "João",
+      "genero": "M",
+      "tipo": "usuario",
+      "fala": "Eu estou recebendo uma mensagem de erro estranha quando tento abrir um programa. O RG que aparece é 38.026.422-5. O que isso significa?"
+    },
+    {
+      "nome": "Maria",
+      "genero": "F",
+      "tipo": "atendente",
+      "fala": "Esse número se refere a um possível erro de identificação. Vou verificar o que pode ser. Qual é o programa que está apresentando esse erro?"
+    },
+    {
+      "nome": "João",
+      "genero": "M",
+      "tipo": "usuario",
+      "fala": "É o Microsoft Word."
+    },
+    {
+      "nome": "Maria",
+      "genero": "F",
+      "tipo": "atendente",
+      "fala": "Entendi, João. Vamos tentar algumas soluções básicas. Primeiro, vou pedir para você reiniciar o computador e tentar abrir o Word novamente. Pode fazer isso por favor?"
+    },
+    {
+      "nome": "João",
+      "genero": "M",
+      "tipo": "usuario",
+      "fala": "Certo, vou fazer isso agora mesmo."
+    },
+    {
+      "nome": "Maria",
+      "genero": "F",
+      "tipo": "atendente",
+      "fala": "Ótimo, João. Assim que o computador reiniciar, tente abrir o Word novamente e me avise se o erro persistir."
+    },
+    {
+      "nome": "João",
+      "genero": "M",
+      "tipo": "usuario",
+      "fala": "Pronto, reiniciei o computador e abri o Word. O erro ainda aparece com o RG 38.026.422-5."
+    },
+    {
+      "nome": "Maria",
+      "genero": "F",
+      "tipo": "atendente",
+      "fala": "Entendo, João. Vou solicitar que você reinstale o programa para tentarmos resolver esse problema. Você tem o instalador do Word?"
+    },
+    {
+      "nome": "João",
+      "genero": "M",
+      "tipo": "usuario",
+      "fala": "Sim, eu tenho. Vou iniciar a reinstalação agora mesmo."
+    },
+    {
+      "nome": "Maria",
+      "genero": "F",
+      "tipo": "atendente",
+      "fala": "Perfeito, João. Assim que a reinstalação for concluída, tente abrir o Word novamente. Espero que o problema seja resolvido."
+    },
+    {
+      "nome": "João",
+      "genero": "M",
+      "tipo": "usuario",
+      "fala": "Pronto, reinstalei o Word e agora está funcionando perfeitamente. Muito obrigado pela ajuda, Maria."
+    },
+    {
+      "nome": "Maria",
+      "genero": "F",
+      "tipo": "atendente",
+      "fala": "De nada, João! Fico feliz em poder ajudar. Se tiver mais alguma dúvida, é só chamar. Tenha um ótimo dia!"
+    }
+  ]
+}

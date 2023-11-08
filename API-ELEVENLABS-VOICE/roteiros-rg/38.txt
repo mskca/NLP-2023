@@ -1,0 +1,82 @@
+{
+  "dialogo":[
+  {
+    "nome": "Gabriela",
+    "genero": "F",
+    "tipo": "usuario",
+    "fala": "Olá, estou com um problema na minha conta."
+  },
+  {
+    "nome": "Daniel",
+    "genero": "M",
+    "tipo": "atendente",
+    "fala": "Olá, Gabriela! Como posso ajudar? Poderia fornecer seu RG, por favor?"
+  },
+  {
+    "nome": "Gabriela",
+    "genero": "F",
+    "tipo": "usuario",
+    "fala": "Claro! Meu RG é 49.169.819-7."
+  },
+  {
+    "nome": "Daniel",
+    "genero": "M",
+    "tipo": "atendente",
+    "fala": "Obrigado, Gabriela! Aguarde um momento enquanto verifico seus dados."
+  },
+  {
+    "nome": "Daniel",
+    "genero": "M",
+    "tipo": "atendente",
+    "fala": "Encontrei seu cadastro, Gabriela. Qual problema você está enfrentando?"
+  },
+  {
+    "nome": "Gabriela",
+    "genero": "F",
+    "tipo": "usuario",
+    "fala": "Estou tendo dificuldades para fazer login. Sempre recebo uma mensagem de erro."
+  },
+  {
+    "nome": "Daniel",
+    "genero": "M",
+    "tipo": "atendente",
+    "fala": "Entendo, Gabriela. Você já tentou redefinir sua senha?"
+  },
+  {
+    "nome": "Gabriela",
+    "genero": "F",
+    "tipo": "usuario",
+    "fala": "Sim, já tentei algumas vezes, mas ainda não consigo acessar minha conta."
+  },
+  {
+    "nome": "Daniel",
+    "genero": "M",
+    "tipo": "atendente",
+    "fala": "Vou verificar se há algum problema no sistema. Por favor, aguarde mais um momento."
+  },
+  {
+    "nome": "Daniel",
+    "genero": "M",
+    "tipo": "atendente",
+    "fala": "Encontrei o problema, Gabriela. Parece que sua conta foi bloqueada por motivos de segurança. Serei necessário reiniciar sua senha."
+  },
+  {
+    "nome": "Gabriela",
+    "genero": "F",
+    "tipo": "usuario",
+    "fala": "Ah, entendo. Obrigado por me ajudar, Daniel."
+  },
+  {
+    "nome": "Daniel",
+    "genero": "M",
+    "tipo": "atendente",
+    "fala": "De nada, Gabriela. Vou enviar um link para você redefinir sua senha. Verifique seu e-mail, por favor."
+  },
+  {
+    "nome": "Gabriela",
+    "genero": "F",
+    "tipo": "usuario",
+    "fala": "Ok, irei verificar agora mesmo. Obrigado novamente!"
+  }
+]
+|

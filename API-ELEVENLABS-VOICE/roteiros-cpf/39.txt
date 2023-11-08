@@ -1,0 +1,112 @@
+{
+    "dialogo": [
+        {
+            "nome": "Alice",
+            "genero": "F",
+            "tipo": "usuario",
+            "fala": "Olá, eu estou com um problema no meu produto e gostaria de falar com um atendente."
+        },
+        {
+            "nome": "John",
+            "genero": "M",
+            "tipo": "atendente",
+            "fala": "Olá, meu nome é John, em que posso ajudar?"
+        },
+        {
+            "nome": "Alice",
+            "genero": "F",
+            "tipo": "usuario",
+            "fala": "Obrigada, John. Meu nome é Alice e meu CPF é 869.539.220-10. Eu comprei um celular e ele não está ligando."
+        },
+        {
+            "nome": "John",
+            "genero": "M",
+            "tipo": "atendente",
+            "fala": "Certo, Alice. Vou verificar o seu registro e te ajudar. Por favor, aguarde um momento."
+        },
+        {
+            "nome": "Alice",
+            "genero": "F",
+            "tipo": "usuario",
+            "fala": "Claro, estou aguardando."
+        },
+        {
+            "nome": "John",
+            "genero": "M",
+            "tipo": "atendente",
+            "fala": "Encontrei o seu registro, Alice. Primeiramente, vou pedir que você confirme o seu CPF, 869.539.220-10."
+        },
+        {
+            "nome": "Alice",
+            "genero": "F",
+            "tipo": "usuario",
+            "fala": "Sim, confirmando meu CPF, 869.539.220-10."
+        },
+        {
+            "nome": "John",
+            "genero": "M",
+            "tipo": "atendente",
+            "fala": "Perfeito. Agora, me explique melhor o problema que você está enfrentando com o celular."
+        },
+        {
+            "nome": "Alice",
+            "genero": "F",
+            "tipo": "usuario",
+            "fala": "Quando eu tento ligar o celular, a tela fica preta e não acontece mais nada. Já tentei carregar a bateria, mas não resolveu."
+        },
+        {
+            "nome": "John",
+            "genero": "M",
+            "tipo": "atendente",
+            "fala": "Entendo, Alice. Vou verificar essa situação para você. Peço que aguarde mais um momento enquanto eu consulto o nosso suporte técnico."
+        },
+        {
+            "nome": "Alice",
+            "genero": "F",
+            "tipo": "usuario",
+            "fala": "Tudo bem, estou aqui aguardando."
+        },
+        {
+            "nome": "John",
+            "genero": "M",
+            "tipo": "atendente",
+            "fala": "Desculpe a demora, Alice. Conversei com o suporte técnico e existem algumas medidas que podemos tentar para resolver o problema. Você está disposta a realizar alguns testes no celular?"
+        },
+        {
+            "nome": "Alice",
+            "genero": "F",
+            "tipo": "usuario",
+            "fala": "Sim, estou disposta a realizar os testes necessários."
+        },
+        {
+            "nome": "John",
+            "genero": "M",
+            "tipo": "atendente",
+            "fala": "Ótimo, Alice. Primeiro, vou te pedir que pressione o botão de ligar/desligar e o botão de diminuir volume simultaneamente por 10 segundos. Em seguida, solte os botões e tente ligar o celular novamente."
+        },
+        {
+            "nome": "Alice",
+            "genero": "F",
+            "tipo": "usuario",
+            "fala": "Ok, farei isso agora mesmo."
+        },
+        {
+            "nome": "John",
+            "genero": "M",
+            "tipo": "atendente",
+            "fala": "Perfeito, Alice. Agora, você poderia tentar ligar o celular novamente e verificar se o problema foi resolvido?"
+        },
+        {
+            "nome": "Alice",
+            "genero": "F",
+            "tipo": "usuario",
+            "fala": "Espere um momento, vou tentar ligar o celular... Sim, funcionou! Obrigada, John!"
+        },
+        {
+            "nome": "John",
+            "genero": "M",
+            "tipo": "atendente",
+            "fala": "Fico feliz em ajudar, Alice! Se você tiver qualquer outra dúvida ou problema, não hesite em entrar em contato novamente. Tenha um ótimo dia!"
+        }
+    ]
+}

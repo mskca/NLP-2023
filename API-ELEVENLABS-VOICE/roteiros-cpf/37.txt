@@ -1,0 +1,82 @@
+{
+  "dialogo": [
+    {
+      "nome": "Marcelo",
+      "genero": "M",
+      "tipo": "atendente",
+      "fala": "Bom dia, meu nome é Marcelo. Em que posso ajudar hoje?"
+    },
+    {
+      "nome": "Daniela",
+      "genero": "F",
+      "tipo": "usuario",
+      "fala": "Olá, Marcelo. Meu nome é Daniela. Estou com um problema no meu celular."
+    },
+    {
+      "nome": "Marcelo",
+      "genero": "M",
+      "tipo": "atendente",
+      "fala": "Oi, Daniela. Pode me fornecer seu CPF? Preciso verificar seu cadastro."
+    },
+    {
+      "nome": "Daniela",
+      "genero": "F",
+      "tipo": "usuario",
+      "fala": "Claro, meu CPF é 760.481.620-73."
+    },
+    {
+      "nome": "Marcelo",
+      "genero": "M",
+      "tipo": "atendente",
+      "fala": "Obrigado, Daniela. Agora, me conte qual é o problema com seu celular."
+    },
+    {
+      "nome": "Daniela",
+      "genero": "F",
+      "tipo": "usuario",
+      "fala": "O aparelho não está ligando e já tentei carregá-lo, mas não resolveu."
+    },
+    {
+      "nome": "Marcelo",
+      "genero": "M",
+      "tipo": "atendente",
+      "fala": "Entendo. Vamos verificar algumas soluções. Primeiro, verifique se a bateria está corretamente encaixada."
+    },
+    {
+      "nome": "Daniela",
+      "genero": "F",
+      "tipo": "usuario",
+      "fala": "Já verifiquei e a bateria está bem encaixada."
+    },
+    {
+      "nome": "Marcelo",
+      "genero": "M",
+      "tipo": "atendente",
+      "fala": "Certo. Vamos tentar um reinício forçado. Pressione o botão de ligar e o de volume para baixo ao mesmo tempo por cerca de 10 segundos."
+    },
+    {
+      "nome": "Daniela",
+      "genero": "F",
+      "tipo": "usuario",
+      "fala": "Eu fiz isso e o celular continua sem ligar."
+    },
+    {
+      "nome": "Marcelo",
+      "genero": "M",
+      "tipo": "atendente",
+      "fala": "Entendo, Daniela. Nesse caso, aconselho que você leve o aparelho até uma de nossas assistências técnicas mais próximas. Eles poderão fazer uma análise mais detalhada do problema."
+    },
+    {
+      "nome": "Daniela",
+      "genero": "F",
+      "tipo": "usuario",
+      "fala": "Está bem, Marcelo. Muito obrigada pela sua ajuda!"
+    },
+    {
+      "nome": "Marcelo",
+      "genero": "M",
+      "tipo": "atendente",
+      "fala": "Eu que agradeço, Daniela. Estamos aqui para ajudar. Tenha um ótimo dia!"
+    }
+  ]
+}

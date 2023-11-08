@@ -1,0 +1,88 @@
+{
+   "dialogo":[
+      {
+         "nome":"Carolina",
+         "genero":"F",
+         "tipo":"usuario",
+         "fala":"Olá, eu sou a Carolina, estou com um problema no meu celular."
+      },
+      {
+         "nome":"Alexandre",
+         "genero":"M",
+         "tipo":"atendente",
+         "fala":"Olá, Carolina! Meu nome é Alexandre, como posso ajudar?"
+      },
+      {
+         "nome":"Carolina",
+         "genero":"F",
+         "tipo":"usuario",
+         "fala":"Bem, meu celular não está ligando. Eu já tentei carregar a bateria, mas não funcionou."
+      },
+      {
+         "nome":"Alexandre",
+         "genero":"M",
+         "tipo":"atendente",
+         "fala":"Entendo, Carolina. Vamos tentar algumas soluções. Primeiro, verifique se o botão de ligar/desligar está funcionando corretamente."
+      },
+      {
+         "nome":"Carolina",
+         "genero":"F",
+         "tipo":"usuario",
+         "fala":"Sim, eu já tentei pressionar o botão várias vezes, mas nada acontece."
+      },
+      {
+         "nome":"Alexandre",
+         "genero":"M",
+         "tipo":"atendente",
+         "fala":"Certo. Vamos tentar reiniciar o aparelho. Mantenha pressionado o botão de ligar/desligar por pelo menos 10 segundos e veja se ele reinicia."
+      },
+      {
+         "nome":"Carolina",
+         "genero":"F",
+         "tipo":"usuario",
+         "fala":"Ok, vou fazer isso agora."
+      },
+      {
+         "nome":"Alexandre",
+         "genero":"M",
+         "tipo":"atendente",
+         "fala":"Alguma mudança, Carolina?"
+      },
+      {
+         "nome":"Carolina",
+         "genero":"F",
+         "tipo":"usuario",
+         "fala":"Infelizmente, nada mudou. O celular continua sem ligar."
+      },
+      {
+         "nome":"Alexandre",
+         "genero":"M",
+         "tipo":"atendente",
+         "fala":"Compreendo. Vamos tentar conectar o aparelho ao computador e ver se conseguimos fazer alguma coisa a partir daí."
+      },
+      {
+         "nome":"Carolina",
+         "genero":"F",
+         "tipo":"usuario",
+         "fala":"Tudo bem, vou buscar meu cabo USB."
+      },
+      {
+         "nome":"Alexandre",
+         "genero":"M",
+         "tipo":"atendente",
+         "fala":"Ótimo. Enquanto isso, me informe seu CPF, por favor, para que eu possa verificar algumas informações no sistema."
+      },
+      {
+         "nome":"Carolina",
+         "genero":"F",
+         "tipo":"usuario",
+         "fala":"Claro! Meu CPF é 873.253.760-30."
+      },
+      {
+         "nome":"Alexandre",
+         "genero":"M",
+         "tipo":"atendente",
+         "fala":"Perfeito, obrigado. Vamos tentar identificar o problema assim que conectarmos o celular ao computador."
+      }
+   ]
+}

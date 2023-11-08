@@ -1,0 +1,88 @@
+{
+  "dialogo": [
+    {
+      "nome": "Alice",
+      "genero": "F",
+      "tipo": "usuario",
+      "fala": "Olá, estou com um problema no meu computador."
+    },
+    {
+      "nome": "John",
+      "genero": "M",
+      "tipo": "atendente",
+      "fala": "Olá, meu nome é John. Como posso te ajudar hoje?"
+    },
+    {
+      "nome": "Alice",
+      "genero": "F",
+      "tipo": "usuario",
+      "fala": "Bom Dia, John. Meu nome é Alice. O CPF é 332.070.460-53 e o problema é que minha tela está congelando constantemente."
+    },
+    {
+      "nome": "John",
+      "genero": "M",
+      "tipo": "atendente",
+      "fala": "Entendo, Alice. Vamos trabalhar juntos para resolver isso. Você já tentou reiniciar o computador?"
+    },
+    {
+      "nome": "Alice",
+      "genero": "F",
+      "tipo": "usuario",
+      "fala": "Sim, já tentei reiniciar algumas vezes, mas o problema continua."
+    },
+    {
+      "nome": "John",
+      "genero": "M",
+      "tipo": "atendente",
+      "fala": "Ok, vamos realizar alguns procedimentos. Primeiro, verifique se todos os cabos estão conectados corretamente."
+    },
+    {
+      "nome": "Alice",
+      "genero": "F",
+      "tipo": "usuario",
+      "fala": "Tudo parece estar conectado corretamente."
+    },
+    {
+      "nome": "John",
+      "genero": "M",
+      "tipo": "atendente",
+      "fala": "Certo. Vamos então verificar se você possui os drivers atualizados. Você sabe como fazer isso?"
+    },
+    {
+      "nome": "Alice",
+      "genero": "F",
+      "tipo": "usuario",
+      "fala": "Não tenho certeza, poderia me guiar?"
+    },
+    {
+      "nome": "John",
+      "genero": "M",
+      "tipo": "atendente",
+      "fala": "Claro, vou te passar um link para baixar a última versão dos drivers. Por favor, acesse-o e siga as instruções de instalação."
+    },
+    {
+      "nome": "Alice",
+      "genero": "F",
+      "tipo": "usuario",
+      "fala": "Ok, vou fazer isso agora mesmo."
+    },
+    {
+      "nome": "John",
+      "genero": "M",
+      "tipo": "atendente",
+      "fala": "Perfeito! Caso o problema persista após a atualização dos drivers, recomendo que você agende um atendimento técnico presencial para verificar o hardware do seu computador."
+    },
+    {
+      "nome": "Alice",
+      "genero": "F",
+      "tipo": "usuario",
+      "fala": "Entendido, John. Obrigada pela ajuda!"
+    },
+    {
+      "nome": "John",
+      "genero": "M",
+      "tipo": "atendente",
+      "fala": "De nada, Alice! Estou aqui para ajudar. Se você tiver mais alguma dúvida, não hesite em entrar em contato novamente. Tenha um ótimo dia!"
+    }
+  ]
+}

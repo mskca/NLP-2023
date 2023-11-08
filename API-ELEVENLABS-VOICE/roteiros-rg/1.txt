@@ -1,0 +1,76 @@
+{
+  "dialogo": [
+    {
+      "nome": "José",
+      "genero": "M",
+      "tipo": "usuario",
+      "fala": "Olá, estou precisando de suporte técnico."
+    },
+    {
+      "nome": "Alice",
+      "genero": "F",
+      "tipo": "atendente",
+      "fala": "Olá, José! Como posso ajudá-lo hoje?"
+    },
+    {
+      "nome": "José",
+      "genero": "M",
+      "tipo": "usuario",
+      "fala": "Estou com problemas para acessar minha conta no site."
+    },
+    {
+      "nome": "Alice",
+      "genero": "F",
+      "tipo": "atendente",
+      "fala": "Entendo, José. Você poderia me informar seu RG para que eu possa verificar sua conta?"
+    },
+    {
+      "nome": "José",
+      "genero": "M",
+      "tipo": "usuario",
+      "fala": "Claro, meu RG é 12.767.962-5."
+    },
+    {
+      "nome": "Alice",
+      "genero": "F",
+      "tipo": "atendente",
+      "fala": "Obrigada, José. Vou verificar seus dados."
+    },
+    {
+      "nome": "Alice",
+      "genero": "F",
+      "tipo": "atendente",
+      "fala": "Encontrei sua conta, José. Parece que você esqueceu sua senha. Podemos redefini-la para você. Posso prosseguir?"
+    },
+    {
+      "nome": "José",
+      "genero": "M",
+      "tipo": "usuario",
+      "fala": "Sim, por favor. Preciso muito acessar minha conta novamente."
+    },
+    {
+      "nome": "Alice",
+      "genero": "F",
+      "tipo": "atendente",
+      "fala": "Perfeito, José. Acabei de enviar um e-mail para o endereço vinculado à sua conta com as instruções para a redefinição de senha. Por favor, verifique sua caixa de entrada."
+    },
+    {
+      "nome": "Alice",
+      "genero": "F",
+      "tipo": "atendente",
+      "fala": "Alguma dúvida adicional, José?"
+    },
+    {
+      "nome": "José",
+      "genero": "M",
+      "tipo": "usuario",
+      "fala": "Não, muito obrigado pela sua ajuda."
+    },
+    {
+      "nome": "Alice",
+      "genero": "F",
+      "tipo": "atendente",
+      "fala": "Disponha, José. Estamos sempre prontos para ajudar. Tenha um ótimo dia!"
+    }
+  ]
+}

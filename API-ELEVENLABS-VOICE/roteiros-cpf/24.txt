@@ -1,0 +1,88 @@
+{
+    "dialogo": [
+        {
+            "nome": "Carlos",
+            "genero": "M",
+            "tipo": "usuario",
+            "fala": "Olá, estou com problemas para acessar minha conta. Pode me ajudar?"
+        },
+        {
+            "nome": "Joana",
+            "genero": "F",
+            "tipo": "atendente",
+            "fala": "Claro, Carlos! Vou verificar o que está acontecendo. Para isso, preciso do seu CPF, por favor."
+        },
+        {
+            "nome": "Carlos",
+            "genero": "M",
+            "tipo": "usuario",
+            "fala": "Meu CPF é 147.243.430-79."
+        },
+        {
+            "nome": "Joana",
+            "genero": "F",
+            "tipo": "atendente",
+            "fala": "Obrigada, Carlos! Já localizei sua conta. Agora, me diga qual é o problema que está enfrentando."
+        },
+        {
+            "nome": "Carlos",
+            "genero": "M",
+            "tipo": "usuario",
+            "fala": "Estou recebendo uma mensagem de erro ao tentar fazer login. Diz que minha senha está incorreta, mas tenho certeza de que estou digitando corretamente."
+        },
+        {
+            "nome": "Joana",
+            "genero": "F",
+            "tipo": "atendente",
+            "fala": "Entendo, Carlos. Vamos resolver isso. Preciso que você confirme algumas informações adicionais para garantir a segurança da sua conta. Pode me informar a sua data de nascimento?"
+        },
+        {
+            "nome": "Carlos",
+            "genero": "M",
+            "tipo": "usuario",
+            "fala": "Claro, minha data de nascimento é 24/03/1985."
+        },
+        {
+            "nome": "Joana",
+            "genero": "F",
+            "tipo": "atendente",
+            "fala": "Obrigada, Carlos! Agora, por motivos de segurança, vou enviar um código de verificação para o seu e-mail cadastrado. Confira e me informe o código, por favor."
+        },
+        {
+            "nome": "Carlos",
+            "genero": "M",
+            "tipo": "usuario",
+            "fala": "Recebi o e-mail com o código. O código é 932147."
+        },
+        {
+            "nome": "Joana",
+            "genero": "F",
+            "tipo": "atendente",
+            "fala": "Perfeito, Carlos! O código confere. Agora, vou solicitar que você altere a sua senha. Qual seria a nova senha que deseja utilizar?"
+        },
+        {
+            "nome": "Carlos",
+            "genero": "M",
+            "tipo": "usuario",
+            "fala": "Vou utilizar a senha Nov@Senha123."
+        },
+        {
+            "nome": "Joana",
+            "genero": "F",
+            "tipo": "atendente",
+            "fala": "Ótimo, Carlos! Sua senha foi alterada com sucesso. Agora você deve conseguir acessar sua conta sem problemas. Alguma outra dúvida?"
+        },
+        {
+            "nome": "Carlos",
+            "genero": "M",
+            "tipo": "usuario",
+            "fala": "Não, Joana! Muito obrigado pela sua ajuda. Tenha um ótimo dia!"
+        },
+        {
+            "nome": "Joana",
+            "genero": "F",
+            "tipo": "atendente",
+            "fala": "Eu quem agradeço, Carlos! Fico feliz em poder ajudar. Tenha um excelente dia você também!"
+        }
+    ]
+}

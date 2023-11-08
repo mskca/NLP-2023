@@ -1,0 +1,58 @@
+{
+  "dialogo": [
+    {
+      "nome": "João da Silva",
+      "genero": "M",
+      "tipo": "usuario",
+      "fala": "Olá, estou com um problema no meu sistema."
+    },
+    {
+      "nome": "Amanda Ferreira",
+      "genero": "F",
+      "tipo": "atendente",
+      "fala": "Olá, meu nome é Amanda Ferreira. Como posso ajudá-lo?"
+    },
+    {
+      "nome": "João da Silva",
+      "genero": "M",
+      "tipo": "usuario",
+      "fala": "Bom, eu recebi um aviso de erro com o RG 34.095.926-5. Pode me auxiliar a resolver?"
+    },
+    {
+      "nome": "Amanda Ferreira",
+      "genero": "F",
+      "tipo": "atendente",
+      "fala": "Com certeza, João. Vou verificar o sistema e verificar o que está acontecendo com o seu RG."
+    },
+    {
+      "nome": "Amanda Ferreira",
+      "genero": "F",
+      "tipo": "atendente",
+      "fala": "João, identifiquei que o problema está relacionado a uma falha de conexão. Vou reiniciar o seu acesso. Por favor, aguarde um momento."
+    },
+    {
+      "nome": "João da Silva",
+      "genero": "M",
+      "tipo": "usuario",
+      "fala": "Tudo bem, estou no aguardo."
+    },
+    {
+      "nome": "Amanda Ferreira",
+      "genero": "F",
+      "tipo": "atendente",
+      "fala": "Pronto, João. O problema foi solucionado com sucesso. O seu acesso foi restabelecido."
+    },
+    {
+      "nome": "João da Silva",
+      "genero": "M",
+      "tipo": "usuario",
+      "fala": "Ótimo, muito obrigado pela ajuda, Amanda!"
+    },
+    {
+      "nome": "Amanda Ferreira",
+      "genero": "F",
+      "tipo": "atendente",
+      "fala": "De nada, João. Fico feliz em ter ajudado. Se precisar de mais alguma assistência, não hesite em entrar em contato novamente. Tenha um ótimo dia!"
+    }
+  ]
+}

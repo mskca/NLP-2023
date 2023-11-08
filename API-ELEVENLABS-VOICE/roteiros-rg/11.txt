@@ -1,0 +1,70 @@
+{
+  "dialogo": [
+    {
+      "nome": "Carlos",
+      "genero": "M",
+      "tipo": "usuario",
+      "fala": "Olá, estou com um problema no meu computador."
+    },
+    {
+      "nome": "Ana",
+      "genero": "F",
+      "tipo": "atendente",
+      "fala": "Olá, Carlos. Como posso ajudá-lo hoje?"
+    },
+    {
+      "nome": "Carlos",
+      "genero": "M",
+      "tipo": "usuario",
+      "fala": "Apareceu uma tela azul e meu computador travou. O que devo fazer?"
+    },
+    {
+      "nome": "Ana",
+      "genero": "F",
+      "tipo": "atendente",
+      "fala": "Entendo, Carlos. Vou precisar do seu número de RG para verificar algumas informações. Por favor, me informe."
+    },
+    {
+      "nome": "Carlos",
+      "genero": "M",
+      "tipo": "usuario",
+      "fala": "Claro, meu RG é 38.312.283-1."
+    },
+    {
+      "nome": "Ana",
+      "genero": "F",
+      "tipo": "atendente",
+      "fala": "Obrigada, Carlos. Aguarde um momento enquanto eu verifico os registros."
+    },
+    {
+      "nome": "Ana",
+      "genero": "F",
+      "tipo": "atendente",
+      "fala": "Verifiquei que você possui uma garantia ativa para o seu computador. Vamos agendar uma visita técnica para analisar e resolver o problema. Qual o melhor dia e horário para você?"
+    },
+    {
+      "nome": "Carlos",
+      "genero": "M",
+      "tipo": "usuario",
+      "fala": "Podemos marcar para segunda-feira, às 14h?"
+    },
+    {
+      "nome": "Ana",
+      "genero": "F",
+      "tipo": "atendente",
+      "fala": "Perfeito, Carlos. Agendei sua visita técnica para segunda-feira, dia 10, às 14h. O técnico estará aí para verificar e solucionar o problema do seu computador."
+    },
+    {
+      "nome": "Carlos",
+      "genero": "M",
+      "tipo": "usuario",
+      "fala": "Ótimo, obrigado pela ajuda, Ana."
+    },
+    {
+      "nome": "Ana",
+      "genero": "F",
+      "tipo": "atendente",
+      "fala": "Eu que agradeço, Carlos. Qualquer outra dúvida ou problema, estou à disposição. Tenha um ótimo dia!"
+    }
+  ]
+}

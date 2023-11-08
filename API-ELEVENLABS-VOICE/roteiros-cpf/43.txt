@@ -1,0 +1,82 @@
+{
+  "dialogo": [
+    {
+      "nome": "Isabela Carvalho",
+      "genero": "F",
+      "tipo": "usuario",
+      "fala": "Olá, gostaria de falar com um atendente para obter suporte técnico."
+    },
+    {
+      "nome": "Pedro Oliveira",
+      "genero": "M",
+      "tipo": "atendente",
+      "fala": "Olá, meu nome é Pedro Oliveira. Como posso ajudá-la hoje?"
+    },
+    {
+      "nome": "Isabela Carvalho",
+      "genero": "F",
+      "tipo": "usuario",
+      "fala": "Estou tendo problemas para acessar minha conta online. Pode me ajudar a resolver?"
+    },
+    {
+      "nome": "Pedro Oliveira",
+      "genero": "M",
+      "tipo": "atendente",
+      "fala": "Com certeza! Primeiro, poderia me fornecer o seu CPF para que eu possa localizar a sua conta?"
+    },
+    {
+      "nome": "Isabela Carvalho",
+      "genero": "F",
+      "tipo": "usuario",
+      "fala": "Claro, meu CPF é 261.149.580-71."
+    },
+    {
+      "nome": "Pedro Oliveira",
+      "genero": "M",
+      "tipo": "atendente",
+      "fala": "Obrigado, Isabela. Aguarde um momento enquanto verifico as informações."
+    },
+    {
+      "nome": "Pedro Oliveira",
+      "genero": "M",
+      "tipo": "atendente",
+      "fala": "Encontrei a sua conta. Parece que você precisa redefinir a sua senha. Posso te auxiliar nesse processo?"
+    },
+    {
+      "nome": "Isabela Carvalho",
+      "genero": "F",
+      "tipo": "usuario",
+      "fala": "Sim, por favor! Estou com dificuldades para fazê-lo sozinha."
+    },
+    {
+      "nome": "Pedro Oliveira",
+      "genero": "M",
+      "tipo": "atendente",
+      "fala": "Sem problemas. Vou enviar um link de redefinição para o seu e-mail cadastrado. Você poderia me confirmar seu e-mail?"
+    },
+    {
+      "nome": "Isabela Carvalho",
+      "genero": "F",
+      "tipo": "usuario",
+      "fala": "Certamente! Meu e-mail é isabela.carvalho@email.com."
+    },
+    {
+      "nome": "Pedro Oliveira",
+      "genero": "M",
+      "tipo": "atendente",
+      "fala": "Ótimo, enviei o link para o e-mail fornecido. Por favor, verifique sua caixa de entrada e siga as instruções para redefinir sua senha."
+    },
+    {
+      "nome": "Isabela Carvalho",
+      "genero": "F",
+      "tipo": "usuario",
+      "fala": "Muito obrigada por sua ajuda, Pedro! Vou verificar o e-mail e redefinir minha senha agora mesmo."
+    },
+    {
+      "nome": "Pedro Oliveira",
+      "genero": "M",
+      "tipo": "atendente",
+      "fala": "Não há de quê, Isabela! Caso tenha mais alguma dúvida ou precise de mais assistência, fique à vontade para entrar em contato conosco novamente. Tenha um ótimo dia!"
+    }
+  ]
+}

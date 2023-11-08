@@ -1,0 +1,89 @@
+
+{
+  "dialogo": [
+    {
+      "nome": "45321",
+      "genero": "F",
+      "tipo": "usuario",
+      "fala": "Olá, estou precisando de ajuda com a minha conta. Poderia me auxiliar?"
+    },
+    {
+      "nome": "12674",
+      "genero": "M",
+      "tipo": "atendente",
+      "fala": "Claro! Qual é o problema que você está enfrentando?"
+    },
+    {
+      "nome": "45321",
+      "genero": "F",
+      "tipo": "usuario",
+      "fala": "Eu não consigo fazer login na plataforma. Sempre que tento, aparece uma mensagem de erro."
+    },
+    {
+      "nome": "12674",
+      "genero": "M",
+      "tipo": "atendente",
+      "fala": "Entendi. Para que eu possa ajudá-la, preciso que você me informe o seu RG, por favor."
+    },
+    {
+      "nome": "45321",
+      "genero": "F",
+      "tipo": "usuario",
+      "fala": "Claro, meu RG é 32.364.239-1."
+    },
+    {
+      "nome": "12674",
+      "genero": "M",
+      "tipo": "atendente",
+      "fala": "Obrigado por informar, vou verificar os dados da sua conta. Por favor, aguarde um momento."
+    },
+    {
+      "nome": "45321",
+      "genero": "F",
+      "tipo": "usuario",
+      "fala": "Certo, estou aguardando."
+    },
+    {
+      "nome": "12674",
+      "genero": "M",
+      "tipo": "atendente",
+      "fala": "Verifiquei o seu cadastro e identifiquei o problema. Parece que você digitou o seu nome de usuário incorretamente. Você se lembra qual era o nome de usuário utilizado?"
+    },
+    {
+      "nome": "45321",
+      "genero": "F",
+      "tipo": "usuario",
+      "fala": "Sim, o meu nome de usuário é exemplo123."
+    },
+    {
+      "nome": "12674",
+      "genero": "M",
+      "tipo": "atendente",
+      "fala": "Perfeito! Vou fazer a correção para você. Aguarde mais um instante, por favor."
+    },
+    {
+      "nome": "45321",
+      "genero": "F",
+      "tipo": "usuario",
+      "fala": "Ok, estou aguardando."
+    },
+    {
+      "nome": "12674",
+      "genero": "M",
+      "tipo": "atendente",
+      "fala": "Pronto, a alteração foi realizada com sucesso. Agora você deve conseguir fazer login normalmente com o seu nome de usuário correto. Alguma outra dúvida que posso ajudar?"
+    },
+    {
+      "nome": "45321",
+      "genero": "F",
+      "tipo": "usuario",
+      "fala": "Não, era somente esse problema. Muito obrigada pela ajuda!"
+    },
+    {
+      "nome": "12674",
+      "genero": "M",
+      "tipo": "atendente",
+      "fala": "De nada! Fico feliz em poder ajudá-la. Se surgir qualquer outra dificuldade, não hesite em nos contatar. Tenha um ótimo dia!"
+    }
+  ]
+}

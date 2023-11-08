@@ -1,0 +1,64 @@
+{
+  "dialogo": [
+    {
+      "nome": "Alice",
+      "genero": "F",
+      "tipo": "usuario",
+      "fala": "Olá, estou com um problema no meu computador. Pode me ajudar?"
+    },
+    {
+      "nome": "John",
+      "genero": "M",
+      "tipo": "atendente",
+      "fala": "Claro, Alice. Pode me dizer qual é o problema que você está enfrentando?"
+    },
+    {
+      "nome": "Alice",
+      "genero": "F",
+      "tipo": "usuario",
+      "fala": "Meu computador está travando constantemente. Já reiniciei, mas o problema persiste."
+    },
+    {
+      "nome": "John",
+      "genero": "M",
+      "tipo": "atendente",
+      "fala": "Entendo, Alice. Vou precisar do seu RG, por favor, para que eu possa acessar o seu histórico."
+    },
+    {
+      "nome": "Alice",
+      "genero": "F",
+      "tipo": "usuario",
+      "fala": "Claro, meu RG é 32.139.311-9."
+    },
+    {
+      "nome": "John",
+      "genero": "M",
+      "tipo": "atendente",
+      "fala": "Obrigado, Alice. Vou verificar as informações aqui. Enquanto isso, você já tentou executar uma verificação de vírus no seu sistema?"
+    },
+    {
+      "nome": "Alice",
+      "genero": "F",
+      "tipo": "usuario",
+      "fala": "Ainda não, John. Vou fazer isso agora mesmo."
+    },
+    {
+      "nome": "John",
+      "genero": "M",
+      "tipo": "atendente",
+      "fala": "Ótimo, Alice! Depois da verificação, reinicie novamente o computador e veja se o problema persiste."
+    },
+    {
+      "nome": "Alice",
+      "genero": "F",
+      "tipo": "usuario",
+      "fala": "Certo, John. Vou seguir suas instruções e testar. Muito obrigada pela ajuda!"
+    },
+    {
+      "nome": "John",
+      "genero": "M",
+      "tipo": "atendente",
+      "fala": "Não há de quê, Alice. Qualquer dúvida, estou à disposição. Tenha um bom dia!"
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "dialogo": [
+    {
+      "nome": "Valentina",
+      "genero": "F",
+      "tipo": "usuario",
+      "fala": "Olá, estou tendo problemas com o meu dispositivo. Poderia me ajudar?"
+    },
+    {
+      "nome": "Gabriel",
+      "genero": "M",
+      "tipo": "atendente",
+      "fala": "Claro, Valentina! Com certeza vou ajudar você. Para iniciar, poderia informar o seu RG?"
+    },
+    {
+      "nome": "Valentina",
+      "genero": "F",
+      "tipo": "usuario",
+      "fala": "Meu RG é 50.793.967-0."
+    },
+    {
+      "nome": "Gabriel",
+      "genero": "M",
+      "tipo": "atendente",
+      "fala": "Ótimo, obrigado por fornecer seu RG, Valentina. Agora, por favor, descreva o problema com mais detalhes."
+    },
+    {
+      "nome": "Valentina",
+      "genero": "F",
+      "tipo": "usuario",
+      "fala": "Bem, meu dispositivo está reiniciando aleatoriamente e fica lento em algumas ocasiões."
+    },
+    {
+      "nome": "Gabriel",
+      "genero": "M",
+      "tipo": "atendente",
+      "fala": "Entendo, Valentina. Vamos fazer alguns testes para identificar o que está causando esses problemas. Primeiro, você poderia reiniciar o dispositivo?"
+    },
+    {
+      "nome": "Valentina",
+      "genero": "F",
+      "tipo": "usuario",
+      "fala": "Já fiz isso algumas vezes, mas o problema persiste."
+    },
+    {
+      "nome": "Gabriel",
+      "genero": "M",
+      "tipo": "atendente",
+      "fala": "Compreendo, Valentina. Vou registrar seu caso e encaminhar para nossa equipe técnica. Eles entrarão em contato com você em breve para fornecer uma solução. Você tem algum outro questionamento por enquanto?"
+    },
+    {
+      "nome": "Valentina",
+      "genero": "F",
+      "tipo": "usuario",
+      "fala": "Não, era só isso mesmo. Obrigada!"
+    },
+    {
+      "nome": "Gabriel",
+      "genero": "M",
+      "tipo": "atendente",
+      "fala": "De nada, Valentina! Estamos à disposição para ajudar. Tenha um ótimo dia!"
+    }
+  ]
+}

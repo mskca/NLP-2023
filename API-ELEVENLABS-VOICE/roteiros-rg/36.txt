@@ -1,0 +1,52 @@
+{
+  "dialogo": [
+    {
+      "nome": "Maurício",
+      "genero": "M",
+      "tipo": "usuario",
+      "fala": "Olá, estou com um problema em meu produto."
+    },
+    {
+      "nome": "Carolina",
+      "genero": "F",
+      "tipo": "atendente",
+      "fala": "Olá, Maurício. Como posso ajudá-lo hoje?"
+    },
+    {
+      "nome": "Maurício",
+      "genero": "M",
+      "tipo": "usuario",
+      "fala": "Bem, meu produto parece estar com defeito. O número do RG é 29.170.235-1."
+    },
+    {
+      "nome": "Carolina",
+      "genero": "F",
+      "tipo": "atendente",
+      "fala": "Entendo, Maurício. Vou verificar o que podemos fazer. Poderia me informar qual é o problema exatamente?"
+    },
+    {
+      "nome": "Maurício",
+      "genero": "M",
+      "tipo": "usuario",
+      "fala": "O produto não liga mais e eu já tentei várias soluções."
+    },
+    {
+      "nome": "Carolina",
+      "genero": "F",
+      "tipo": "atendente",
+      "fala": "Compreendo, Maurício. Vou abrir um chamado técnico para você. Por favor, aguarde um momento."
+    },
+    {
+      "nome": "Maurício",
+      "genero": "M",
+      "tipo": "usuario",
+      "fala": "Certo, aguardarei. Obrigado pela ajuda, Carolina."
+    },
+    {
+      "nome": "Carolina",
+      "genero": "F",
+      "tipo": "atendente",
+      "fala": "De nada, Maurício. Faremos o possível para resolver seu problema o mais rápido possível. Qualquer novidade entraremos em contato pelo telefone cadastrado. Tenha um bom dia!"
+    }
+  ]
+}

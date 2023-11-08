@@ -1,0 +1,64 @@
+{
+    "dialogo": [
+        {
+            "nome": "Amanda",
+            "genero": "F",
+            "tipo": "usuario",
+            "fala": "Olá, preciso de ajuda com um problema no meu computador."
+        },
+        {
+            "nome": "Carlos",
+            "genero": "M",
+            "tipo": "atendente",
+            "fala": "Claro, Amanda. Sou o Carlos, seu atendente. Poderia me dizer qual é o problema?"
+        },
+        {
+            "nome": "Amanda",
+            "genero": "F",
+            "tipo": "usuario",
+            "fala": "Meu computador não está reconhecendo a impressora. Já tentei de tudo!"
+        },
+        {
+            "nome": "Carlos",
+            "genero": "M",
+            "tipo": "atendente",
+            "fala": "Entendo, Amanda. Vamos verificar. Poderia me fornecer seu RG para identificação?"
+        },
+        {
+            "nome": "Amanda",
+            "genero": "F",
+            "tipo": "usuario",
+            "fala": "Claro, meu RG é 47.116.727-7."
+        },
+        {
+            "nome": "Carlos",
+            "genero": "M",
+            "tipo": "atendente",
+            "fala": "Obrigado pela informação, Amanda. Vamos prosseguir com a solução do seu problema."
+        },
+        {
+            "nome": "Amanda",
+            "genero": "F",
+            "tipo": "usuario",
+            "fala": "Ótimo, estou aguardando ansiosamente a solução."
+        },
+        {
+            "nome": "Carlos",
+            "genero": "M",
+            "tipo": "atendente",
+            "fala": "Acredito que seja necessário reinstalar o driver da impressora no seu computador. Vou te enviar um link com as instruções."
+        },
+        {
+            "nome": "Amanda",
+            "genero": "F",
+            "tipo": "usuario",
+            "fala": "Perfeito! Irei seguir as instruções e tentar resolver. Muito obrigada, Carlos!"
+        },
+        {
+            "nome": "Carlos",
+            "genero": "M",
+            "tipo": "atendente",
+            "fala": "De nada, Amanda. Estou aqui para ajudar. Se precisar de qualquer outra assistência, não hesite em entrar em contato novamente. Tenha um bom dia!"
+        }
+    ]
+}

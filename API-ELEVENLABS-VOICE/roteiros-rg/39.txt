@@ -1,0 +1,76 @@
+{
+  "dialogo": [
+    {
+      "nome": "Lucas",
+      "genero": "M",
+      "tipo": "usuario",
+      "fala": "Olá, preciso de ajuda com meu produto."
+    },
+    {
+      "nome": "Laura",
+      "genero": "F",
+      "tipo": "atendente",
+      "fala": "Olá, Lucas! Claro, estou aqui para ajudá-lo. Poderia me fornecer seu RG, por favor?"
+    },
+    {
+      "nome": "Lucas",
+      "genero": "M",
+      "tipo": "usuario",
+      "fala": "Claro, meu RG é 25.197.979-9."
+    },
+    {
+      "nome": "Laura",
+      "genero": "F",
+      "tipo": "atendente",
+      "fala": "Muito obrigada, Lucas! Agora, qual é a sua dúvida ou problema com o produto?"
+    },
+    {
+      "nome": "Lucas",
+      "genero": "M",
+      "tipo": "usuario",
+      "fala": "Bom, estou enfrentando um problema com o carregador do meu celular. Ele não está funcionando corretamente."
+    },
+    {
+      "nome": "Laura",
+      "genero": "F",
+      "tipo": "atendente",
+      "fala": "Entendo, Lucas. Vamos tentar resolver essa situação. Você já verificou se está utilizando o carregador original que veio junto com o celular?"
+    },
+    {
+      "nome": "Lucas",
+      "genero": "M",
+      "tipo": "usuario",
+      "fala": "Sim, tenho certeza de que é o carregador original."
+    },
+    {
+      "nome": "Laura",
+      "genero": "F",
+      "tipo": "atendente",
+      "fala": "Certo, Lucas. Vamos realizar alguns testes para identificar o problema. Você poderia tentar carregar o celular em uma tomada diferente e verificar se o carregador está conectado corretamente?"
+    },
+    {
+      "nome": "Lucas",
+      "genero": "M",
+      "tipo": "usuario",
+      "fala": "Já tentei em diferentes tomadas e também conectei o carregador corretamente, mas ainda assim não funciona."
+    },
+    {
+      "nome": "Laura",
+      "genero": "F",
+      "tipo": "atendente",
+      "fala": "Entendi, Lucas. Parece que há um problema com o carregador. Vou registrar sua solicitação para que nossa equipe técnica possa analisar e tomar as devidas providências. RG 25.197.979-9 será o número de referência para o seu chamado. O prazo para retorno é de até 48 horas úteis. Alguma outra dúvida?"
+    },
+    {
+      "nome": "Lucas",
+      "genero": "M",
+      "tipo": "usuario",
+      "fala": "Não, isso é tudo. Obrigado pela ajuda, Laura."
+    },
+    {
+      "nome": "Laura",
+      "genero": "F",
+      "tipo": "atendente",
+      "fala": "De nada, Lucas! Estamos à disposição para ajudar. Tenha um ótimo dia!"
+    }
+  ]
+}

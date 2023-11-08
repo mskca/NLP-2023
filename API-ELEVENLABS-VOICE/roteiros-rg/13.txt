@@ -1,0 +1,112 @@
+{
+  "dialogo": [
+    {
+      "nome": "Guilherme",
+      "genero": "M",
+      "tipo": "usuario",
+      "fala": "Olá, estou com um problema no meu computador. Podem me ajudar?"
+    },
+    {
+      "nome": "Aline",
+      "genero": "F",
+      "tipo": "atendente",
+      "fala": "Olá, Guilherme! Claro, estou aqui para ajudar. Pode me descrever o problema?"
+    },
+    {
+      "nome": "Guilherme",
+      "genero": "M",
+      "tipo": "usuario",
+      "fala": "Meu computador está travando constantemente e está muito lento."
+    },
+    {
+      "nome": "Aline",
+      "genero": "F",
+      "tipo": "atendente",
+      "fala": "Entendo, Guilherme. Vou precisar do seu RG para verificar seus registros no sistema. Por favor, me informe seu RG."
+    },
+    {
+      "nome": "Guilherme",
+      "genero": "M",
+      "tipo": "usuario",
+      "fala": "Meu RG é 23.653.215-7."
+    },
+    {
+      "nome": "Aline",
+      "genero": "F",
+      "tipo": "atendente",
+      "fala": "Obrigada, Guilherme. Irei consultar seus dados. Enquanto isso, você já tentou reiniciar o computador?"
+    },
+    {
+      "nome": "Guilherme",
+      "genero": "M",
+      "tipo": "usuario",
+      "fala": "Sim, já reiniciei algumas vezes e o problema persiste."
+    },
+    {
+      "nome": "Aline",
+      "genero": "F",
+      "tipo": "atendente",
+      "fala": "Certo, Guilherme. Vou precisar acessar seu computador remotamente para realizar alguns diagnósticos. Você concorda?"
+    },
+    {
+      "nome": "Guilherme",
+      "genero": "M",
+      "tipo": "usuario",
+      "fala": "Sim, pode acessar remotamente."
+    },
+    {
+      "nome": "Aline",
+      "genero": "F",
+      "tipo": "atendente",
+      "fala": "Perfeito. Aguarde um momento enquanto eu acesso seu computador."
+    },
+    {
+      "nome": "Guilherme",
+      "genero": "M",
+      "tipo": "usuario",
+      "fala": "Certo, estou aguardando."
+    },
+    {
+      "nome": "Aline",
+      "genero": "F",
+      "tipo": "atendente",
+      "fala": "Já estou conectada, Guilherme. Vou verificar os programas em execução e realizar uma varredura em busca de possíveis ameaças."
+    },
+    {
+      "nome": "Guilherme",
+      "genero": "M",
+      "tipo": "usuario",
+      "fala": "Muito obrigado pela ajuda, Aline."
+    },
+    {
+      "nome": "Aline",
+      "genero": "F",
+      "tipo": "atendente",
+      "fala": "Não há de quê, Guilherme. Estamos aqui para ajudar. Verifiquei alguns problemas e iniciarei os procedimentos para solucioná-los. Por favor, aguarde."
+    },
+    {
+      "nome": "Guilherme",
+      "genero": "M",
+      "tipo": "usuario",
+      "fala": "Claro, sem pressa. Agradeço novamente."
+    },
+    {
+      "nome": "Aline",
+      "genero": "F",
+      "tipo": "atendente",
+      "fala": "Pronto, Guilherme. Realizei os ajustes necessários e agora seu computador deve estar funcionando corretamente. Alguma outra dúvida?"
+    },
+    {
+      "nome": "Guilherme",
+      "genero": "M",
+      "tipo": "usuario",
+      "fala": "Não, estou satisfeito com o atendimento e a solução. Muito obrigado, Aline!"
+    },
+    {
+      "nome": "Aline",
+      "genero": "F",
+      "tipo": "atendente",
+      "fala": "Fico feliz em ajudar, Guilherme. Se surgir algum problema futuro, não hesite em nos contatar novamente. Tenha um bom dia!"
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "dialogo": [
+    {
+      "nome": "Alice",
+      "genero": "F",
+      "tipo": "usuario",
+      "fala": "Olá! Preciso de ajuda com minha conta."
+    },
+    {
+      "nome": "Victor",
+      "genero": "M",
+      "tipo": "atendente",
+      "fala": "Olá, sou o Victor. Como posso ajudar?"
+    },
+    {
+      "nome": "Alice",
+      "genero": "F",
+      "tipo": "usuario",
+      "fala": "Estou com problemas para fazer login na minha conta."
+    },
+    {
+      "nome": "Victor",
+      "genero": "M",
+      "tipo": "atendente",
+      "fala": "Entendo. Poderia me fornecer o seu CPF para que eu possa verificar os detalhes da sua conta?"
+    },
+    {
+      "nome": "Alice",
+      "genero": "F",
+      "tipo": "usuario",
+      "fala": "Meu CPF é 755.825.660-74."
+    },
+    {
+      "nome": "Victor",
+      "genero": "M",
+      "tipo": "atendente",
+      "fala": "Obrigado por fornecer o seu CPF, Alice. Vou verificar o que está acontecendo com o seu login."
+    },
+    {
+      "nome": "Victor",
+      "genero": "M",
+      "tipo": "atendente",
+      "fala": "Verifiquei o sistema e parece que a sua conta está bloqueada por motivos de segurança. Precisamos solicitar a reativação."
+    },
+    {
+      "nome": "Alice",
+      "genero": "F",
+      "tipo": "usuario",
+      "fala": "Ah, entendo. Pode reativá-la pra mim, por favor?"
+    },
+    {
+      "nome": "Victor",
+      "genero": "M",
+      "tipo": "atendente",
+      "fala": "Claro, Alice. Vou precisar confirmar alguns dados adicionais para prosseguir com a reativação. Poderia confirmar o seu endereço de e-mail registrado na conta?"
+    },
+    {
+      "nome": "Alice",
+      "genero": "F",
+      "tipo": "usuario",
+      "fala": "Meu e-mail é alice@example.com."
+    },
+    {
+      "nome": "Victor",
+      "genero": "M",
+      "tipo": "atendente",
+      "fala": "Obrigado, Alice. Vou enviar um e-mail de confirmação para o endereço informado. Assim que confirmar, sua conta será reativada."
+    },
+    {
+      "nome": "Alice",
+      "genero": "F",
+      "tipo": "usuario",
+      "fala": "Ok, vou verificar meu e-mail e confirmar o mais rápido possível. Obrigada pela ajuda, Victor!"
+    },
+    {
+      "nome": "Victor",
+      "genero": "M",
+      "tipo": "atendente",
+      "fala": "Não há de quê, Alice. Qualquer outra dúvida, sinta-se à vontade para me perguntar. Tenha um bom dia!"
+    },
+    {
+      "nome": "Alice",
+      "genero": "F",
+      "tipo": "usuario",
+      "fala": "Obrigada, você também!"
+    }
+  ]
+}
