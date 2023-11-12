@@ -1,0 +1,1314 @@
+{"text": "Olá, seja bem-vindo ao Suporte ao Cliente. Meu nome é Mariana, como posso ajudar?", "label": [[54, 61, "NOME"]]}
+{"text": "Olá, Mariana. Meu nome é José da Silva e estou com um problema no meu produto.", "label": [[5, 12, "NOME"], [25, 29, "NOME"]]}
+{"text": "De nada, José. Estamos aqui para ajudar. Se precisar de mais algum suporte, não hesite em entrar em contato conosco. Tenha um bom dia.", "label": [[9, 13, "NOME"]]}
+{"text": "Oi, José. Fico feliz em poder ajudar. Você poderia me fornecer o seu CPF, por favor?", "label": [[4, 8, "NOME"]]}
+{"text": "Claro, meu CPF é 140.321,4041.", "label": [[17, 29, "NUMERO"]]}
+{"text": "Obrigada, José. Agora vamos analisar o seu caso. Poderia me dar mais detalhes sobre o problema que está enfrentando?", "label": [[10, 14, "NOME"]]}
+{"text": "Com certeza, meu produto está com um defeito no botão de ligar. Ele simplesmente não funciona.", "label": []}
+{"text": "Entendo, José. Para resolvermos essa questão, vou precisar de algumas informações adicionais. Você já tentou reiniciar o produto?", "label": [[9, 13, "NOME"]]}
+{"text": "Sim, já tentei reiniciar várias vezes, mas o problema persiste.", "label": []}
+{"text": "Ok, José. Vamos fazer o seguinte. Vou abrir um chamado técnico para você e um dos nossos especialistas entrará em contato para encontrar uma solução. Seu CPF será usado como identificação do chamado. Alguma outra dúvida?", "label": [[4, 8, "NOME"]]}
+{"text": "Não, era isso mesmo que eu precisava. Muito obrigada pela sua ajuda, Mariana.", "label": [[69, 75, "NOME"]]}
+{"text": "Olá, estou com um problema no meu computador.", "label": []}
+{"text": "Olá, Maria. Como posso ajudá-la hoje?", "label": [[5, 10, "NOME"]]}
+{"text": "Está bem. Vou aguardar. Obrigada.", "label": []}
+{"text": "Prontinho, Maria. Acredito que tenha resolvido o problema. Por favor, tente acessar a internet agora.", "label": [[11, 16, "NOME"]]}
+{"text": "Funcionou! Muito obrigada pela ajuda, John.", "label": [[38, 42, "NOME"]]}
+{"text": "De nada, Maria. Fico feliz que tenha sido resolvido. Se precisar de mais alguma coisa, estarei aqui para ajudá-la.", "label": [[9, 14, "NOME"]]}
+{"text": "Com certeza, John. Tenha um ótimo dia.", "label": [[13, 17, "NOME"]]}
+{"text": "Igualmente, Maria. Tenha um ótimo dia você também.", "label": [[12, 17, "NOME"]]}
+{"text": "Bem, parece que eu não consigo acessar a internet. Já tentei reiniciar o roteador, mas não resolveu.", "label": []}
+{"text": "Entendi, Maria. Vamos ver o que podemos fazer. Primeiro, poderia me fornecer seu CPF, por favor?", "label": [[9, 14, "NOME"]]}
+{"text": "Claro, meu CPF é 021-716-49380-C101.", "label": [[17, 35, "NUMERO"]]}
+{"text": "Obrigado, Maria. Vou verificar algumas informações relacionadas à sua conexão.", "label": [[10, 15, "NOME"]]}
+{"text": "Certo, estou aguardando.", "label": []}
+{"text": "Após análise, parece que há um problema na configuração do seu roteador. Podemos tentar reconfigurá-lo remotamente?", "label": []}
+{"text": "SIM, por favor. Meu roteador é um modelo XXZ, se isso ajudar.", "label": []}
+{"text": "Ótimo, Maria! Vou acessar suas configurações remotamente. Isso pode demorar alguns minutos, mas eu avisarei quando estiver pronto.", "label": [[7, 12, "NOME"]]}
+{"text": "Olá, estou com um problema no meu produto.", "label": []}
+{"text": "Olá Caio, como posso te ajudar hoje?", "label": [[4, 8, "NOME"]]}
+{"text": "Bem, meu produto não funciona como esperado. Gostaria de resolver isso o mais rápido possível.", "label": []}
+{"text": "Claro, vou precisar do seu CPF para localizar a sua compra. Poderia me fornecer?", "label": []}
+{"text": "Meu CPF é 9,87 e o PIU 15,42B do site é 20,92.", "label": [[10, 14, "NUMERO"], [23, 28, "NUMERO"], [40, 45, "NUMERO"]]}
+{"text": "Obrigada, Caio. Já localizei a sua compra. Agora, por favor, descreva detalhadamente o problema que está enfrentando.", "label": [[10, 14, "NOME"]]}
+{"text": "O produto não liga e apresenta algumas falhas na tela inicial. Tentei reiniciá-lo, mas o problema persiste.", "label": []}
+{"text": "Entendo. Vou registrar o seu problema e encaminhá-lo para a nossa equipe técnica. Em até 48 horas úteis, entraremos em contato com você para realizar os devidos procedimentos.", "label": [[89, 91, "NUMERO"]]}
+{"text": "Ótimo. Aguardarei o contato. Obrigado pela sua ajuda, Laura.", "label": [[54, 59, "NOME"]]}
+{"text": "Por nada, Caio. Fico feliz em poder ajudar. Qualquer outra dúvida, estou à disposição. Tenha um ótimo dia.", "label": [[10, 14, "NOME"]]}
+{"text": "Olá, estou com problemas no meu serviço. Pode me ajudar?", "label": []}
+{"text": "Claro, vou fazer o possível para ajudá-la. Pode me informar seu nome, por favor?", "label": []}
+{"text": "Meu nome é Ana Paula.", "label": [[11, 20, "NOME"]]}
+{"text": "Obrigado, Ana Paula. Agora, por favor, informe seu CPF para que eu possa localizar sua conta.", "label": [[10, 19, "NOME"]]}
+{"text": "Meu CPF é 535 puso é de 43.790.90.", "label": [[10, 13, "NUMERO"], [24, 33, "NUMERO"]]}
+{"text": "Perfeito. Obrigado por fornecer seu CPF. Agora, qual é o problema que você está enfrentando?", "label": []}
+{"text": "Estou com dificuldades para acessar minha conta online.", "label": []}
+{"text": "Estendo, vou verificar o que pode estar ocorrendo. Por favor, aguarde um momento.", "label": []}
+{"text": "Certo, estarei aguardando.", "label": []}
+{"text": "Olá, estou tendo problemas com o meu produto.", "label": []}
+{"text": "Boa tarde, meu nome é Luciana. Como posso ajudar?", "label": [[22, 29, "NOME"]]}
+{"text": "Você poderia me informar o número de série do aparelho, por favor?", "label": []}
+{"text": "Claro, o número de série é 039.770-4284.", "label": [[27, 39, "NUMERO"]]}
+{"text": "André, o número de série que preciso é um código alfanumérico localizado na parte traseira do aparelho.", "label": [[0, 5, "NOME"]]}
+{"text": "Peço desculpas, não entendi corretamente. Já encontrei o número de série, é ABCD 1234.", "label": [[81, 85, "NUMERO"]]}
+{"text": "Obrigada pela informação, Andre. Aguarde um momento enquanto eu verifico os registros.", "label": [[26, 31, "NOME"]]}
+{"text": "Encontrei algumas informações relevantes sobre o seu aparelho. Vou te fornecer algumas instruções para tentar solucionar o problema.", "label": []}
+{"text": "Ótimo! Estou no aguardo das instruções.", "label": []}
+{"text": "Para começar, recomendo que você verifique se todos os cabos estão conectados corretamente.", "label": []}
+{"text": "Ok, vou verificar.", "label": []}
+{"text": "Verificou os cabos? O problema persiste?", "label": []}
+{"text": "Meu CPF é 039.770.4120-84 e estou com dificuldades para realizar a configuração.", "label": [[10, 25, "NUMERO"]]}
+{"text": "Sim, verifiquei e os cabos estão todos conectados corretamente. No entanto, o problema ainda persiste.", "label": []}
+{"text": "Entendo, Andre. Nesse caso, irei criar um chamado técnico para que um especialista entre em contato com você e possamos resolver essa situação o mais rápido possível.", "label": [[9, 14, "NOME"]]}
+{"text": "Perfeito, agradeço sua ajuda.", "label": []}
+{"text": "Foi um prazer ajudar, Andre. Você receberá em breve um e-mail com todas as informações sobre o chamado técnico.", "label": [[22, 27, "NOME"]]}
+{"text": "Entendo, André. Vou verificar o seu cadastro no sistema.", "label": [[9, 14, "NOME"]]}
+{"text": "Para que eu possa te ajudar melhor, poderia informar qual é o produto em questão?", "label": []}
+{"text": "Estou com problemas no meu aparelho de TV.", "label": []}
+{"text": "Certo, Andre. Vamos tentar resolver esse problema juntos.", "label": [[7, 12, "NOME"]]}
+{"text": "Você já tentou reiniciar o aparelho?", "label": []}
+{"text": "Sim, já fiz isso, mas o problema persiste.", "label": []}
+{"text": "Tudo bem, André. Vamos tentar algumas outras soluções.", "label": [[10, 15, "NOME"]]}
+{"text": "Olá, estou com um problema em meu computador. Pode me ajudar?", "label": []}
+{"text": "Claro, Ana! Pode me passar o seu CPF para eu localizar a sua conta?", "label": [[7, 10, "NOME"]]}
+{"text": "Ok, fiz isso. O sistema está realizando uma verificação completa.", "label": []}
+{"text": "Perfeito, agora aguarde até o processo de verificação ser concluído. Pode demorar alguns minutos.", "label": []}
+{"text": "Meu CPF é 576,95 para ser mais 70.", "label": [[10, 16, "NUMERO"], [31, 33, "NUMERO"]]}
+{"text": "Obrigado, Ana. Agora me conte qual é o problema que está enfrentando.", "label": [[10, 13, "NOME"]]}
+{"text": "Eu estou recebendo várias mensagens de erro no meu sistema operacional.", "label": []}
+{"text": "Entendo, Ana. Vamos verificar o que pode estar causando esses erros. Você já tentou reiniciar o computador?", "label": [[9, 12, "NOME"]]}
+{"text": "Sim, já tentei reiniciar, mas os erros persistem.", "label": []}
+{"text": "Certo, Ana. Vamos fazer alguns procedimentos de diagnóstico para identificar a origem do problema. Por favor, siga as instruções que irei te fornecer.", "label": [[7, 10, "NOME"]]}
+{"text": "Está bem. Farei o que me pedir.", "label": []}
+{"text": "Ótimo, vamos começar pelo verificador de erros do sistema. Digite sfcscanal no prompt de comando e pressione Enter.", "label": []}
+{"text": "Olá, estou com problemas no meu serviço.", "label": []}
+{"text": "Olá, sou o Antônio, seu atendente. Como posso ajudá-la hoje?", "label": [[11, 18, "NOME"]]}
+{"text": "O diagnóstico apontou uma incompatibilidade de firmware. Será necessário atualizar o seu roteador.", "label": []}
+{"text": "Obrigada por identificar o problema. Como faço para atualizar o firmware?", "label": []}
+{"text": "Vou lhe enviar um tutorial passo a passo por e-mail, com todas as instruções necessárias para realizar a atualização. Verifique sua caixa de entrada em alguns minutos.", "label": []}
+{"text": "Perfeito. Vou verificar. Obrigada pela sua ajuda, Antônio.", "label": [[50, 57, "NOME"]]}
+{"text": "De nada, Alice. Se tiver mais alguma dúvida, estou à disposição. Tenha um ótimo dia.", "label": [[9, 14, "NOME"]]}
+{"text": "Obrigada, igualmente.", "label": []}
+{"text": "Meu CPF é 0,36.818.580.04. Estou enfrentando instabilidade na minha conexão de internet.", "label": [[10, 25, "NUMERO"]]}
+{"text": "Entendo. Vou verificar aqui no sistema. Por favor, aguarde um momento.", "label": []}
+{"text": "Verifiquei os registros e parece que há um problema com o seu roteador. Você já tentou reiniciá-lo?", "label": []}
+{"text": "Sim, já tentei reiniciar, mas o problema persiste.", "label": []}
+{"text": "Certo, vamos fazer alguns testes remotos. Pode me informar o modelo do seu roteador.", "label": []}
+{"text": "Claro, o modelo é TP-Link Archer C7.", "label": []}
+{"text": "Ótimo! Vou gerar um diagnóstico remoto para identificar a causa do problema. Isso levará alguns minutos.", "label": []}
+{"text": "Tudo bem, estou aguardando.", "label": []}
+{"text": "Olá, eu sou a Maria e estou com um problema no meu produto.", "label": [[14, 19, "NOME"]]}
+{"text": "Olá, Maria! Eu sou o João e estou aqui para te ajudar. Qual o número do seu CPF, por favor?", "label": [[5, 10, "NOME"], [21, 25, "NOME"]]}
+{"text": "Não está tudo certo. Obrigada pela ajuda.", "label": []}
+{"text": "De nada, Maria. Estamos à disposição para ajudar. Tenha um ótimo dia.", "label": [[9, 14, "NOME"]]}
+{"text": "Meu CPF é R$ 6,93 em quatro línguas 20 e 30.", "label": [[13, 17, "NUMERO"], [36, 38, "NUMERO"], [41, 43, "NUMERO"]]}
+{"text": "Obrigado, Maria. Agora, qual é o problema que você está enfrentando com o produto?", "label": [[10, 15, "NOME"]]}
+{"text": "Eu comprei um celular e ele não está ligando de jeito nenhum. Já tentei carregar a bateria e nada acontece.", "label": []}
+{"text": "Entendo, Maria. Vou verificar o seu caso aqui. Por favor, aguarde um momento.", "label": [[9, 14, "NOME"]]}
+{"text": "É ok, estou aguardando.", "label": []}
+{"text": "Maria, verifiquei o seu pedido e constatei que o produto ainda está dentro do prazo de garantia. Podemos enviar um técnico até a sua residência para avaliar o celular. O endereço cadastrado é o seguinte. Rua dos Testes, 123, bairro aleatório, cidade escolhida. Confirma os dados?", "label": [[0, 5, "NOME"], [220, 223, "NUMERO"]]}
+{"text": "Sim, os dados estão corretos.", "label": []}
+{"text": "Perfeito, Maria. Vamos agendar a visita técnica para amanhã, pela parte da tarde. O técnico chegará entre as 14h e as 18h. Alguma outra dúvida?", "label": [[10, 15, "NOME"], [109, 111, "NUMERO"], [118, 120, "NUMERO"]]}
+{"text": "Olá, bem-vindo ao Suporte ao Cliente, como posso ajudá-lo?", "label": []}
+{"text": "Oi, meu nome é Lucas e estou com um problema no meu produto.", "label": [[15, 20, "NOME"]]}
+{"text": "De nada, Lucas. Se surgir alguma dúvida, não hesite em nos contatar novamente. Tenha um ótimo dia.", "label": [[9, 14, "NOME"]]}
+{"text": "Olá Lucas, serei sua atendente. Qual é o CPF registrado em sua conta?", "label": [[4, 9, "NOME"]]}
+{"text": "Meu CPF é 827.481,7916.", "label": [[10, 22, "NUMERO"]]}
+{"text": "Obrigada, Lucas. Agora, por favor, descreva o problema com mais detalhes.", "label": [[10, 15, "NOME"]]}
+{"text": "Bem, meu produto está apresentando alguns defeitos desde a última atualização.", "label": []}
+{"text": "Entendo, Lucas. Você já tentou reiniciar o produto?", "label": [[9, 14, "NOME"]]}
+{"text": "Sim, já tentei reiniciar algumas vezes, mas o problema persiste.", "label": []}
+{"text": "Certo, Lucas. Farei um registro do seu problema e encaminharei para a nossa equipe técnica. Eles entrarão em contato com você em breve para solucionar o defeito. Você tem algum outro questionamento?", "label": [[7, 12, "NOME"]]}
+{"text": "Não, por enquanto está tudo bem. Obrigado pela ajuda.", "label": []}
+{"text": "Olá, estou tendo problemas para acessar minha conta.", "label": []}
+{"text": "Olá, Ana. Como posso lhe ajudar? Pode me informar seu CPF, por favor?", "label": [[5, 8, "NOME"]]}
+{"text": "Claro, meu CPF é 045.182.034006.", "label": [[17, 31, "NUMERO"]]}
+{"text": "Perfeito. Obrigado por informar seu CPF, Ana. Agora me diga qual é o problema que está enfrentando ao acessar sua conta.", "label": [[41, 44, "NOME"]]}
+{"text": "Eu coloco meu nome de usuário e senha corretamente, mas recebo uma mensagem de erro dizendo que minhas credenciais são inválidas.", "label": []}
+{"text": "Entendo, Ana. Vou verificar o que posso fazer para ajudar você. Por favor, aguarde um momento enquanto verifico seu cadastro.", "label": [[9, 12, "NOME"]]}
+{"text": "Claro, não tem problema.", "label": []}
+{"text": "Ana, verifiquei seu cadastro e parece que seu nome de usuário foi digitado incorretamente. Vou corrigir para você. Por favor, tente fazer o login novamente agora.", "label": [[0, 3, "NOME"]]}
+{"text": "Muito obrigada, João. Vou tentar acessar minha conta novamente.", "label": [[16, 20, "NOME"]]}
+{"text": "De nada, Ana. Fico feliz em poder ajudar. Se precisar de mais alguma coisa, estou à disposição.", "label": [[9, 12, "NOME"]]}
+{"text": "Olá, estou com um problema no meu computador.", "label": []}
+{"text": "Olá, Ana. Como posso ajudá-la?", "label": [[5, 8, "NOME"]]}
+{"text": "É o seguinte, meu CPF é 986.240.820.05. Estou tendo dificuldades para acessar alguns sites.", "label": [[24, 38, "NUMERO"]]}
+{"text": "Entendo, Ana. Vamos verificar o que pode estar acontecendo. Poderia me fornecer mais informações sobre o problema?", "label": [[9, 12, "NOME"]]}
+{"text": "Bem, acontece que ao tentar acessar determinados sites, recebo uma mensagem de erro dizendo que meu CPF está bloqueado ou inválido.", "label": []}
+{"text": "Compreendo, Ana. Vou checar a situação do seu CPF no sistema. Por favor, aguarde um momento.", "label": [[12, 15, "NOME"]]}
+{"text": "Certo, estarei aqui aguardando.", "label": []}
+{"text": "Ana, após verificar o sistema, não identificamos nenhum problema com o seu CPF. Pode ser uma questão relacionada ao navegador que está utilizando. Recomendo que tente limpar o cache e os cookies, ou até mesmo utilizar um navegador diferente.", "label": [[0, 3, "NOME"]]}
+{"text": "Certo, João. Farei isso e espero que funcione. Obrigada pela ajuda.", "label": [[7, 11, "NOME"]]}
+{"text": "De nada, Ana. Se precisar de mais alguma assistência, estarei à disposição. Tenha um ótimo dia!", "label": [[9, 12, "NOME"]]}
+{"text": "Olá, estou com um problema no meu computador. Pode me ajudar?", "label": []}
+{"text": "Claro, Jéssica, eu ficarei feliz em ajudar. Qual é o problema que você está enfrentando?", "label": [[7, 14, "NOME"]]}
+{"text": "Pronto, já reiniciei o computador. A tela voltou a funcionar normalmente. Obrigada!", "label": []}
+{"text": "Ótimo, Jessica. Fico feliz que tenha conseguido resolver o problema. Se precisar de mais alguma ajuda, estou à disposição. Tenha um ótimo dia!", "label": [[7, 14, "NOME"]]}
+{"text": "Muito obrigada, Daniel. Tenha um ótimo dia também.", "label": [[16, 22, "NOME"]]}
+{"text": "Minha tela está congelada e não consigo realizar nenhuma ação.", "label": []}
+{"text": "Entendo, Jessica. Vamos verificar algumas informações para podermos prosseguir. Por favor, poderia me informar seu CPF?", "label": [[9, 16, "NOME"]]}
+{"text": "Claro, meu CPF é 807.960,5324.", "label": [[17, 29, "NUMERO"]]}
+{"text": "Obrigado, Jéssica. Agora vamos tentar solucionar o problema. Você já tentou reiniciar o computador?", "label": [[10, 17, "NOME"]]}
+{"text": "Sim, já fiz isso algumas vezes, mas o problema persiste.", "label": []}
+{"text": "Entendo. Vamos tentar fazer uma reinicialização forçada. Para isso, pressione e segure o botão de ligar-desligar por aproximadamente 10 segundos até o computador desligar por completo. Depois, ligue-o novamente e veja se o problema foi resolvido.", "label": [[133, 135, "NUMERO"]]}
+{"text": "Ok, vou fazer isso agora.", "label": []}
+{"text": "Certo. Enquanto você reinicia o computador, vou pesquisar algumas possíveis soluções adicionais caso o problema persista. Por favor, me avise quando terminar.", "label": []}
+{"text": "Olá, estou com um problema e preciso de ajuda.", "label": []}
+{"text": "Olá, senhora. Claro, estou aqui para ajudar. Poderia me fornecer o seu CPF, por favor?", "label": []}
+{"text": "Pode deixar, João. Agradeço a atenção.", "label": [[13, 17, "NOME"]]}
+{"text": "Meu CPF é R$ 282.976,8029.", "label": [[13, 25, "NUMERO"]]}
+{"text": "Muito obrigado, Maria. Agora, por favor, descreva qual é o seu problema com mais detalhes.", "label": [[16, 21, "NOME"]]}
+{"text": "Estou com dificuldades para acessar a minha conta online. Toda vez que tento entrar, recebo uma mensagem de erro.", "label": []}
+{"text": "Entendo, Maria. Vou verificar o que pode estar acontecendo. Por favor, aguarde um momento.", "label": [[9, 14, "NOME"]]}
+{"text": "Certo, sem problemas.", "label": []}
+{"text": "Verifiquei o sistema, Maria. Parece que houve um problema temporário que afetou o seu acesso. Peço desculpas pelo inconveniente. Já resolvi o problema e você já pode acessar a sua conta novamente.", "label": [[22, 27, "NOME"]]}
+{"text": "Muito obrigada, João. Fico feliz que tenha resolvido rápido.", "label": [[16, 20, "NOME"]]}
+{"text": "É um prazer poder ajudar, Maria. Lembre-se de entrar em contato novamente caso precise de qualquer assistência adicional.", "label": [[26, 31, "NOME"]]}
+{"text": "Olá, estou com um problema no meu equipamento.", "label": []}
+{"text": "Olá, João. Como posso ajudar?", "label": [[5, 9, "NOME"]]}
+{"text": "Perfeito, estarei em casa nesse horário. Obrigado pela ajuda.", "label": []}
+{"text": "Não há de quê, João. Ficamos à disposição para qualquer dúvida ou problema adicional. Tenha um bom dia!", "label": [[15, 19, "NOME"]]}
+{"text": "Meu equipamento não está funcionando corretamente. Acredito que precise de manutenção.", "label": []}
+{"text": "Entendo, João. Por favor, poderia me fornecer seu CPF para que eu possa localizar sua conta em nosso sistema?", "label": [[9, 13, "NOME"]]}
+{"text": "Claro, meu CPF é 9,667,347,1058.", "label": [[17, 31, "NUMERO"]]}
+{"text": "Obrigada, João. Já localizei sua conta. Agora, por favor, descreva com mais detalhes o problema que está enfrentando.", "label": [[10, 14, "NOME"]]}
+{"text": "O equipamento começou a apresentar falhas na semana passada. Ele desliga sozinho e está superaquecendo.", "label": []}
+{"text": "Entendido, João. Vamos agendar uma visita técnica para verificar o equipamento. Qual o seu endereço de residência?", "label": [[11, 15, "NOME"]]}
+{"text": "Meu endereço é Rua das Flores, 123, Bairro Central, Cidade X e Cusuzê.", "label": [[31, 34, "NUMERO"]]}
+{"text": "Ótimo, João. Anotei suas informações e enviaremos uma equipe técnica no dia 05-10-2022, no horário das 10h às 12h. Lembrando que será necessário alguém estar presente no local.", "label": [[7, 11, "NOME"], [76, 78, "NUMERO"], [79, 81, "NUMERO"], [82, 86, "NUMERO"], [103, 105, "NUMERO"], [110, 112, "NUMERO"]]}
+{"text": "Olá, eu estou com um problema no meu computador.", "label": []}
+{"text": "Olá, Roberto. Sou a Amanda. Como posso ajudá-lo hoje?", "label": [[5, 12, "NOME"], [20, 26, "NOME"]]}
+{"text": "Está bem. Estou pronto para desabilitar os itens necessários.", "label": []}
+{"text": "Perfeito, Roberto. Primeiro, pressione as teclas Windows Plus R, digite AmsConfig e pressione Enter. Nas opções de inicialização, desmarque todos os programas não Microsoft e reinicie o computador. Verifique se o problema ainda persiste.", "label": [[10, 17, "NOME"]]}
+{"text": "Bom dia, mamanda! Meu CPF é 656.368.730.08. E estou com um erro estranho ao ligar o computador. A tela fica toda preta.", "label": [[9, 16, "NOME"], [28, 42, "NUMERO"]]}
+{"text": "Entendo, Roberto. Vamos tentar algumas soluções para resolver esse problema. Primeiramente, você já tentou reiniciar o computador?", "label": [[9, 16, "NOME"]]}
+{"text": "Sim, já reiniciei algumas vezes, mas o problema continua.", "label": []}
+{"text": "Certo, Roberto. Vamos tentar fazer uma reinicialização avançada, então. Você pode pressionar a tecla F8 algumas vezes assim que o computador iniciar e selecionar a opção Modo de segurança.", "label": [[7, 14, "NOME"]]}
+{"text": "Ok, vou tentar fazer isso agora.", "label": []}
+{"text": "Ótimo, Roberto. Veja se consegue acessar o modo de segurança e me avise se o problema persistir.", "label": [[7, 14, "NOME"]]}
+{"text": "Consegui acessar o modo de segurança e a tela preta não apareceu. O que devo fazer agora?", "label": []}
+{"text": "Isso é um bom sinal, Roberto. Parece que pode haver algum conflito com algum driver ou programa que inicia junto com o sistema. Vou te orientar a desabilitar alguns itens para verificarmos qual pode ser o responsável.", "label": [[21, 28, "NOME"]]}
+{"text": "Olá, eu estou com um problema no meu computador.", "label": []}
+{"text": "Boa tarde, Ana. Em que posso ajudar?", "label": [[11, 14, "NOME"]]}
+{"text": "Feito as luzes piscaram, mas ainda nada.", "label": []}
+{"text": "Peço desculpas pelo inconveniente. Vou agendar o envio de um técnico para verificar o seu roteador pessoalmente. Em breve, entraremos em contato para agendar uma visita.", "label": []}
+{"text": "Ok, obrigada pela ajuda.", "label": []}
+{"text": "Disponha, Ana. Estamos aqui para ajudar. Qualquer outra dúvida, estou à disposição.", "label": [[10, 13, "NOME"]]}
+{"text": "Estou com dificuldades para acessar a internet. Já reiniciei o roteador, mas não resolveu.", "label": []}
+{"text": "Vou verificar algumas informações para te ajudar melhor. Pode me informar. O CPF está registrado como R$ 367,74 mil setecentos e dezenove.", "label": [[105, 111, "NUMERO"]]}
+{"text": "Sim, esse é o meu CPF.", "label": []}
+{"text": "Obrigado, Ana. Agora vamos tentar algumas soluções. Por favor, verifique se todos os cabos do roteador estão devidamente conectados.", "label": [[10, 13, "NOME"]]}
+{"text": "Já verifiquei e estão todos conectados corretamente.", "label": []}
+{"text": "Ótimo! Agora desligue o roteador da energia e aguarde cerca de 30 segundos antes de ligá-lo novamente.", "label": [[63, 65, "NUMERO"]]}
+{"text": "Ok, fiz isso, mas ainda não consigo acessar a internet.", "label": []}
+{"text": "Vamos tentar um reset no roteador então. Há um pequeno botão na parte de trás. Pressione e segure por 10 segundos até as luzes piscarem.", "label": [[102, 104, "NUMERO"]]}
+{"text": "Olá, estou com problemas para acessar minha conta. Pode me ajudar?", "label": []}
+{"text": "Claro, Carlos. Vou verificar o que está acontecendo. Para isso, preciso do seu CPF, por favor.", "label": [[7, 13, "NOME"]]}
+{"text": "ou utilizar a senha NOVO 100 S23.", "label": [[25, 28, "NUMERO"]]}
+{"text": "Ótimo, Carlos. Sua senha foi alterada com sucesso. Agora você deve conseguir acessar sua conta sem problemas. Alguma outra dúvida?", "label": [[7, 13, "NOME"]]}
+{"text": "Não, Joana, muito obrigado pela sua ajuda. Tenha um ótimo dia.", "label": [[5, 10, "NOME"]]}
+{"text": "Eu quem agradeço, Carlos. Fico feliz em poder ajudar. Tenha um excelente dia, você também.", "label": [[18, 24, "NOME"]]}
+{"text": "Meu CPF é 147.213.430.79.", "label": [[10, 24, "NUMERO"]]}
+{"text": "Obrigada, Carlos. Já localizei sua conta. Agora me diga qual é o problema que está enfrentando.", "label": [[10, 16, "NOME"]]}
+{"text": "Estou recebendo uma mensagem de erro ao tentar fazer login. Diz que minha senha está incorreta, mas tenho certeza de que estou digitando corretamente.", "label": []}
+{"text": "Entendo, Carlos. Vamos resolver isso. Preciso que você confirme algumas informações adicionais para garantir a segurança da sua conta. Pode me informar a sua data de nascimento?", "label": [[9, 15, "NOME"]]}
+{"text": "Claro, minha data de nascimento é 24-03-1985.", "label": [[34, 44, "NUMERO"]]}
+{"text": "Obrigada, Carlos. Agora, por motivos de segurança, vou enviar um código de verificação para o seu e-mail cadastrado. Confira e me informe o código, por favor.", "label": [[10, 16, "NOME"]]}
+{"text": "Recebi o e-mail com o código. O código é 938147.", "label": [[41, 47, "NUMERO"]]}
+{"text": "Perfeito, Carlos. O código confere. Agora vou solicitar que você altere a sua senha. Qual seria a nova senha que deseja utilizar?", "label": [[10, 16, "NOME"]]}
+{"text": "Olá, eu sou a Carolina, estou com um problema no meu celular.", "label": [[14, 22, "NOME"]]}
+{"text": "Olá Carolina, meu nome é Alexandre, como posso ajudar?", "label": [[4, 12, "NOME"], [25, 34, "NOME"]]}
+{"text": "Tudo bem, vou buscar meu cabo USB.", "label": []}
+{"text": "Ótimo! Enquanto isso, me informe seu CPF, por favor, para que eu possa verificar algumas informações no sistema.", "label": []}
+{"text": "Claro, meu CPF é 873.553.1760,30.", "label": [[17, 32, "NUMERO"]]}
+{"text": "Perfeito. Obrigado. Vamos tentar identificar o problema assim que conectarmos o celular ao computador.", "label": []}
+{"text": "Bem, meu celular não está ligando. Eu já tentei carregar a bateria, mas não funcionou.", "label": []}
+{"text": "Entendo, Carolina. Vamos tentar algumas soluções. Primeiro, verifique se o botão de ligar-desligar está funcionando corretamente.", "label": [[9, 17, "NOME"]]}
+{"text": "Bem, eu já tentei pressionar o botão várias vezes, mas nada acontece.", "label": []}
+{"text": "Certo? Vamos tentar reiniciar o aparelho. Mantenha pressionado o botão de ligar e desligar por pelo menos 10 segundos e veja se ele reinicia.", "label": [[106, 108, "NUMERO"]]}
+{"text": "Ok, vou fazer isso agora.", "label": []}
+{"text": "Alguma mudança, Carolina?", "label": [[16, 24, "NOME"]]}
+{"text": "Infelizmente, nada mudou. O celular continua sem ligar.", "label": []}
+{"text": "Compreendo. Vamos tentar conectar o aparelho ao computador e ver se conseguimos fazer alguma coisa a partir daí.", "label": []}
+{"text": "Olá, bem-vindo ao Suporte Técnico. Qual é o seu nome?", "label": []}
+{"text": "Meu nome é João. Estou com um problema no meu dispositivo.", "label": [[11, 15, "NOME"]]}
+{"text": "Verifiquei os cabos e estão todos conectados corretamente.", "label": []}
+{"text": "Certo, João. Vou reiniciar remotamente o seu modem para tentar resolver o problema. Isso pode levar alguns minutos. Por favor, aguarde.", "label": [[7, 11, "NOME"]]}
+{"text": "Ok, vou aguardar.", "label": []}
+{"text": "Pronto, João, reiniciei o seu modem. Por favor, verifique se a conexão melhorou após a reinicialização.", "label": [[8, 12, "NOME"]]}
+{"text": "Ótimo. Parece que a conexão ficou estável agora. Muito obrigado pela ajuda.", "label": []}
+{"text": "Fico feliz em ajudar, João. Se você tiver mais alguma dúvida ou problema, não hesite em entrar em contato conosco novamente. Tenha um ótimo dia!", "label": [[22, 26, "NOME"]]}
+{"text": "Oi, João, em que posso ajudar? Por favor me informe o CPF no formato 902.695.52006 para que eu possa localizar o seu registro.", "label": [[4, 8, "NOME"], [69, 82, "NUMERO"]]}
+{"text": "Claro, o meu CPF é 902-695-52006.", "label": [[19, 32, "NUMERO"]]}
+{"text": "Perfeito, João. Agora me diga qual é o problema que você está enfrentando com o seu dispositivo.", "label": [[10, 14, "NOME"]]}
+{"text": "Estou com dificuldades para acessar a internet. Minha conexão cai constantemente.", "label": []}
+{"text": "Entendo, João. Irei verificar o seu histórico e verificar se há alguma instabilidade na sua região. Por favor, aguarde um momento.", "label": [[9, 13, "NOME"]]}
+{"text": "João não foi registrado nenhum problema de conexão na sua região. Vamos fazer alguns testes para identificar a origem do seu problema.", "label": [[0, 5, "NOME"]]}
+{"text": "Tudo bem. Estou disponível para fazer os testes necessários.", "label": []}
+{"text": "Primeiramente, preciso que você verifique se os cabos de conexão estão corretamente conectados ao seu dispositivo e ao modem.", "label": []}
+{"text": "Olá, boa tarde. Meu nome é Alice e estou com um problema no meu celular.", "label": [[27, 33, "NOME"]]}
+{"text": "Olá, Alice. Como posso te ajudar hoje? Poderia me fornecer seu CPF?", "label": [[5, 10, "NOME"]]}
+{"text": "Ok, fiz isso, mas meu celular ainda não liga.", "label": []}
+{"text": "Entendo, Alice. Nesse caso, recomendo que você leve seu aparelho a uma assistência técnica autorizada para que possam verificar o problema com mais detalhes.", "label": [[9, 14, "NOME"]]}
+{"text": "Tudo bem, Bruno. Vou seguir sua recomendação então. Obrigada pela sua ajuda.", "label": [[10, 15, "NOME"]]}
+{"text": "De nada, Alice. Espero que seu problema seja resolvido em breve. Se precisar de mais alguma ajuda, estaremos à disposição. Tenha um ótimo dia!", "label": [[9, 14, "NOME"]]}
+{"text": "Claro, meu CPF é 730.112.110.51.", "label": [[17, 31, "NUMERO"]]}
+{"text": "Obrigado, Alice. Agora, por favor, descreva o problema que você está enfrentando com o seu celular.", "label": [[10, 15, "NOME"]]}
+{"text": "Bom, o meu celular não está ligando. Já tentei carregar, mas ele não responde.", "label": []}
+{"text": "Entendo, Alice. Vamos verificar algumas possíveis soluções. Primeiramente, você poderia tentar reiniciar o aparelho?", "label": [[9, 14, "NOME"]]}
+{"text": "Já tentei reiniciar, mas não adiantou.", "label": []}
+{"text": "Certo, Alice. Vamos tentar um procedimento de reset. Para isso, preciso que você siga algumas etapas.", "label": [[7, 12, "NOME"]]}
+{"text": "Ok, estou pronta para seguir suas instruções.", "label": []}
+{"text": "Ótimo, Alice! Vamos pressionar os botões de volume mais o botão de ligar e desligar ao mesmo tempo por cerca de 10 segundos. Isso deve reiniciar seu aparelho.", "label": [[7, 12, "NOME"], [112, 115, "NUMERO"]]}
+{"text": "Olá, sou o atendente Alexandre. Como posso ajudar hoje?", "label": [[21, 30, "NOME"]]}
+{"text": "Olá, meu nome é Mariana e estou com um problema no meu computador.", "label": [[16, 24, "NOME"]]}
+{"text": "Ótimo! Vamos realizar um procedimento de reinicialização completa do sistema para tentar resolver o problema.", "label": []}
+{"text": "Tudo bem. Como faço essa reinicialização completa?", "label": []}
+{"text": "Para isso, precisaremos pressionar e manter pressionado o botão de ligar até que o computador desligue completamente. Após isso, aguarde alguns segundos e ligue novamente.", "label": []}
+{"text": "Ok, vou fazer esse procedimento agora.", "label": []}
+{"text": "Perfeito, Mariana. Após reiniciar, verifique se o sistema operacional inicializa normalmente.", "label": [[10, 17, "NOME"]]}
+{"text": "Fiz o procedimento, mas o problema ainda persiste.", "label": []}
+{"text": "Se o problema continua, pode ser necessário fazer uma análise mais detalhada do seu computador. Vou gerar um protocolo e encaminhá-lo para um técnico especializado entrar em contato com você para agendar uma visita, tudo bem?", "label": []}
+{"text": "Zim, por favor. Espero que o técnico possa resolver o problema.", "label": []}
+{"text": "Certo, Mariana. Cadastrei seu protocolo com o CPF 063.9922.410.51. Nos próximos dias, você receberá um contato para agendamento. Agradecemos pela paciência e colaboração.", "label": [[7, 14, "NOME"], [50, 65, "NUMERO"]]}
+{"text": "Certo, Mariana, poderia me informar o CPF para identificação?", "label": [[7, 14, "NOME"]]}
+{"text": "Claro, meu CPF é 063.92241051.", "label": [[17, 29, "NUMERO"]]}
+{"text": "Obrigado, Mariana. Agora vamos verificar qual é o problema com seu computador.", "label": [[10, 17, "NOME"]]}
+{"text": "Toda vez que eu ligo o computador, ele não inicia o sistema operacional.", "label": []}
+{"text": "Entendo, Mariana. Já reiniciou o computador algumas vezes para ver se o problema persiste?", "label": [[9, 16, "NOME"]]}
+{"text": "Sim, já reiniciei várias vezes e o problema continua.", "label": []}
+{"text": "Vamos tentar algumas soluções básicas. Primeiro, verifique se todos os cabos estão devidamente conectados.", "label": []}
+{"text": "Ok, estou verificando agora. Todos os cabos estão conectados corretamente.", "label": []}
+{"text": "Olá, bem-vindo ao Suporte ao Cliente. Como posso ajudar hoje?", "label": []}
+{"text": "Olá, Luiza! Estou com um problema no meu produto e preciso de ajuda.", "label": [[5, 10, "NOME"]]}
+{"text": "Claro, Miguel, pode me informar o número do CPF cadastrado, por favor?", "label": [[7, 13, "NOME"]]}
+{"text": "O meu CPF é R$ 117.000, ACC 33, R$ 5,20, R$ 48.", "label": [[15, 22, "NUMERO"], [28, 30, "NUMERO"], [35, 39, "NUMERO"], [44, 46, "NUMERO"]]}
+{"text": "Obrigada, Miguel. Agora, por favor, descreva o problema que você está enfrentando.", "label": [[10, 16, "NOME"]]}
+{"text": "Recentemente, adquiri um celular e ele está com problemas na câmera. As fotos saem todas borradas.", "label": []}
+{"text": "Entendo, Miguel. Vou verificar o seu registro e as informações do aparelho. Um momento, por favor.", "label": [[9, 15, "NOME"]]}
+{"text": "Verifiquei aqui, Miguel. De acordo com o nosso sistema, você possui garantia e pode levar o aparelho à assistência técnica mais próxima. Eles poderão resolver esse problema para você.", "label": [[17, 23, "NOME"]]}
+{"text": "Ok, Luiza. Muito obrigado pela ajuda!", "label": [[4, 9, "NOME"]]}
+{"text": "Por nada, Miguel. Estamos aqui para te ajudar. Qualquer outra dúvida, é só entrar em contato novamente. Tenha um bom dia.", "label": [[10, 16, "NOME"]]}
+{"text": "Olá, estou com um problema no meu produto. Pode me ajudar?", "label": []}
+{"text": "Claro, Lucas! Sou a Camila, vou te auxiliar com o seu caso. Pode me fornecer o seu CPF para localizar o seu cadastro?", "label": [[7, 12, "NOME"], [20, 26, "NOME"]]}
+{"text": "Funcionou, ele está ligando perfeitamente agora. Muito obrigado pela ajuda, Camila.", "label": [[76, 82, "NOME"]]}
+{"text": "Fico feliz em poder ajudar, Lucas. Se você tiver mais alguma dúvida, estarei à disposição. Tenha um ótimo dia!", "label": [[28, 33, "NOME"]]}
+{"text": "Claro, meu CPF é R$ 900,93, estou aqui, Waze 2020.", "label": [[20, 26, "NUMERO"], [45, 49, "NUMERO"]]}
+{"text": "Obrigada, Lucas. Agora me diga qual é o problema que você está enfrentando com o seu produto.", "label": [[10, 15, "NOME"]]}
+{"text": "Estou tendo dificuldades em ligar o dispositivo. Já segui todas as instruções do manual, mas não funciona.", "label": []}
+{"text": "Entendo, Lucas. Vou te guiar passo a passo para resolver esse problema. Primeiro, verifique se o dispositivo está corretamente conectado à energia.", "label": [[9, 14, "NOME"]]}
+{"text": "Ok, fiz a verificação e está tudo conectado corretamente.", "label": []}
+{"text": "Ótimo, Lucas! Agora vamos resetar o dispositivo. Localize o botão de resete na parte de trás dele e pressione por 10 segundos.", "label": [[7, 12, "NOME"], [114, 117, "NUMERO"]]}
+{"text": "Feito, agora o que eu faço?", "label": []}
+{"text": "Aguarde alguns minutos, Lucas, enquanto o dispositivo reinicia. Depois disso, tente ligá-lo novamente e me avise se funcionou.", "label": [[24, 29, "NOME"]]}
+{"text": "Olá, estou com um problema no meu celular.", "label": []}
+{"text": "Olá, Lucas! Em que posso ajudar?", "label": [[5, 10, "NOME"]]}
+{"text": "Sim, Lucas. Seu CPF é 561.112.840.98. É importante fazer um backup de todos os seus dados antes de realizar a restauração. Você possui um backup atualizado?", "label": [[5, 10, "NOME"], [22, 36, "NUMERO"]]}
+{"text": "Tentem um backup recente. Vou fazer a restauração agora mesmo.", "label": []}
+{"text": "Ótimo, siga as instruções no seu celular para realizar a restauração. Se precisar de ajuda adicional, estou à disposição.", "label": []}
+{"text": "Ok, farei isso. Muito obrigado pela ajuda.", "label": []}
+{"text": "De nada, Lucas. Se precisar de mais alguma coisa, estou aqui para ajudar. Tenha um ótimo dia.", "label": [[9, 14, "NOME"]]}
+{"text": "Meu CPF é 561,162,4098. Preciso de suporte técnico.", "label": [[10, 22, "NUMERO"]]}
+{"text": "Entendo. Vou precisar de alguns detalhes. Qual é a marca e modelo do seu celular?", "label": []}
+{"text": "Eu tenho um iPhone XS.", "label": []}
+{"text": "Certo, agora me diga qual é o problema que você está enfrentando com o seu celular.", "label": []}
+{"text": "A bateria está descarregando muito rápido e a tela não está respondendo corretamente.", "label": []}
+{"text": "Compreendo. Vou verificar algumas soluções para você. Por favor, aguarde um momento.", "label": []}
+{"text": "Verifiquei algumas informações e seria importante fazer uma restauração de fábrica no seu iPhone X. Isso resolveria muitos problemas de desempenho e permite que você comece do zero.", "label": []}
+{"text": "Tudo bem, gostaria de tentar essa solução. Meu CPF é 561,662.840,98 mesmo, correto?", "label": [[53, 68, "NUMERO"]]}
+{"text": "Olá, preciso de ajuda com o meu produto.", "label": []}
+{"text": "Olá, eu sou o Carlos. Posso ajudar?", "label": [[14, 20, "NOME"]]}
+{"text": "Ótimo, Alice. Me avise se o problema persistir ou se precisar de mais alguma ajuda.", "label": [[7, 12, "NOME"]]}
+{"text": "Com certeza, Carlos. Muito obrigada pela sua assistência.", "label": [[13, 19, "NOME"]]}
+{"text": "Sim, meu CPF é 119.333,9040.", "label": [[15, 27, "NUMERO"]]}
+{"text": "Obrigado, Alice. Como posso ajudá-la?", "label": [[10, 15, "NOME"]]}
+{"text": "Estou com um problema no meu produto. Ele não liga.", "label": []}
+{"text": "Entendo, Alice. Vou verificar o que pode ser feito. Por favor, aguarde um momento.", "label": [[9, 14, "NOME"]]}
+{"text": "Alice, falta de energia pode ser uma das causas. Você já tentou trocar o cabo de energia?", "label": [[0, 5, "NOME"]]}
+{"text": "Sim, já verifiquei o cabo e está tudo certo.", "label": []}
+{"text": "Certo Alice, vamos tentar outras soluções. Primeiro, desligue o produto por alguns minutos e depois ligue novamente. Isso pode ajudar a reinicializá-lo.", "label": [[6, 11, "NOME"]]}
+{"text": "Ok, vou tentar fazer isso agora.", "label": []}
+{"text": "Olá! Preciso de ajuda com minha conta.", "label": []}
+{"text": "Olá, sou o Victor. Como posso ajudar?", "label": [[11, 17, "NOME"]]}
+{"text": "Obrigado, Alice. Vou enviar um e-mail de confirmação para o endereço informado. Assim que confirmar, sua conta será reativada.", "label": [[10, 15, "NOME"]]}
+{"text": "Ok. Vou verificar meu e-mail e confirmar o mais rápido possível. Obrigada pela ajuda, Victor.", "label": [[86, 92, "NOME"]]}
+{"text": "Não há de que, Alice. Qualquer outra dúvida, sinta-se à vontade para me perguntar. Tenha um bom dia.", "label": [[15, 20, "NOME"]]}
+{"text": "Obrigada a você também.", "label": []}
+{"text": "Estou com problemas para fazer login na minha conta.", "label": []}
+{"text": "Entendo. Poderia me fornecer o seu CPF para que eu possa verificar os detalhes da sua conta?", "label": []}
+{"text": "Meu CPF é 705 825 664.", "label": [[10, 21, "NUMERO"]]}
+{"text": "Obrigado por fornecer o seu CPF, Alice. Vou verificar o que está acontecendo com o seu login.", "label": [[33, 38, "NOME"]]}
+{"text": "Verifiquei o sistema e parece que a sua conta está bloqueada por motivos de segurança. Precisamos solicitar a reativação.", "label": []}
+{"text": "Ah, entendo. Pode reativá-la para mim, por favor?", "label": []}
+{"text": "Claro, Alice. Vou precisar confirmar alguns dados adicionais para prosseguir com a reativação. Poderia confirmar o seu endereço de e-mail registrado na conta?", "label": [[7, 12, "NOME"]]}
+{"text": "Meu e-mail é alicexample.com", "label": [[13, 18, "NOME"]]}
+{"text": "Olá, preciso de ajuda com minha conta.", "label": []}
+{"text": "Olá, como posso ajudar? CPF Nova Vinda, 1.756.7026.", "label": [[40, 50, "NUMERO"]]}
+{"text": "Senhora Thompson, parece que existe uma inconsistência nas suas informações. Seu CPF cadastrado está como 929.275.670.26. Porém, em nossa base de dados, consta como 929.275.670.36.", "label": [[106, 120, "NUMERO"], [165, 179, "NUMERO"]]}
+{"text": "ou me desculpe pelo erro. O correto é 929-275-6C7036.", "label": [[38, 52, "NUMERO"]]}
+{"text": "Sem problema, senhora Thompson. Vou corrigir o seu CPF em nosso sistema. Agora, por favor, tente fazer o login novamente com o nome de usuário e senha corretos.", "label": []}
+{"text": "Certo, vou tentar agora. Obrigada pela ajuda.", "label": []}
+{"text": "De nada, senhora Thompson. Estou disponível caso precise de mais alguma assistência. Tenha um ótimo dia.", "label": []}
+{"text": "Estou com dificuldades para fazer login na minha conta.", "label": []}
+{"text": "Entendo. Posso confirmar alguns dados para garantir que estou falando com a pessoa certa? Qual é o seu nome completo?", "label": []}
+{"text": "Meu nome é Alice Thompson.", "label": [[11, 17, "NOME"]]}
+{"text": "Obrigado pela confirmação, senhora Thompson. Agora, por favor, informe sua data de nascimento.", "label": []}
+{"text": "Minha data de nascimento é 10-05-1982.", "label": []}
+{"text": "Perfeito! Agora, poderia nos dizer qual é o problema exato que você está enfrentando ao fazer login?", "label": []}
+{"text": "Quando digito meu nome de usuário e senha corretos, aparece uma mensagem de erro dizendo «Credenciais inválidas».", "label": []}
+{"text": "Entendi. Vou verificar o que pode estar causando esse problema. Por favor, aguarde um momento.", "label": []}
+{"text": "Bom dia, meu nome é Carlos. Como posso ajudá-lo hoje?", "label": [[20, 26, "NOME"]]}
+{"text": "Olá, Carlos. Meu nome é Isabela. Estou com um problema no meu produto. Pode me ajudar?", "label": [[5, 11, "NOME"], [24, 31, "NOME"]]}
+{"text": "De nada, Isabela. Fico feliz em poder ajudar. Se tiver mais alguma dúvida, não hesite em entrar em contato novamente. Tenha um ótimo dia!", "label": [[9, 16, "NOME"]]}
+{"text": "Olá, Isabela! Claro, estou à disposição para ajudá-la. Por favor, me informe o seu CPF.", "label": [[5, 12, "NOME"]]}
+{"text": "Meu CPF é 159.557.1220.17.", "label": [[10, 25, "NUMERO"]]}
+{"text": "Obrigado por fornecer seu CPF, Isabela. Agora, por favor, descreva qual é o problema que está enfrentando com o produto.", "label": [[31, 38, "NOME"]]}
+{"text": "O botão de ligar, desligar do aparelho não está funcionando corretamente. O que devo fazer?", "label": []}
+{"text": "Entendo, Isabela. Para resolvermos esse problema, eu sugiro que você faça um reset no aparelho. Você sabe como realizar essa ação?", "label": [[9, 16, "NOME"]]}
+{"text": "Eu não tenho certeza de como fazer isso. Pode me orientar?", "label": []}
+{"text": "Claro, Isabela, para realizar o reset, você precisará localizar o botão de reset no aparelho e mantê-lo pressionado por cerca de 10 segundos. Geralmente, esse botão é pequeno e está localizado na parte de trás do dispositivo.", "label": [[7, 14, "NOME"]]}
+{"text": "Entendi, Carlos. Vou tentar fazer o reset. Obrigada pela ajuda.", "label": [[9, 15, "NOME"]]}
+{"text": "Olá, aqui é o Carlos Macedo, seu atendente de suporte. Em que posso ajudar hoje?", "label": []}
+{"text": "Olá, Carlos. Meu nome é Maria Silva e estou com um problema no meu serviço.", "label": [[5, 11, "NOME"], [24, 30, "NOME"]]}
+{"text": "Fico feliz em poder ajudar, Maria. Se precisar de mais alguma assistência, estou à disposição. Tenha um ótimo dia!", "label": [[28, 33, "NOME"]]}
+{"text": "Oi Maria, pode me fornecer o seu CPF? Assim posso acessar sua conta e verificar o problema.", "label": [[3, 8, "NOME"]]}
+{"text": "Claro, meu CPF é 0,56, o seu pintor de 124000.", "label": [[17, 22, "NUMERO"], [39, 45, "NUMERO"]]}
+{"text": "Obrigado, Maria. Acessei sua conta e vejo que o seu serviço está com alguns problemas de conexão. Vamos tentar solucioná-los juntos.", "label": [[10, 15, "NOME"]]}
+{"text": "Ótimo! Estou aguardando ansiosamente pela solução. Desde já obrigada!", "label": []}
+{"text": "Entendo a sua preocupação, Maria. Vou realizar alguns testes e tentar restabelecer a conexão. Por favor, aguarde um momento.", "label": [[27, 32, "NOME"]]}
+{"text": "Sem problemas, estou aqui aguardando.", "label": []}
+{"text": "Bom, Maria, após os testes identifiquei o problema e já apliquei a solução. Por favor, teste o serviço novamente e me diga se está tudo funcionando corretamente.", "label": [[5, 10, "NOME"]]}
+{"text": "Perfeito, Carlos. Agora o serviço está funcionando perfeitamente. Muito obrigada pela sua ajuda e pela rápida resolução do problema.", "label": [[10, 16, "NOME"]]}
+{"text": "Olá, estou com um problema no meu serviço de internet.", "label": []}
+{"text": "Olá, Alice. Como posso ajudá-la hoje?", "label": [[5, 10, "NOME"]]}
+{"text": "Perfeito. Espero que resolvam o problema logo. Obrigada.", "label": []}
+{"text": "De nada, Alice. Pedimos desculpas pelo inconveniente e entraremos em contato o mais breve possível. Tenha um bom dia.", "label": [[9, 14, "NOME"]]}
+{"text": "Minha conexão está muito lenta e tenho dificuldades em acessar alguns websites.", "label": []}
+{"text": "Entendo, Alice. Vamos verificar o que está ocorrendo, por favor. Poderia informar seu CPF?", "label": [[9, 14, "NOME"]]}
+{"text": "Claro, meu CPF é R$ 553.957,61.", "label": [[20, 30, "NUMERO"]]}
+{"text": "Obrigado, Alice. Vou checar seu plano e as configurações do seu roteador. Enquanto isso, poderia me informar se o problema ocorre em todos os dispositivos conectados?", "label": [[10, 15, "NOME"]]}
+{"text": "Sim, acontece em meu celular, tablet e computador.", "label": []}
+{"text": "Certo, vamos fazer alguns testes. Primeiro peço que reinicie o seu roteador, depois tentaremos um diagnóstico remoto.", "label": []}
+{"text": "Ok, já reiniciei o roteador, mas o problema continua.", "label": []}
+{"text": "Entendo, Alice. Vou registrar uma solicitação de visita técnica para verificarmos o problema presencialmente. Você receberá um número de protocolo por e-mail em breve.", "label": [[9, 14, "NOME"]]}
+{"text": "Bom dia, meu nome é Marcelo. Em que posso ajudar hoje?", "label": [[20, 27, "NOME"]]}
+{"text": "Olá, Marcelo. Meu nome é Daniela. Estou com um problema no meu celular.", "label": [[5, 12, "NOME"], [25, 32, "NOME"]]}
+{"text": "Entendo, Daniela. Nesse caso, aconselho que você leve o aparelho até uma de nossas assistências técnicas mais próximas. Eles poderão fazer uma análise mais detalhada do problema.", "label": [[9, 16, "NOME"]]}
+{"text": "Está bem, Marcelo. Muito obrigada pela sua ajuda.", "label": [[10, 17, "NOME"]]}
+{"text": "Eu que agradeço, Daniela. Estamos aqui para ajudar. Tenha um ótimo dia.", "label": [[17, 24, "NOME"]]}
+{"text": "Oi, Daniela. Pode me fornecer seu CPF? Preciso verificar seu cadastro.", "label": [[4, 11, "NOME"]]}
+{"text": "Claro, meu CPF é 760.481.223.", "label": [[17, 28, "NUMERO"]]}
+{"text": "Obrigado, Daniela. Agora me conte qual é o problema com seu celular.", "label": [[10, 17, "NUMERO"]]}
+{"text": "O aparelho não está ligando e já tentei carregá-lo, mas não resolveu.", "label": []}
+{"text": "Entendo. Vamos verificar algumas soluções. Primeiro, verifique se a bateria está corretamente encaixada.", "label": []}
+{"text": "Já verifiquei e a bateria está bem encaixada.", "label": []}
+{"text": "Certo. Vamos tentar um reinício forçado. Pressione o botão de ligar e o de volume para baixo ao mesmo tempo por cerca de 10 segundos.", "label": []}
+{"text": "Eu fiz isso e o celular continua sem ligar.", "label": []}
+{"text": "Olá, seja bem-vindo ao nosso suporte ao cliente, em que posso ajudar hoje.", "label": []}
+{"text": "Olá, Lucas. Estou com um problema na minha conta. Poderia me ajudar?", "label": [[5, 10, "NOME"]]}
+{"text": "Maria, após a análise, identifiquei que o problema está relacionado com a sua conexão à internet. É possível que esteja instável. Recomendo que você verifique sua conexão e tente novamente, ou aguarde um momento e tente novamente mais tarde.", "label": [[0, 5, "NOME"]]}
+{"text": "Entendi, Lucas. Obrigada pela ajuda. Vou verificar minha internet e tentar mais tarde. Espero que funcione.", "label": [[9, 14, "NOME"]]}
+{"text": "Por nada, Maria. Estou aqui para ajudar. Caso o problema persista, não hesite em nos contatar novamente. Tenha um ótimo dia.", "label": [[10, 15, "NOME"]]}
+{"text": "Obrigada, Lucas. Desejo o mesmo para você. Até mais.", "label": [[10, 15, "NOME"]]}
+{"text": "Claro, Maria, fico feliz em ajudar. Para que eu possa verificar seu CPF e acessar sua conta, poderia informar seu CPF, por favor?", "label": [[7, 12, "NOME"]]}
+{"text": "Claro, meu CPF é 293.078.645.", "label": [[17, 28, "NUMERO"]]}
+{"text": "Obrigado, Maria. Vou verificar a situação da sua conta agora mesmo.", "label": [[10, 15, "NOME"]]}
+{"text": "Muito obrigada, Lucas. Eu realmente preciso resolver esse problema urgentemente.", "label": [[16, 21, "NOME"]]}
+{"text": "Entendo perfeitamente, Maria. Vamos resolver isso o mais rápido possível. Qual é o problema específico que você está enfrentando?", "label": [[23, 28, "NOME"]]}
+{"text": "Estou tentando fazer um pagamento, mas o sistema está acusando um erro.", "label": []}
+{"text": "Entendi. Vou verificar os registros e tentar identificar a causa dessa falha de pagamento. Por favor, aguarde alguns momentos.", "label": []}
+{"text": "Certo, estarei aguardando.", "label": []}
+{"text": "Olá, eu estou com um problema no meu produto e gostaria de falar com um atendente.", "label": []}
+{"text": "Olá, meu nome é John. Em que posso ajudar?", "label": [[16, 20, "NOME"]]}
+{"text": "Obrigada, John. Meu nome é Alice e meu CPF é 869, que é 39 búlgaros e 20,10. Eu comprei um celular e ele não está ligando.", "label": [[10, 14, "NOME"], [27, 33, "NOME"], [45, 48, "NUMERO"], [70, 75, "NUMERO"]]}
+{"text": "Certo, Alice. Vou verificar o seu registro e te ajudar. Por favor, aguarde um momento.", "label": [[7, 12, "NOME"]]}
+{"text": "Claro, estou aguardando.", "label": []}
+{"text": "Encontrei o seu registro, Alice. Primeiramente, vou pedir que você confirme o seu CPF 809.179.220.10.", "label": [[26, 31, "NOME"], [86, 100, "NUMERO"]]}
+{"text": "Sim, confirmando meu CPF, R$ 869.539,20.", "label": [[29, 39, "NUMERO"]]}
+{"text": "Olá, eu sou a Ana. Estou precisando de ajuda com o meu produto.", "label": [[14, 17, "NOME"]]}
+{"text": "Olá, Ana, meu nome é João. Pode me informar seu CPF?", "label": [[5, 8, "NOME"], [21, 25, "NOME"]]}
+{"text": "Sim, já tentei reiniciar, mas não surti o efeito.", "label": []}
+{"text": "Entendo, Ana. Vamos tentar um reset de fábrica, então. Mas é importante ressaltar que essa ação apagará todos os seus dados salvos. Você está ciente disso?", "label": [[9, 12, "NOME"]]}
+{"text": "Sim, estou ciente. O importante é conseguir fazê-lo funcionar novamente.", "label": []}
+{"text": "Perfeito, Anna. Vou te passar as instruções para o reset de fábrica. Realize essas etapas com cuidado.", "label": [[10, 14, "NOME"]]}
+{"text": "Ok, entendi. Vou fazer tudo conforme você disse. Obrigada pela sua ajuda.", "label": []}
+{"text": "De nada, Ana. Espero que consiga resolver o problema. Se precisar de mais alguma coisa, estou à disposição. Tenha um ótimo dia!", "label": [[9, 12, "NOME"]]}
+{"text": "Claro, meu CPF é 15.73.162.910.92.", "label": [[17, 33, "NUMERO"]]}
+{"text": "Obrigado, Ana. Como posso te ajudar hoje?", "label": [[10, 13, "NOME"]]}
+{"text": "Estou com um problema no meu produto. Ele não liga mais.", "label": []}
+{"text": "Vou verificar a sua solicitação, Ana. Por favor, aguarde um momento.", "label": [[33, 36, "NOME"]]}
+{"text": "Ok, estou aguardando.", "label": []}
+{"text": "Encontrei o registro do seu produto, Ana. Parece que ele está fora da garantia, mas vou lhe passar algumas instruções para tentarmos resolver o problema.", "label": [[37, 40, "NOME"]]}
+{"text": "Ótimo! Estou disposta a fazer tudo o que for necessário para consertá-lo.", "label": []}
+{"text": "Primeiramente, tente reiniciar o aparelho pressionando o botão de ligar por cerca de 10 segundos. Isso costuma resolver problemas simples. Já fez esse procedimento, Anna?", "label": [[165, 169, "NOME"]]}
+{"text": "Olá, estou precisando de ajuda com um problema no meu computador.", "label": []}
+{"text": "Olá, Salice. Eu posso ajudar. Pode me explicar qual é o problema.", "label": [[5, 11, "NOME"]]}
+{"text": "Com certeza, estou interessada nas dicas.", "label": []}
+{"text": "Ótimo! Uma das principais recomendações é manter seu antivírus sempre atualizado e configurado para realizar verificações frequentes. Além disso, evite abrir e-mails de remetentes desconhecidos e não clique em links suspeitos. Por último, mantenha sempre um backup atualizado dos seus arquivos importantes.", "label": []}
+{"text": "Muito obrigada pelas dicas, João. A varredura já terminou. Estou ansiosa para recuperar meus arquivos.", "label": [[28, 32, "NOME"]]}
+{"text": "Sim, a varredura foi concluída com sucesso e o vírus foi removido. Seus arquivos devem estar acessíveis novamente. Por favor, verifique se está tudo em ordem.", "label": []}
+{"text": "Muito obrigada, João. Meus arquivos estão todos aqui agora. Fico muito grata pela sua ajuda.", "label": [[16, 20, "NOME"]]}
+{"text": "Não há de que, Alice. Fico contente em poder ajudar. Lembre-se das dicas que mencionei para evitar futuros problemas. Se precisar de algo mais, estou à disposição.", "label": [[15, 20, "NOME"]]}
+{"text": "Bom, meu computador está com um vírus e não consigo acessar meus arquivos.", "label": []}
+{"text": "Entendo, Alice. Vou precisar de algumas informações para que possamos prosseguir. Por favor, me informe seu CPF.", "label": [[9, 14, "NOME"]]}
+{"text": "Claro, meu CPF é R$ 856.579,00, no 07035.", "label": [[20, 30, "NUMERO"], [35, 40, "NUMERO"]]}
+{"text": "Obrigado, Alice. Agora vamos verificar algumas opções para resolver o problema com seu computador.", "label": [[10, 15, "NOME"]]}
+{"text": "Ok, estou aguardando.", "label": []}
+{"text": "Uma opção seria realizar uma varredura completa em seu sistema para identificar e remover o vírus. Você concorda com essa ação?", "label": []}
+{"text": "Sim, por favor, faça a varredura.", "label": []}
+{"text": "Perfeito. Irei iniciar a varredura agora mesmo. Isso pode levar alguns minutos. Enquanto isso, gostaria de oferecer a você algumas dicas para evitar problemas com vírus no futuro. Posso falar sobre isso?", "label": []}
+{"text": "Olá, estou com um problema no meu computador.", "label": []}
+{"text": "Olá, meu nome é John. Como posso te ajudar hoje?", "label": [[16, 20, "NOME"]]}
+{"text": "Ok, vou fazer isso agora mesmo.", "label": []}
+{"text": "Perfeito! Caso o problema persista após a atualização dos drivers, recomendo que você agende um atendimento técnico presencial para verificar o hardware do seu computador.", "label": []}
+{"text": "Entendido, John. Obrigada pela ajuda.", "label": [[11, 15, "NOME"]]}
+{"text": "De nada, Alice. Estou aqui para ajudar. Se você tiver mais alguma dúvida, não hesite em entrar em contato novamente. Tenha um ótimo dia!", "label": [[9, 14, "NOME"]]}
+{"text": "Bom dia, John. Meu nome é Alice. O CPF é 332 nois e o CT dá uma 4,6053. E o problema é que minha tela está congelando constantemente.", "label": [[9, 13, "NOME"], [41, 45, "NUMERO"], [64, 70, "NUMERO"]]}
+{"text": "Entendo, Alice. Vamos trabalhar juntos para resolver isso. Você já tentou reiniciar o computador?", "label": [[9, 14, "NOME"]]}
+{"text": "Sim, já tentei reiniciar algumas vezes, mas o problema continua.", "label": []}
+{"text": "Ok, vamos realizar alguns procedimentos. Primeiro, verifique se todos os cabos estão conectados corretamente.", "label": []}
+{"text": "Tudo parece estar conectado corretamente.", "label": []}
+{"text": "Certo. Vamos então verificar se você possui os drivers atualizados. Você sabe como fazer isso?", "label": []}
+{"text": "Não tenho certeza, poderia me guiar?", "label": []}
+{"text": "Claro, vou te passar um link para baixar a última versão dos drivers. Por favor, acesse-o e siga as instruções de instalação.", "label": []}
+{"text": "Olá, estou com problemas para acessar minha conta.", "label": []}
+{"text": "Olá, meu nome é Bob e eu vou te ajudar. Você pode me passar seu CPF, por favor?", "label": [[16, 20, "NOME"]]}
+{"text": "Claro, meu CPF é 900 CC 537008.", "label": [[17, 21, "NUMERO"], [24, 30, "NUMERO"]]}
+{"text": "Obrigado, Alice. Vou verificar sua conta agora.", "label": [[10, 15, "NOME"]]}
+{"text": "Encontrei seu cadastro, Alice. Parece que há um problema no sistema. Vou abrir um chamado para nossa equipe técnica resolver esse inconveniente.", "label": [[24, 29, "NOME"]]}
+{"text": "Ok, obrigada pela ajuda, Bob. Fico no aguardo da solução.", "label": [[25, 28, "NOME"]]}
+{"text": "De nada, Alice. Pedimos desculpas pelo transtorno causado. Assim que tivermos uma atualização, entraremos em contato com você. Tenha um ótimo dia.", "label": [[9, 14, "NOME"]]}
+{"text": "Olá, gostaria de falar com um atendente para obter suporte técnico.", "label": []}
+{"text": "Olá, meu nome é Pedro Oliveira. Como posso ajudá-la hoje?", "label": [[16, 22, "NOME"]]}
+{"text": "Ótimo! Enviei o link para o e-mail fornecido. Por favor, verifique sua caixa de entrada e siga as instruções para redefinir sua senha.", "label": []}
+{"text": "Muito obrigada por sua ajuda, Pedro. Vou verificar o e-mail e redefinir minha senha agora mesmo.", "label": [[30, 35, "NOME"]]}
+{"text": "Não há de que, Isabela. Caso tenha mais alguma dúvida ou precise de mais assistência, fique à vontade para entrar em contato conosco novamente. Tenha um ótimo dia.", "label": [[15, 22, "NOME"]]}
+{"text": "Estou tendo problemas para acessar minha conta online. Pode me ajudar a resolver?", "label": []}
+{"text": "Com certeza! Primeiro, poderia me fornecer o seu CPF para que eu possa localizar a sua conta?", "label": []}
+{"text": "Claro, meu CPF é 261.049.2080.71.", "label": [[17, 32, "NUMERO"]]}
+{"text": "Obrigado, Isabela. Aguarde um momento enquanto verifico as informações.", "label": [[10, 17, "NOME"]]}
+{"text": "Encontrei a sua conta. Parece que você precisa redefinir a sua senha. Posso te auxiliar nesse processo?", "label": []}
+{"text": "Sim, por favor. Estou com dificuldades para fazê-lo sozinha.", "label": []}
+{"text": "Sem problemas. Vou enviar um link de redefinição para o seu e-mail cadastrado. Você poderia me confirmar seu e-mail?", "label": []}
+{"text": "Certamente. Meu e-mail é isabela.carvalhoaemail.com", "label": [[25, 32, "NOME"]]}
+{"text": "Olá, estou precisando de ajuda com o meu produto.", "label": []}
+{"text": "Olá, sou o atendente John. Em que posso ajudar você hoje?", "label": [[21, 25, "NOME"]]}
+{"text": "Não era só isso mesmo. Obrigada pela ajuda, John.", "label": [[44, 48, "NOME"]]}
+{"text": "Disponha! Estou aqui para ajudar. Se surgir qualquer outra questão, é só entrar em contato. Tenha um ótimo dia, Alice.", "label": [[112, 117, "NOME"]]}
+{"text": "Eu estou com um problema na minha conta. Meu CPF é 802,09780,55.", "label": [[51, 63, "NUMERO"]]}
+{"text": "Certo, vou verificar os dados da sua conta. Por favor, aguarde um momento.", "label": []}
+{"text": "Claro, sem problemas!", "label": []}
+{"text": "Após verificar o seu cadastro, identifiquei o problema. O seu CPF está bloqueado temporariamente por questões de segurança. Vou precisar confirmar algumas informações adicionais para desbloqueá-lo, tudo bem?", "label": []}
+{"text": "Tudo bem. Estou à disposição. O que preciso fazer?", "label": []}
+{"text": "Preciso que você confirme o número de telefone cadastrado no seu CPF 812-009.768-5055, por favor.", "label": [[69, 85, "NUMERO"]]}
+{"text": "Claro, o número é 1198754321.", "label": [[18, 28, "NUMERO"]]}
+{"text": "Perfeito, agora vou solicitar o desbloqueio do seu CPF. Em até 24 horas, você receberá um e-mail com mais informações sobre o procedimento e as medidas de segurança que deve tomar. Alguma outra dúvida que eu possa ajudar?", "label": []}
+{"text": "Olá, gostaria de registrar uma reclamação.", "label": []}
+{"text": "Claro, senhora. Como posso ajudá-la?", "label": []}
+{"text": "Gostaria de relatar um problema com o produto que comprei.", "label": []}
+{"text": "Entendo, senhora. Poderia fornecer seu CPF para que eu possa acessar suas informações?", "label": []}
+{"text": "Claro, meu CPF é 938.986.219.", "label": [[17, 28, "NUMERO"]]}
+{"text": "Obrigado, senhora Silva. Poderia explicar qual é o problema com o produto?", "label": []}
+{"text": "Recebi o produto danificado e gostaria de solicitar uma troca.", "label": []}
+{"text": "Compreendo sua situação, senhora Silva. Vou registrar a reclamação e solicitar a troca do produto imediatamente.", "label": []}
+{"text": "Ótimo! Obrigada!", "label": []}
+{"text": "Por nada, senhora Silva. Nossa equipe entrará em contato com você em breve para fornecer mais informações sobre a troca. Se precisar de algo adicional, estou à disposição.", "label": []}
+{"text": "Olá, preciso de ajuda com um problema no meu computador.", "label": []}
+{"text": "Olá, Laura Silva, eu sou o João e estou pronto para te ajudar. Pode me contar mais detalhes sobre o problema?", "label": [[5, 11, "NOME"]]}
+{"text": "Bom dia, João. O meu computador está travando constantemente e eu já reiniciei algumas vezes, mas o problema persiste.", "label": [[9, 13, "NOME"]]}
+{"text": "Entendo, Laura Silva. Vamos verificar algumas soluções para resolver esse problema. Primeiro, poderia me informar seu CPF? Precisamos dessa informação para acessar o seu histórico de suporte.", "label": [[9, 15, "NOME"]]}
+{"text": "Claro, João. Meu CPF é 444.802.029.", "label": [[7, 11, "NOME"], [23, 34, "NUMERO"]]}
+{"text": "Obrigado pela informação, Laura Silva. Agora vamos prosseguir. Você já tentou limpar os arquivos temporários do seu computador?", "label": [[26, 32, "NOME"]]}
+{"text": "Ainda não, João. Como faço isso?", "label": [[11, 15, "NOME"]]}
+{"text": "Não se preocupe, Laura Silva. Vou te guiar pelo processo. Primeiro, pressione as teclas Windows Plus R no seu teclado para abrir a janela Executar.", "label": [[17, 23, "NOME"]]}
+{"text": "Pronto, João. A janela Executar está aberta.", "label": [[8, 12, "NOME"]]}
+{"text": "Olá, estou com um problema no meu computador. Poderia me ajudar?", "label": []}
+{"text": "Claro, Ana, eu ficarei feliz em ajudar. Poderia me informar o seu CPF para que eu possa verificar seus dados?", "label": [[7, 10, "NOME"]]}
+{"text": "Isto é, encontrei as propriedades do disco local 6.", "label": []}
+{"text": "Agora, na guia geral, clique no botão Limpar disco para iniciar a limpeza.", "label": []}
+{"text": "Entendi. Cliquei em limpar disco.", "label": []}
+{"text": "Ótimo! Agora aguarde enquanto o sistema calcula quanto espaço pode ser liberado. Em seguida, marque as caixas dos arquivos desnecessários que você deseja remover e clique em OK.", "label": []}
+{"text": "Feito! Marquei todas as caixas e cliquei em OK.", "label": []}
+{"text": "Perfeito, Ana. Agora o sistema irá realizar a limpeza de disco. Isso pode levar alguns minutos, então, por favor, aguarde.", "label": [[10, 13, "NOME"]]}
+{"text": "Certo. Vou aguardar a conclusão da limpeza de disco, senhora.", "label": []}
+{"text": "Pronto, Ana. A limpeza de disco foi concluída com sucesso. Agora, por favor, reinicie o seu computador para que as alterações tenham efeito.", "label": [[8, 11, "NOME"]]}
+{"text": "Claro, meu CPF é 639 200 1040 27.", "label": [[17, 32, "NUMERO"]]}
+{"text": "Obrigado, Ana. Agora me diga, qual é o problema que você está enfrentando com o seu computador?", "label": [[10, 13, "NOME"]]}
+{"text": "Ex-computador está travando constantemente e fica muito lento, mesmo depois de reiniciar.", "label": []}
+{"text": "Entendo, Ana. Vamos tentar solucionar esse problema. Você já verificou se há algum programa ou processo consumindo muita memória?", "label": [[9, 12, "NOME"]]}
+{"text": "Sim, eu chequei e não encontrei nenhum programa específico, consumindo muita memória.", "label": []}
+{"text": "Certo, nesse caso, podemos tentar realizar uma limpeza de disco para liberar espaço e verificar se há algum arquivo corrompido. Você gostaria que eu te guiasse pelo processo?", "label": []}
+{"text": "Sim, por favor, me guie nesse processo. Estou disposta a tentar qualquer coisa.", "label": []}
+{"text": "Perfeito! Vou te fornecer as instruções passo a passo para a limpeza de disco. Primeiro, clique com o botão direito no ícone do disco local, C, em Meu Computador e escolha Propriedades.", "label": []}
+{"text": "Olá, estou ligando para o suporte. Pode me ajudar?", "label": []}
+{"text": "Claro. Meu nome é Daniel e estou aqui para ajudar. Qual é o seu problema?", "label": [[18, 25, "NOME"]]}
+{"text": "Certo, vou fazer isso agora mesmo. Obrigada pela ajuda, Daniel.", "label": [[56, 62, "NOME"]]}
+{"text": "Disponha, Joana. Estamos sempre aqui para ajudar. Se tiver mais alguma dúvida, é só entrar em contato.", "label": [[10, 15, "NOME"]]}
+{"text": "Com certeza, Daniel. Obrigada novamente. Tenha um bom dia.", "label": [[13, 19, "NOME"]]}
+{"text": "Você também, Joana. Bom dia e até mais.", "label": [[13, 18, "NOME"]]}
+{"text": "Estou com um problema na minha conta. Não consigo acessar.", "label": []}
+{"text": "Entendo, Joana. Pode me passar o seu CPF para que eu possa localizar a sua conta?", "label": [[9, 14, "NOME"]]}
+{"text": "Claro, meu CPF é R$ 6,96 mil e oitocentos e oito cento e oito cento e noventa e quarenta.", "label": [[20, 25, "NUMERO"]]}
+{"text": "Obrigado, Joana. Vou verificar aqui. Por favor, aguarde um momento.", "label": [[10, 15, "NOME"]]}
+{"text": "Sem problemas. Estou aguardando.", "label": []}
+{"text": "Encontrei a sua conta, Joana. Parece que houve um bloqueio temporário por motivos de segurança. Vou te ajudar a resolver isso.", "label": [[23, 28, "NOME"]]}
+{"text": "Ótimo, estou preocupada com isso. O que devo fazer?", "label": []}
+{"text": "Vou te enviar um e-mail com as etapas necessárias para desbloquear a sua conta. Verifique a sua caixa de entrada e siga as instruções.", "label": []}
+{"text": "Olá, estou precisando de ajuda com o meu produto.", "label": []}
+{"text": "Olá Luciana, como posso te ajudar hoje?", "label": [[4, 11, "NOME"]]}
+{"text": "Tudo bem, vou fazer o reset agora.", "label": []}
+{"text": "Ótimo. Após ligá-lo novamente, me informe se algum indicador se acendeu ou se o problema persiste.", "label": []}
+{"text": "Acabei de ligar novamente, mas ainda não há nenhuma luz acesa.", "label": []}
+{"text": "Peço desculpas pela inconveniência. Nesse caso, vou agendar uma visita técnica para verificar presencialmente o seu aparelho. Podemos marcar para amanhã às 10h? Confirmo o endereço cadastrado. Rua das Flores nº 123, Bairro Centro, Cidade São Paulo.", "label": []}
+{"text": "Sim, esse é o meu endereço. Amanhã às 10h está perfeito.", "label": []}
+{"text": "Perfeito, Luciana. O técnico estará aí amanhã às 10h para resolver o problema do seu aparelho. Mais alguma dúvida ou alguma outra questão que eu possa ajudar?", "label": [[10, 17, "NOME"]]}
+{"text": "Não, por enquanto está tudo bem. Agradeço a sua ajuda.", "label": []}
+{"text": "Eu que agradeço, Luciana. Qualquer coisa, fique à vontade para entrar em contato novamente. Tenha um ótimo dia.", "label": [[17, 24, "NOME"]]}
+{"text": "Obrigada, você também.", "label": []}
+{"text": "Estou com problemas para ligar o meu aparelho. Poderia me orientar?", "label": []}
+{"text": "Claro, vou precisar do seu CPF para acessar o seu cadastro, por favor.", "label": []}
+{"text": "Meu CPF é 220.340.710.03.", "label": [[10, 24, "NUMERO"]]}
+{"text": "Obrigado, Luciana! Agora vamos verificar o problema do seu aparelho.", "label": [[10, 17, "NOME"]]}
+{"text": "Ótimo, estou aguardando.", "label": []}
+{"text": "Verifique se todas as conexões estão corretamente encaixadas. Alguma luz ou indicador está aceso no aparelho?", "label": []}
+{"text": "As conexões parecem estar corretas, mas não vejo nenhuma luz acesa.", "label": []}
+{"text": "Nesse caso, vamos proceder com um reset no aparelho. Por favor, desligue-o da tomada e aguarde 30 segundos antes de ligá-lo novamente.", "label": []}
+{"text": "Olá, bem-vindo ao Suporte ao Cliente. Em que posso ajudar hoje?", "label": []}
+{"text": "Olá, estou com um problema no meu pedido. O CPF é R$ 922.780,5930.", "label": [[53, 65, "NUMERO"]]}
+{"text": "Certo, vou verificar o que está acontecendo com o seu pedido. Por favor, aguarde um momento.", "label": []}
+{"text": "Encontrei o seu pedido, José. Qual é o problema específico que está acontecendo?", "label": [[24, 28, "NOME"]]}
+{"text": "Fiz a compra há uma semana e ainda não recebi o produto.", "label": []}
+{"text": "Peço desculpas pelo transtorno, José. Vou investigar o motivo do atraso e entrar em contato com o setor responsável. Em até 24 horas, daremos uma posição sobre a entrega.", "label": [[32, 36, "NOME"]]}
+{"text": "Agradeço sua atenção, Maria. Aguardarei o posicionamento da equipe responsável.", "label": [[22, 27, "NOME"]]}
+{"text": "Fique tranquilo, José. Faremos o possível para solucionar esse problema o mais rápido possível.", "label": [[17, 21, "NOME"]]}
+{"text": "Caso tenha alguma dúvida adicional, por favor, não hesite em me contatar novamente.", "label": []}
+{"text": "Obrigado, Maria. Vou aguardar o contato de vocês. Tenha um bom dia.", "label": [[10, 15, "NOME"]]}
+{"text": "Olá, estou tendo problemas com o meu produto.", "label": []}
+{"text": "Olá, Senhora Santos. Fico feliz em poder ajudar. Pode me informar seu CPF, por favor?", "label": []}
+{"text": "Perfeito. Vou agendar uma visita técnica para amanhã pela manhã. Você recebeu o número de protocolo dessa solicitação em seu e-mail, correto?", "label": []}
+{"text": "Sim, recebi sim. O número de protocolo é 256.641.360.65. Obrigada pela ajuda.", "label": []}
+{"text": "De nada, senhora Santos. Faremos o possível para resolver seu problema o mais rápido possível. Se precisar de mais alguma coisa, é só entrar em contato. Tenha um ótimo dia!", "label": []}
+{"text": "Claro, meu CPF é 256.041.360.65.", "label": [[17, 31, "NUMERO"]]}
+{"text": "Obrigado pela informação, senhora Santos. Qual é o problema específico que você está enfrentando?", "label": []}
+{"text": "Estou tendo dificuldades com o funcionamento do produto. Ele não liga mais.", "label": []}
+{"text": "Entendo. Vou verificar as possíveis soluções para esse problema. Por favor, aguarde um momento.", "label": []}
+{"text": "Senhora Santos, você já tentou reiniciar o dispositivo?", "label": []}
+{"text": "Sim, já tentei reiniciar algumas vezes, mas não resolveu o problema.", "label": []}
+{"text": "Entendo. Vou realizar uma verificação remota e, se necessário, agendar uma visita técnica em sua residência. Pode confirmar seu endereço para mim?", "label": []}
+{"text": "Claro, meu endereço é Rua das Flores, número 123, Cidade X, Estado Hélio.", "label": []}
+{"text": "Olá, estou com problemas no meu produto. Podem me ajudar?", "label": []}
+{"text": "Claro, posso ajudar. Qual é o CPF do titular da compra?", "label": []}
+{"text": "Meu CPF é 378.137.1240.54.", "label": [[10, 25, "NUMERO"]]}
+{"text": "Perfeito, né? Obrigado pela informação. Agora, por favor, descreva o problema que está enfrentando.", "label": []}
+{"text": "O produto que comprei apresentou um defeito logo após a primeira utilização.", "label": []}
+{"text": "Sinto muito pelo inconveniente. Vou registrar sua reclamação e providenciar uma solução para você. Para isso, preciso de algumas informações adicionais, como seu número de telefone.", "label": []}
+{"text": "Meu número de telefone é 9876-5432.", "label": []}
+{"text": "Obrigado por fornecer seu número. Entrarei em contato com você assim que tiver uma atualização sobre o seu caso. Alguma outra dúvida ou informação que gostaria de compartilhar?", "label": []}
+{"text": "Não, acredito que era isso. Obrigada pela ajuda.", "label": []}
+{"text": "De nada, Sofia. Estamos sempre à disposição para ajudar. Tenha um ótimo dia.", "label": [[9, 14, "NOME"]]}
+{"text": "Olá, eu estou com um problema no meu serviço. Vocês poderiam me ajudar?", "label": []}
+{"text": "Claro. Eu sou o Roger, seu atendente. Qual é o seu CPF?", "label": [[16, 21, "NOME"]]}
+{"text": "Obrigada, Roger. Vou checar o e-mail agora mesmo.", "label": [[10, 15, "NOME"]]}
+{"text": "Por nada, Laurinda. Se você tiver mais alguma dúvida ou precisar de mais ajuda, estou aqui para auxiliá-la. Tenha um bom dia.", "label": [[10, 18, "NOME"]]}
+{"text": "Ótimo! Agradeço novamente pela assistência, Roger. Tenha um excelente dia também.", "label": []}
+{"text": "Meu CPF é 308.410.1206.", "label": [[10, 22, "NUMERO"]]}
+{"text": "Obrigado pelo seu CPF, Laurinda. Agora, por favor, descreva o problema que está enfrentando.", "label": [[23, 31, "NOME"]]}
+{"text": "Bem, estou tendo dificuldades para acessar minha conta online. Não consigo fazer login.", "label": []}
+{"text": "Entendo, Laurinda. Vamos verificar isso para você. Você já tentou redefinir sua senha?", "label": [[9, 17, "NOME"]]}
+{"text": "Sim, eu tentei, mas não recebi nenhum e-mail para fazer a redefinição.", "label": []}
+{"text": "Peço desculpas pelo inconveniente, Laurinda. Vou verificar o que está acontecendo com o seu e-mail registrado. Por favor, aguarde um momento.", "label": [[35, 43, "NOME"]]}
+{"text": "Certo, estarei aguardando.", "label": []}
+{"text": "Laurinda, após verificar, identifiquei um problema em nosso sistema que estava bloqueando o envio de e-mails para redefinição de senhas. Peço desculpas pela inconveniência causada. Já resolvi o problema e acabei de reenviar um e-mail para você redefinir sua senha. Por favor, verifique sua caixa de entrada.", "label": [[0, 8, "NOME"]]}
+{"text": "Olá, preciso de ajuda com meu CPF.", "label": []}
+{"text": "Claro, me chamo Maria. Como posso ajudá-lo?", "label": [[16, 21, "NOME"]]}
+{"text": "Bem, estou tendo problemas para atualizar meu CPF. O número é 7S27.101MAKATON18033.", "label": [[77, 82, "NUMERO"]]}
+{"text": "Entendi, João. Vou verificar a situação para você. Aguarde um momento, por favor.", "label": [[9, 13, "NOME"]]}
+{"text": "Verifiquei seu CPF, João, e parece que não há pendências. Poderia me informar qual é o problema que está enfrentando?", "label": [[20, 24, "NOME"]]}
+{"text": "É que preciso atualizar meu endereço, mas não estou conseguindo acessar o site.", "label": []}
+{"text": "Compreendo, João. Vamos fazer o seguinte. Vou fornecer um link alternativo para você acessar a página de atualização de endereço. Pode anotar o link. bab.example.com atualiza-cao-cpf-727-101.180.33", "label": [[12, 16, "NOME"], [183, 197, "NUMERO"]]}
+{"text": "Muito obrigado, Maria. Vou tentar agora mesmo.", "label": [[16, 21, "NOME"]]}
+{"text": "Não há de quê, João. Estou à disposição caso você precise de mais alguma ajuda. Tenha um ótimo dia.", "label": [[15, 19, "NOME"]]}
+{"text": "Olá, eu sou a Ana. Estou com um problema no meu telefone.", "label": [[14, 17, "NOME"]]}
+{"text": "Olá, Ana. Eu sou o João e estou aqui para ajudá-la. Qual é o problema que está ocorrendo?", "label": [[5, 8, "NOME"], [19, 24, "NOME"]]}
+{"text": "Obrigada, João. Tenha um ótimo dia também.", "label": [[10, 14, "NOME"]]}
+{"text": "Eu não consigo fazer ligações. Toda vez que tento, aparece uma mensagem de erro.", "label": []}
+{"text": "Entendo, Ana. Vamos verificar o que pode estar acontecendo. Você poderia me informar o seu CPF, por favor?", "label": [[9, 12, "NOME"]]}
+{"text": "Claro, o meu CPF é 0,31, 1,34, 0,3040.", "label": [[19, 37, "NUMERO"]]}
+{"text": "Obrigado pelo seu CPF, Ana. Vou realizar alguns testes em nosso sistema. Por favor, aguarde um momento.", "label": [[23, 26, "NOME"]]}
+{"text": "Certo, João. Tô aguardando.", "label": [[7, 11, "NOME"]]}
+{"text": "Verifiquei as suas informações, Ana. Parece que houve um bloqueio temporário na sua linha. Irei desbloqueá-la imediatamente. Em alguns minutos, você poderá fazer ligações normalmente.", "label": [[32, 35, "NOME"]]}
+{"text": "Muito obrigada, João. Fico aliviada em saber que será resolvido.", "label": [[16, 20, "NOME"]]}
+{"text": "Disponha, Ana. Caso tenha algum outro problema futuramente, estaremos sempre à disposição. Tenha um ótimo dia.", "label": [[10, 13, "NOME"]]}
+{"text": "Olá, estou com um problema no meu produto. Podem me ajudar?", "label": []}
+{"text": "Com certeza. Me chamo Marcelo e estou aqui para ajudá-la. Qual é o seu nome e número de RG?", "label": [[22, 30, "NOME"]]}
+{"text": "Meu nome é Joana e meu RG é 11.988.1988.", "label": [[28, 39, "NUMERO"]]}
+{"text": "Ótimo, Joana. Agora me conte qual é o problema que você está enfrentando.", "label": [[7, 12, "NOME"]]}
+{"text": "e produto que comprei não está funcionando corretamente. Preciso de assistência técnica.", "label": []}
+{"text": "Entendo, Joana. Vou abrir uma solicitação de assistência técnica para você. Por favor, aguarde um momento enquanto verifico as opções disponíveis.", "label": [[9, 14, "NOME"]]}
+{"text": "Certo, estarei aguardando.", "label": []}
+{"text": "Encontrei uma assistência técnica próxima a você, Joana. Anote o endereço, Rua das Flores, número 123. O técnico estará disponível para atendê-la amanhã às 10 horas. Mais alguma dúvida?", "label": [[50, 55, "NOME"]]}
+{"text": "Não? Muito obrigada pela ajuda, Marcelo.", "label": [[32, 39, "NOME"]]}
+{"text": "De nada, Joana. Estamos sempre aqui para ajudar. Se precisar de mais alguma coisa, é só nos chamar. Tenha um ótimo dia.", "label": [[9, 14, "NOME"]]}
+{"text": "Olá, estou com um problema no meu computador.", "label": []}
+{"text": "Olá, Joana, como posso te ajudar?", "label": [[5, 10, "NOME"]]}
+{"text": "Após ligar novamente, verifique se o problema persiste.", "label": []}
+{"text": "Infelizmente, continua não ligando. O que faço agora?", "label": []}
+{"text": "Vamos prosseguir para outros passos de solução. Por favor, verifique se todos os cabos estão corretamente conectados.", "label": []}
+{"text": "Já conferi, tudo parece estar conectado corretamente.", "label": []}
+{"text": "Ok, Joana, vamos tentar redefinir as configurações do BIOS. Você está familiarizada com esse processo?", "label": [[4, 9, "NOME"]]}
+{"text": "Não tenho muito conhecimento nessa área, mas estou disposta a tentar.", "label": []}
+{"text": "Tudo bem, Joana, vou te guiar pelo processo. Primeiro, reinicie o computador e pressione a tecla Del durante a inicialização.", "label": [[10, 15, "NOME"]]}
+{"text": "Certo, estou reiniciando agora e pressionarei a tecla Delhi.", "label": []}
+{"text": "Ótimo, Joanna! Agora você estará no BIOS. Procure pelas opções de Restore Defaults ou Load Optimal Defaults.", "label": [[7, 13, "NOME"]]}
+{"text": "Encontrei as opções de Restore Defaults. Vou selecionar essa.", "label": []}
+{"text": "Bom, meu computador não está ligando. Eu já tentei de tudo.", "label": []}
+{"text": "Perfeito, Joana! Agora, salve as alterações e reinicie o computador novamente.", "label": [[10, 15, "NOME"]]}
+{"text": "Já fiz isso. Estou ansiosa para ver se funcionou.", "label": []}
+{"text": "Vamos torcer, Joana! O computador deve reiniciar agora. Verifique se o problema foi resolvido.", "label": [[14, 19, "NOME"]]}
+{"text": "Uau, Paulo! Funcionou! Obrigada por toda a ajuda!", "label": [[5, 10, "NOME"]]}
+{"text": "Fico feliz em ajudar, Joana. Se tiver mais alguma dúvida, é só me procurar. Tenha um ótimo dia!", "label": [[22, 27, "NOME"]]}
+{"text": "Entendo, Joana. Poderia me fornecer seu RG, por favor?", "label": [[9, 14, "NOME"]]}
+{"text": "Claro, meu RG é 38.957.1829.", "label": [[16, 27, "NUMERO"]]}
+{"text": "Obrigado, Joana. Vou realizar uma busca rápida em nosso sistema.", "label": [[10, 15, "NOME"]]}
+{"text": "Encontrei suas informações, Joanna. Agora vamos solucionar seu problema.", "label": [[28, 34, "NOME"]]}
+{"text": "Ótimo, estou aguardando.", "label": []}
+{"text": "Primeiramente, vamos tentar reiniciar o computador. Por favor, desligue-o e ligue novamente.", "label": []}
+{"text": "Ok, estou fazendo isso agora.", "label": []}
+{"text": "Olá, estou com um problema no meu computador.", "label": []}
+{"text": "Olá, Carlos. Como posso ajudá-lo hoje?", "label": [[5, 11, "NOME"]]}
+{"text": "Eu que agradeço, Carlos. Qualquer outra dúvida ou problema, estou à disposição. Tenha um ótimo dia.", "label": [[17, 23, "NOME"]]}
+{"text": "Apareceu uma tela azul e meu computador travou. O que devo fazer?", "label": []}
+{"text": "Entendo, Carlos. Vou precisar do seu número de RG para verificar algumas informações. Por favor, me informe.", "label": [[9, 15, "NOME"]]}
+{"text": "Claro, meu RG é 38-13-12-2003-1.", "label": [[16, 31, "NUMERO"]]}
+{"text": "Obrigada, Carlos. Aguarde um momento enquanto eu verifico os registros.", "label": [[10, 16, "NOME"]]}
+{"text": "Verifiquei que você possui uma garantia ativa para o seu computador. Vamos agendar uma visita técnica para analisar e resolver o problema. Qual o melhor dia e horário para você?", "label": []}
+{"text": "Podemos marcar para segunda-feira às 14h.", "label": []}
+{"text": "Perfeito, Carlos. Agendei sua visita técnica para segunda-feira, dia 10, às 14 horas. O técnico estará aí para verificar e solucionar o problema do seu computador.", "label": [[10, 16, "NOME"]]}
+{"text": "Ótimo. Obrigado pela ajuda, Ana.", "label": [[28, 31, "NOME"]]}
+{"text": "Olá. Estou com problemas no meu serviço de internet.", "label": []}
+{"text": "Olá, Mariana. Meu nome é Carlos e estou aqui para ajudar. Por favor, me informe seu RG.", "label": [[5, 12, "NOME"], [25, 32, "NOME"]]}
+{"text": "Perfeito. Obrigada pela ajuda.", "label": []}
+{"text": "Por nada, Mariana. Estamos à disposição para qualquer outra assistência. Tenha um ótimo dia.", "label": [[10, 17, "NOME"]]}
+{"text": "Meu RG é 25.734.6454.", "label": [[9, 20, "NOME"]]}
+{"text": "Perfeito. RG 25734-145-4 confirmado. O que está exatamente acontecendo com o seu serviço de internet?", "label": [[12, 25, "NOME"]]}
+{"text": "Minha conexão está muito lenta e falhando constantemente.", "label": []}
+{"text": "Entendo, Mariana. Vamos fazer alguns testes para verificar o que pode estar causando esse problema. Você poderia reiniciar o seu roteador?", "label": [[9, 16, "NOME"]]}
+{"text": "Já reiniciei algumas vezes, mas o problema persiste.", "label": []}
+{"text": "Oski e Mariana, vou analisar a sua conexão remotamente. Enquanto isso, por favor, verifique se todos os cabos estão corretamente conectados ao roteador.", "label": [[7, 14, "NOME"]]}
+{"text": "Já verifiquei tudo e está tudo conectado corretamente.", "label": []}
+{"text": "Entendi, Mariana. Parece que você já fez todos os procedimentos básicos. Vou abrir um chamado técnico para que um técnico especializado vá até a sua residência verificar a situação pessoalmente. O número do chamado é o 25.734-6454.", "label": [[9, 16, "NOME"], [219, 230, "NUMERO"]]}
+{"text": "Olá, estou com um problema no meu computador. Podem me ajudar?", "label": []}
+{"text": "Olá, Guilherme. Claro, estou aqui para ajudar. Pode me descrever o problema?", "label": [[5, 14, "NOME"]]}
+{"text": "Certo, estou aguardando.", "label": []}
+{"text": "Já estou conectada, Guilherme. Vou verificar os programas em execução e realizar uma varredura em busca de possíveis ameaças.", "label": [[20, 29, "NOME"]]}
+{"text": "Muito obrigado pela ajuda, Aline.", "label": [[27, 32, "NOME"]]}
+{"text": "Não há de quê, Guilherme. Estamos aqui para ajudar. Verifiquei alguns problemas e iniciarei os procedimentos para solucioná-los. Por favor, aguarde.", "label": [[15, 24, "NOME"]]}
+{"text": "Claro, sem pressa. Agradeço novamente.", "label": []}
+{"text": "Pronto, Guilherme! Realizei os ajustes necessários e agora seu computador deve estar funcionando corretamente. Alguma outra dúvida?", "label": [[8, 17, "NOME"]]}
+{"text": "Não, estou satisfeito com o atendimento e a solução. Muito obrigado, Aline.", "label": [[69, 74, "NOME"]]}
+{"text": "Fico feliz em ajudar, Guilherme. Se surgir algum problema futuro, não hesite em nos contatar novamente. Tenha um bom dia!", "label": [[22, 31, "NOME"]]}
+{"text": "Meu computador está travando constantemente e está muito lento.", "label": []}
+{"text": "Entendo, Guilherme. Vou precisar do seu RG para verificar seus registros no sistema. Por favor, me informe seu RG.", "label": [[9, 18, "NOME"]]}
+{"text": "Meu RG é R$ 23.153,157.", "label": [[12, 22, "NUMERO"]]}
+{"text": "Obrigada, Guilherme. Irei consultar seus dados. Enquanto isso, você já tentou reiniciar o computador?", "label": [[10, 19, "NOME"]]}
+{"text": "Sim, já reiniciei algumas vezes e o problema persiste.", "label": []}
+{"text": "Certo, Guilherme. Vou precisar acessar seu computador remotamente para realizar alguns diagnósticos. Você concorda?", "label": [[7, 16, "NOME"]]}
+{"text": "Sim, pode acessar remotamente.", "label": []}
+{"text": "Perfeito. Aguarde um momento enquanto eu acesso seu computador.", "label": []}
+{"text": "Olá, tudo bem? Preciso de suporte para configurar meu novo computador.", "label": []}
+{"text": "Olá, Lívia. Claro, estou aqui para te ajudar. Poderia informar seu nome completo?", "label": [[5, 10, "NOME"]]}
+{"text": "Sem problema, Roberto. Estou aqui aguardando sua ajuda.", "label": [[14, 21, "NOME"]]}
+{"text": "Lívia, encontrei os drivers que você precisa. Você pode acessar este link www.exemplo.com.br e fazer o download deles.", "label": [[0, 5, "NOME"]]}
+{"text": "Muito obrigada, Roberto. Vou fazer o download agora mesmo.", "label": [[16, 23, "NOME"]]}
+{"text": "Por nada, Lívia. Se tiver mais alguma dúvida ou precisar de ajuda adicional, estou à disposição. Tenha um ótimo dia!", "label": [[10, 15, "NOME"]]}
+{"text": "Agradeço sua ajuda, Roberto. Tenha um ótimo dia você também.", "label": [[20, 27, "NOME"]]}
+{"text": "Meu nome completo é Lívia Souza, e você, como posso te chamar?", "label": [[20, 26, "NOME"]]}
+{"text": "Pode me chamar de Roberto, Lívia. Qual é o problema que está enfrentando?", "label": [[18, 25, "NOME"], [27, 32, "NOME"]]}
+{"text": "Bem, estou tendo dificuldades para conectar a minha impressora. Não sei quais os drivers necessários.", "label": []}
+{"text": "Entendo, Lívia. Vamos resolver isso. Primeiramente, poderia me informar o modelo da sua impressora?", "label": [[9, 14, "NOME"]]}
+{"text": "Claro, o modelo é Pixma MG3U22.", "label": []}
+{"text": "Obrigado, Lívia. Vou verificar os drivers compatíveis com a PIXMA MG322. Enquanto isso, poderia me informar o seu RG?", "label": [[10, 15, "NOME"]]}
+{"text": "Meu RG é 44.686.9910.", "label": [[9, 20, "NUMERO"]]}
+{"text": "Obrigado, Lívia. Vou conferir algumas informações e já voltarei com a solução. Por favor, aguarde um instante.", "label": [[10, 15, "NOME"]]}
+{"text": "Olá, estou com um problema no meu produto.", "label": []}
+{"text": "Olá, meu nome é Alice. Como posso te ajudar?", "label": [[16, 21, "NOME"]]}
+{"text": "De nada, João. Estamos aqui para ajudar. Até amanhã e boa sorte com o conserto do computador.", "label": [[9, 13, "NOME"]]}
+{"text": "É sobre o meu computador. Ele não liga mais.", "label": []}
+{"text": "Entendo, João. Você poderia me informar o número do seu RG?", "label": [[9, 13, "NOME"]]}
+{"text": "Claro, meu RG é 38.072.012.811.", "label": [[16, 30, "NUMERO"]]}
+{"text": "Obrigada pelo número do RG João. Vamos verificar o seu caso.", "label": [[27, 31, "NOME"]]}
+{"text": "Verifiquei em nossos registros e vejo que seu computador ainda está coberto pela garantia. Podemos fazer um agendamento para a assistência técnica?", "label": []}
+{"text": "Sim, por favor. Quando posso levar o computador?", "label": []}
+{"text": "Vamos agendar para amanhã às 14h. Tudo bem para você?", "label": []}
+{"text": "Ótimo, estarei lá. Obrigado pela ajuda, Alice.", "label": [[40, 45, "NOME"]]}
+{"text": "Olá, estou com problemas para acessar meu e-mail.", "label": []}
+{"text": "Olá, José. Sou a Ana. Como posso ajudá-lo?", "label": [[5, 9, "NOME"], [17, 20, "NOME"]]}
+{"text": "Por nada, José. Fico à disposição caso precise de mais alguma ajuda. Tenha um ótimo dia.", "label": [[10, 14, "NOME"]]}
+{"text": "Bem, toda vez que tento entrar na minha conta, aparece uma mensagem de erro.", "label": []}
+{"text": "Entendo, José. Poderia me informar o seu RG para que eu possa verificar seu cadastro no sistema?", "label": [[9, 13, "NOME"]]}
+{"text": "Claro, meu RG é 46.209.403.40.", "label": [[16, 29, "NUMERO"]]}
+{"text": "Obrigada, José. Vou verificar seus dados agora mesmo. Só um momento, por favor.", "label": [[10, 14, "NOME"]]}
+{"text": "Rosé, encontrei seu cadastro no sistema. Parece que você esqueceu sua senha. Podemos redefini-la agora para você?", "label": []}
+{"text": "Sim, por favor. Preciso recuperar o acesso ao meu e-mail.", "label": []}
+{"text": "Certo, José. Vou enviar um link para o seu e-mail cadastrado com as instruções para a redefinição de senha. Por favor, verifique sua caixa de entrada.", "label": [[7, 11, "NOME"]]}
+{"text": "Muito obrigado, Ana. Vou verificar o e-mail agora mesmo.", "label": [[16, 19, "NOME"]]}
+{"text": "Olá, estou com um problema no meu software. Poderia me ajudar?", "label": []}
+{"text": "Claro, Isabela. Fico feliz em ajudar. Poderia me fornecer o RG?", "label": [[7, 14, "NOME"]]}
+{"text": "Muito obrigada, John. Vou verificar o e-mail agora mesmo.", "label": [[16, 20, "NOME"]]}
+{"text": "Por nada, Isabela. Espero que as instruções te ajudem a solucionar o problema. Se tiver mais alguma dúvida, não hesite em me contatar novamente. Tenha um ótimo dia!", "label": [[10, 17, "NOME"]]}
+{"text": "Meu RG é 29.125.17372.", "label": [[9, 21, "NUMERO"]]}
+{"text": "Obrigado, Isabela. Agora, por favor, descreva o problema com mais detalhes.", "label": [[10, 17, "NOME"]]}
+{"text": "Eu estou recebendo uma mensagem de erro sempre que tento abrir o aplicativo.", "label": []}
+{"text": "Entendo, Isabela. Vamos resolver esse problema juntos. Você já tentou reinstalar o aplicativo?", "label": [[9, 16, "NOME"]]}
+{"text": "Sim, eu já tentei reinstalar, mas o erro persiste.", "label": []}
+{"text": "Certo, vamos verificar outras possíveis soluções. Você poderia me informar qual sistema operacional você está usando?", "label": []}
+{"text": "Estou utilizando o Windows 10.", "label": []}
+{"text": "Ótimo! Temos um guia específico de solução de problemas para o Windows 10. Vou te enviar o link por e-mail. Você pode conferir as instruções e seguir os passos indicados para resolver o erro.", "label": []}
+{"text": "Olá, estou com um problema no meu computador.", "label": []}
+{"text": "Olá, João, em que posso ajudar?", "label": [[5, 9, "NOME"]]}
+{"text": "Certo, estarei aguardando.", "label": []}
+{"text": "João, após consultar nossos registros, identificamos que uma atualização recente pode estar causando o travamento. Recomendo que você faça uma restauração do sistema para voltar a uma versão estável anterior. Posso guiá-lo nesse processo.", "label": [[0, 4, "NOME"]]}
+{"text": "Sim, por favor, me explique como proceder.", "label": []}
+{"text": "Perfeito, João! Vou te passar um passo a passo detalhado. Vá até o menu Iniciar, digite Restaurar sistema na barra de pesquisa e selecione a opção correspondente. A partir daí, siga as instruções que serão exibidas na tela.", "label": [[10, 14, "NOME"]]}
+{"text": "Entendi, Maria. Farei isso agora mesmo.", "label": [[9, 14, "NOME"]]}
+{"text": "Ótimo, João. Espero que essa solução resolva o seu problema, caso contrário, por favor, entre em contato conosco novamente.", "label": [[7, 11, "NOME"]]}
+{"text": "Muito obrigado, Maria. Farei a restauração e volto a entrar em contato se necessário.", "label": [[16, 21, "NOME"]]}
+{"text": "Por nada, João. Estamos aqui para ajudar. Tenha um ótimo dia.", "label": [[10, 14, "NOME"]]}
+{"text": "Minha máquina está travando constantemente.", "label": []}
+{"text": "Entendo, João. Vou precisar do seu RG para identificar o seu cadastro. Poderia informá-lo?", "label": [[9, 13, "NOME"]]}
+{"text": "Claro, meu RG é R$ 13.983,9513.", "label": [[19, 30, "NUMERO"]]}
+{"text": "Obrigada, João. Vou verificar os registros e os possíveis problemas relacionados. Enquanto isso, você já tentou reiniciar o computador?", "label": [[10, 14, "NOME"]]}
+{"text": "Sim, já reiniciei algumas vezes, mas o problema persiste.", "label": []}
+{"text": "Entendo, João. Vamos tentar uma solução alternativa. Poderia me fornecer o modelo do seu computador?", "label": [[9, 13, "NOME"]]}
+{"text": "Eu possuo um modelo Dell Inspiron 15.", "label": []}
+{"text": "Ótimo, obrigada pela informação. Vou verificar se há algum problema conhecido com esse modelo. Enquanto isso, por favor, aguarde um momento.", "label": []}
+{"text": "Olá, estou com um problema no meu produto.", "label": []}
+{"text": "Olá Bruno, me chamo Lúcia, sou a atendente responsável pelo suporte, em que posso ajudar.", "label": [[4, 9, "NOME"], [20, 25, "NOME"]]}
+{"text": "Estou com um vazamento na torneira do banheiro.", "label": []}
+{"text": "Entendo, Bruno. Pra verificar as informações, você poderia me fornecer o seu RG novamente, por favor?", "label": [[9, 14, "NOME"]]}
+{"text": "Claro, meu RG é 44828D450.", "label": [[16, 25, "NUMERO"]]}
+{"text": "Obrigada, Bruno. Verifiquei seus dados. O número do seu protocolo de atendimento é 1-800-9273. Vou solicitar o envio de uma equipe técnica ao seu endereço para resolver o vazamento. Eles entrarão em contato dentro de 24 horas para agendar a visita. Alguma outra dúvida?", "label": [[10, 15, "NOME"]]}
+{"text": "Obrigado, Lúcia. Fico no aguardo do contato da equipe técnica.", "label": [[10, 15, "NOME"]]}
+{"text": "Ótimo, Bruno. Qualquer outra necessidade, pode me contatar novamente. Tenha um bom dia.", "label": [[7, 12, "NOME"]]}
+{"text": "Olá! Estou precisando de suporte técnico.", "label": []}
+{"text": "Olá José, como posso ajudá-lo hoje?", "label": [[4, 8, "NOME"]]}
+{"text": "Não, muito obrigado pela sua ajuda.", "label": []}
+{"text": "Disponha, José! Estamos sempre prontos para ajudar. Tenha um ótimo dia!", "label": [[10, 14, "NOME"]]}
+{"text": "Estou com problemas para acessar minha conta no site.", "label": []}
+{"text": "Entendo, José. Você poderia me informar seu RG para que eu possa verificar sua conta?", "label": [[9, 13, "NOME"]]}
+{"text": "Claro, meu RG é 12.767.19625.", "label": [[16, 28, "NUMERO"]]}
+{"text": "Obrigada, José. Vou verificar seus dados.", "label": [[10, 14, "NOME"]]}
+{"text": "Encontrei sua conta, José. Parece que você esqueceu sua senha. Podemos redefini-la para você. Posso prosseguir?", "label": [[21, 25, "NOME"]]}
+{"text": "Sim, por favor. Preciso muito acessar minha conta novamente.", "label": []}
+{"text": "Perfeito, José! Acabei de enviar um e-mail para o endereço vinculado à sua conta com as instruções para a redefinição de senha. Por favor, verifique sua caixa de entrada.", "label": [[10, 14, "NOME"]]}
+{"text": "Alguma dúvida adicional, José?", "label": [[25, 29, "NOME"]]}
+{"text": "Olá, estou tendo problemas com o meu dispositivo. Poderia me ajudar?", "label": []}
+{"text": "Claro, Valentina, com certeza vou ajudar você. Para iniciar, poderia informar o seu RG.", "label": [[7, 16, "NOME"]]}
+{"text": "Meu RG é 50793-19670.", "label": [[9, 20, "NUMERO"]]}
+{"text": "Ótimo! Obrigado por fornecer seu RG Valentina. Agora, por favor, descreva o problema com mais detalhes.", "label": [[36, 45, "NOME"]]}
+{"text": "Bem, meu dispositivo está reiniciando aleatoriamente e fica lento em algumas ocasiões.", "label": []}
+{"text": "Entendo, Valentina. Vamos fazer alguns testes para identificar o que está causando esses problemas. Primeiro, você poderia reiniciar o dispositivo?", "label": [[9, 18, "NOME"]]}
+{"text": "Já fiz isso algumas vezes, mas o problema persiste.", "label": []}
+{"text": "Compreendo, Valentina. Vou registrar seu caso e encaminhar para a nossa equipe técnica. Eles entrarão em contato com você em breve para fornecer uma solução. Você tem algum outro questionamento por enquanto?", "label": []}
+{"text": "Não, era só isso mesmo. Obrigada!", "label": []}
+{"text": "De nada, Valentina. Estamos à disposição para ajudar. Tenha um ótimo dia!", "label": [[9, 18, "NOME"]]}
+{"text": "Olá, estou com um problema no meu produto.", "label": []}
+{"text": "Boa tarde, Hugo. Em que posso ajudar?", "label": [[11, 15, "NOME"]]}
+{"text": "Eu comprei o produto com o RG 163495737 e ele não está funcionando corretamente.", "label": [[30, 40, "NUMERO"]]}
+{"text": "Me desculpe, Hugo. Vamos resolver esse problema juntos. Poderia me dizer qual é o produto e qual é o defeito que está apresentando?", "label": [[13, 17, "NOME"]]}
+{"text": "Claro! Eu comprei um celular modelo XPTO e ele está com a tela quebrada.", "label": []}
+{"text": "Entendo, Hugo. Vamos realizar o processo de assistência técnica para a troca da tela. Peço que você nos envie o dispositivo para os devidos reparos. Você deseja receber um código de postagem gratuito?", "label": [[9, 13, "NOME"]]}
+{"text": "Sim, por favor, pode me enviar o código.", "label": []}
+{"text": "Claro, Hugo! Já enviei para o seu e-mail cadastrado. Assim que receber o código, basta ir até uma agência dos Correios e enviar o celular para a nossa assistência técnica.", "label": [[7, 11, "NOME"]]}
+{"text": "Está bem, Larissa. Irei fazer isso o mais rápido possível. Obrigado pela ajuda.", "label": [[10, 17, "NOME"]]}
+{"text": "Por nada, Hugo. Estamos aqui para auxiliá-lo. Qualquer dúvida, é só entrar em contato novamente. Tenha um ótimo dia!", "label": [[10, 14, "NOME"]]}
+{"text": "Olá, estou com o quê? Olá, estou com um problema no meu produto.", "label": []}
+{"text": "Olá, Maria, como posso te ajudar hoje? Por favor, me informe o seu RG novamente.", "label": [[5, 10, "NOME"]]}
+{"text": "Assistência técnica mais próxima de você fica na Rua do Suporte, número 123. É importante lembrar que você deve levar o celular juntamente com a nota fiscal de compra para agilizar o processo.", "label": []}
+{"text": "Perfeito. Anotei todas as informações. Muito obrigada pela sua ajuda, José.", "label": [[70, 74, "NOME"]]}
+{"text": "Eu que agradeço, Maria. Espero que seu problema seja resolvido rapidamente. Caso tenha mais alguma dúvida ou precise de qualquer outra assistência, não hesite em entrar em contato novamente.", "label": [[17, 22, "NOME"]]}
+{"text": "Claro! Meu RG é 2813231819.", "label": [[16, 26, "NUMERO"]]}
+{"text": "Obrigado, Maria. Agora, por favor descreva qual é o problema com o seu produto.", "label": [[10, 15, "NOME"]]}
+{"text": "Eu comprei um celular e ele não está ligando. Preciso de ajuda para resolver essa questão.", "label": []}
+{"text": "Entendo, Maria. Vou verificar nossos registros e identificar a melhor solução para o seu problema. Por favor, aguarde um momento.", "label": [[9, 14, "NOME"]]}
+{"text": "Maria, nosso sistema indica que o seu celular ainda está dentro do período de garantia. Vou providenciar a abertura de um chamado técnico para que possamos resolver o seu problema o mais rápido possível.", "label": [[0, 5, "NOME"]]}
+{"text": "Terá necessário levar o celular até uma de nossas assistências técnicas autorizadas para que possamos realizar os reparos necessários. Gostaria que eu fornecesse o endereço da assistência mais próxima?", "label": []}
+{"text": "Sim, por favor, pode me passar o endereço?", "label": []}
+{"text": "Claro, vou fornecer o endereço da assistência para você. Aguarde um momento, por favor.", "label": []}
+{"text": "Olá, preciso de ajuda com o meu produto.", "label": []}
+{"text": "Olá Juliana, eu sou o Rodrigo e estou aqui para ajudá-la. Qual é o problema que está enfrentando?", "label": [[4, 11, "NOME"], [22, 30, "NOME"]]}
+{"text": "Ótimo Juliana, agora teste o funcionamento do produto. Se o problema persistir, entre em contato conosco novamente.", "label": [[6, 13, "NOME"]]}
+{"text": "Muito obrigada pela sua ajuda, Rodrigo. Farei o teste e, se precisar, entrarei em contato novamente.", "label": [[31, 38, "NOME"]]}
+{"text": "Eu que agradeço, Juliana. Estamos sempre à disposição para ajudá-la. Tenha um ótimo dia.", "label": [[17, 24, "NOME"]]}
+{"text": "Meu produto parou de funcionar de repente. O que posso fazer?", "label": []}
+{"text": "Vou precisar do RG do produto para localizar o seu registro. Você poderia me informar o número do RG?", "label": []}
+{"text": "Claro, o número do RG é 16.801.6047.", "label": [[24, 35, "NUMERO"]]}
+{"text": "Perfeito. Obrigado, Juliana. Vou verificar os dados do seu produto. Aguarde um momento, por favor.", "label": [[20, 27, "NOME"]]}
+{"text": "Juliana, verifiquei o seu registro e identifiquei o problema. Vou orientá-la sobre as possíveis soluções.", "label": [[0, 7, "NOME"]]}
+{"text": "Muito obrigada, Rodrigo. Estou aguardando as orientações.", "label": [[16, 23, "NOME"]]}
+{"text": "Juliana, você precisa realizar um reset no seu produto. Para isso, pressione os botões A e B simultaneamente e aguarde 10 segundos.", "label": [[0, 7, "NOME"]]}
+{"text": "Fiz o reset, Rodrigo. E agora?", "label": [[13, 20, "NOME"]]}
+{"text": "Olá, bom dia!", "label": []}
+{"text": "Bom dia, em que posso ajudar?", "label": []}
+{"text": "Meu endereço é Rua das Flores, número 123, Bairro Centro, Cidade Nova.", "label": []}
+{"text": "Ótimo. Agendei o envio do técnico para a sua residência. Ele estará aí amanhã pela manhã entre as 10h e 12h. Alguma outra dúvida?", "label": []}
+{"text": "Não acredito que isso seja tudo. Obrigado pela sua ajuda.", "label": []}
+{"text": "Eu que agradeço. Estamos sempre à disposição para ajudar. Tenha um ótimo dia!", "label": []}
+{"text": "Estou com um problema no meu produto. Poderia me ajudar?", "label": []}
+{"text": "Com certeza, qual é o número de RG cadastrado no seu perfil?", "label": []}
+{"text": "Meu RG49U372069-1.", "label": [[6, 17, "NUMERO"]]}
+{"text": "Obrigada por fornecer seu RG. Agora, por favor, descreva detalhadamente qual é o problema que você está enfrentando.", "label": []}
+{"text": "O produto que comprei está com defeito e não está funcionando corretamente.", "label": []}
+{"text": "Sinto muito por isso. Vou verificar os registros e, enquanto isso, podemos realizar alguns testes para tentar solucionar o problema. Você já tentou reiniciar o produto?", "label": []}
+{"text": "Sim, já tentei reiniciar, mas o problema persiste.", "label": []}
+{"text": "Entendo. Vamos prosseguir. Por favor, confirme seu endereço completo para que eu possa agendar o envio de um técnico para a sua residência.", "label": []}
+{"text": "Olá, preciso de ajuda com um problema no meu computador.", "label": []}
+{"text": "Claro, Amanda. Sou o Carlos, seu atendente. Poderia me dizer qual é o problema?", "label": [[7, 13, "NOME"], [21, 27, "NOME"]]}
+{"text": "Meu computador não está reconhecendo a impressora. Já tentei de tudo.", "label": []}
+{"text": "Estendo, Amanda, vamos verificar. Poderia me fornecer seu RG para identificação?", "label": [[9, 15, "NOME"]]}
+{"text": "Claro, meu RG é 47.136.727.7.", "label": [[16, 28, "NUMERO"]]}
+{"text": "Obrigado pela informação, Amanda. Vamos prosseguir com a solução do seu problema.", "label": [[26, 32, "NOME"]]}
+{"text": "Ótimo! Estou aguardando ansiosamente a solução.", "label": []}
+{"text": "Acredito que seja necessário reinstalar o driver da impressora no seu computador. Vou te enviar um link com as instruções.", "label": []}
+{"text": "Perfeito. Irei seguir as instruções e tentar resolver. Muito obrigada, Carlos.", "label": []}
+{"text": "De nada, Amanda. Estou aqui para ajudar. Se precisar de qualquer outra assistência, não hesite em entrar em contato novamente. Tenha um bom dia!", "label": [[9, 15, "NOME"]]}
+{"text": "Olá, estou com um problema no meu computador. Pode me ajudar?", "label": []}
+{"text": "Com certeza, João. Meu nome é Maria. Qual é o problema que você está enfrentando?", "label": [[13, 17, "NOME"], [30, 35, "NOME"]]}
+{"text": "Sim, eu tenho. Vou iniciar a reinstalação agora mesmo.", "label": []}
+{"text": "Perfeito, João. Assim que a reinstalação for concluída, tente abrir o Word novamente. Espero que o problema seja resolvido.", "label": [[10, 14, "NOME"]]}
+{"text": "Pronto, reinstalei o Word e agora está funcionando perfeitamente. Muito obrigada pela ajuda, Maria.", "label": [[93, 98, "NOME"]]}
+{"text": "De nada, João. Fico feliz em poder ajudar. Se tiver mais alguma dúvida, é só chamar. Tenha um ótimo dia.", "label": [[9, 13, "NOME"]]}
+{"text": "Eu estou recebendo uma mensagem de erro estranha quando tento abrir um programa. O RG que aparece é 38000 e o 26422, 5. O que isso significa?", "label": [[100, 105, "NUMERO"], [110, 115, "NUMERO"], [117, 118, "NUMERO"]]}
+{"text": "Esse número se refere a um possível erro de identificação. Vou verificar o que pode ser. Qual é o programa que está apresentando esse erro?", "label": []}
+{"text": "É o Microsoft Word.", "label": []}
+{"text": "Entendi, João. Vamos tentar algumas soluções básicas. Primeiro, vou pedir para você reiniciar o computador e tentar abrir o Word novamente. Pode fazer isso, por favor?", "label": [[9, 13, "NOME"]]}
+{"text": "Certo, vou fazer isso agora mesmo.", "label": []}
+{"text": "Ótimo, João. Assim que o computador reiniciar, tente abrir o Word novamente e me avise se o erro persistir.", "label": [[7, 11, "NOME"]]}
+{"text": "Pronto, reiniciei o computador e abri o Word. O erro ainda aparece com o RG38P1026.41225.", "label": [[75, 77, "NUMERO"], [78, 88, "NUMERO"]]}
+{"text": "Entendo, João. Vou solicitar que você reinstale o programa para tentarmos resolver esse problema. Você tem o instalador do Word?", "label": [[9, 13, "NOME"]]}
+{"text": "Olá, estou com um problema no meu aplicativo.", "label": []}
+{"text": "Olá, Carlos. Como posso ajudá-lo hoje?", "label": [[5, 11, "NOME"]]}
+{"text": "Bom, toda vez que tento fazer login, aparece uma mensagem de erro.", "label": []}
+{"text": "Entendo. Para que eu possa verificar seu caso preciso do seu RG, por favor.", "label": []}
+{"text": "Claro, meu RG é 47.318.750.", "label": [[16, 26, "NUMERO"]]}
+{"text": "Obrigada, Carlos. Agora me diga qual mensagem de erro você está recebendo ao fazer login.", "label": [[10, 16, "NOME"]]}
+{"text": "Aparece a mensagem Usuário ou senha incorretos, mas tenho certeza de que estou digitando corretamente.", "label": []}
+{"text": "Compreendo, Carlos. Vou verificar o que pode estar causando esse problema. Por favor, aguarde um momento.", "label": [[12, 18, "NOME"]]}
+{"text": "Carlos, identifiquei que há um erro de digitação em seu cadastro. Seu nome de usuário está incorreto. Podemos corrigi-lo agora?", "label": []}
+{"text": "Sim, por favor. Meu nome de usuário correto é carlospereira83.", "label": [[46, 52, "NOME"], [52, 59, "NOME"], [59, 61, "NUMERO"]]}
+{"text": "Bom dia, meu nome é Daniel Oliveira e sou seu atendente hoje. Em que posso ajudar?", "label": [[20, 35, "NOME"]]}
+{"text": "Olá, meu nome é Ana Lopes. Estou com um problema no meu computador.", "label": [[16, 25, "NOME"]]}
+{"text": "Me entendo, Ana. Vamos tentar reconfigurar o seu computador para se conectar ao modem novamente. Pode me informar qual sistema operacional você está usando?", "label": [[12, 15, "NOME"]]}
+{"text": "Estou usando o sistema operacional Windows 10.", "label": [[43, 45, "NUMERO"]]}
+{"text": "Perfeito, Ana. Vou te guiar no processo de reconfiguração da rede. Primeiro, clique no ícone de rede na barra de tarefas.", "label": [[10, 13, "NOME"]]}
+{"text": "Certo, cliquei no ícone de rede.", "label": []}
+{"text": "Agora clique em Configurações de rede e internet, e depois em Wi-Fi.", "label": []}
+{"text": "Encontrei as configurações de rede e estou na opção Wi-Fi.", "label": []}
+{"text": "Ótimo, Ana. Agora clique em Gerenciar redes conhecidas e encontre a rede que você está tentando conectar.", "label": [[7, 10, "NOME"]]}
+{"text": "Encontrei a rede, e agora?", "label": []}
+{"text": "Clique com o botão direito do mouse na rede e selecione Esquecer.", "label": []}
+{"text": "Certo, esqueci a rede.", "label": []}
+{"text": "Certo, Ana. Vamos resolver isso. Poderia me fornecer seu RG para identificação?", "label": [[7, 10, "NOME"]]}
+{"text": "Agora, Ana, clique novamente no ícone de rede e selecione a sua rede. Informe a senha quando solicitado.", "label": [[7, 10, "NOME"]]}
+{"text": "Fiz o procedimento como você explicou. Agora estou conectada à rede sem fio novamente.", "label": []}
+{"text": "Ótimo trabalho, Ann. Fico feliz em ter te ajudado a resolver o problema. Alguma outra dúvida que eu possa ajudar?", "label": [[16, 19, "NOME"]]}
+{"text": "Não, Daniel. Muito obrigada pelo suporte. Tenha um ótimo dia.", "label": [[5, 11, "NOME"]]}
+{"text": "O prazer foi todo meu, Ana. Tenha um excelente dia também.", "label": [[23, 26, "NOME"]]}
+{"text": "Claro! Meu RG é 12.418.9763.", "label": [[16, 27, "NUMERO"]]}
+{"text": "Obrigado, Ana. Agora me diga qual é o problema que você está enfrentando.", "label": [[10, 13, "NOME"]]}
+{"text": "Estou com dificuldades para acessar a internet pelo meu computador.", "label": []}
+{"text": "Entendo, Ana. Vou te guiar em alguns passos para solucionar o problema. Primeiro, vamos verificar se todas as conexões estão corretas.", "label": [[9, 12, "NOME"]]}
+{"text": "Certo, verifiquei todas as conexões. Estão todas bem encaixadas.", "label": []}
+{"text": "Ótimo, Ana, agora vamos reiniciar o seu modem. Desligue o da tomada, espere 30 segundos e depois ligue novamente.", "label": [[7, 10, "NOME"], [76, 78, "NUMERO"]]}
+{"text": "Ok, reiniciei o modem como você orientou. Ainda não está funcionando.", "label": []}
+{"text": "Olá, estou com um problema no meu dispositivo. Pode me ajudar?", "label": []}
+{"text": "Claro, Rafaela. Com certeza posso ajudar. Pode me informar o RG para que eu possa localizar seu cadastro?", "label": [[7, 14, "NOME"]]}
+{"text": "Ótimo! Primeiro, vamos verificar se o aplicativo da câmera está atualizado. Você pode abrir a loja de aplicativos do seu dispositivo e procurar por atualizações para o aplicativo.", "label": []}
+{"text": "Ok, estou fazendo isso agora.", "label": []}
+{"text": "Perfeito, Rafaela! Enquanto você verifica as atualizações, você pode limpar a lente da câmera com um pano macio e sem fiapos. Muitas vezes, sujeira na lente pode causar a qualidade da imagem ruim.", "label": [[10, 17, "NOME"]]}
+{"text": "Entendi, vou limpar a lente agora mesmo.", "label": []}
+{"text": "Ótimo, Rafaela! Agora que verificamos as atualizações do aplicativo e limpamos a lente da câmera, por favor, abra o aplicativo da câmera novamente e tente tirar uma foto para ver se melhorou.", "label": [[7, 14, "NOME"]]}
+{"text": "Funcionou! Agora as fotos estão saindo nítidas. Muito obrigada pela ajuda, Alex!", "label": [[75, 79, "NOME"]]}
+{"text": "De nada, Rafaela. Fico feliz em ter ajudado. Se você tiver mais alguma dúvida ou problema, não hesite em me contatar. Tenha um ótimo dia!", "label": [[9, 16, "NOME"]]}
+{"text": "Meu RG é 13.367.80623.", "label": [[9, 21, "NUMERO"]]}
+{"text": "Obrigado, Rafaela. Vou checar suas informações. Qual é o problema que você está enfrentando com seu dispositivo?", "label": [[10, 17, "NOME"]]}
+{"text": "Está com um mau funcionamento na câmera. As fotos estão saindo borradas.", "label": []}
+{"text": "Entendo, Rafaela. Vou verificar algumas soluções possíveis para o seu problema. Por favor, aguarde um momento.", "label": [[9, 16, "NOME"]]}
+{"text": "Rafaela, você já tentou reiniciar o dispositivo ou fazer alguma atualização?", "label": [[0, 7, "NOME"]]}
+{"text": "Sim, já fiz essas tentativas, mas o problema persiste.", "label": []}
+{"text": "Compreendo, Rafaela. Vamos tentar outra abordagem. Você se importa se eu te passar algumas instruções? Vou te guiar por alguns passos para tentarmos resolver essa questão juntos.", "label": [[12, 19, "NOME"]]}
+{"text": "Claro, estou disposta a tentar qualquer coisa para resolver o problema.", "label": []}
+{"text": "Olá, estou com um problema no meu computador.", "label": []}
+{"text": "Olá, Eduarda, como posso ajudar? Poderia me fornecer seu RG para identificação?", "label": [[5, 12, "NOME"]]}
+{"text": "Certo, farei isso agora mesmo.", "label": []}
+{"text": "Ótimo! Após realizar esse procedimento, teste novamente o computador e verifique se houve alguma melhora no desempenho.", "label": []}
+{"text": "Parece que agora está funcionando melhor. Obrigada pela ajuda, Alexandre.", "label": [[63, 72, "NOME"]]}
+{"text": "Fico feliz em ajudar, Eduarda. Se tiver mais alguma dúvida ou problema, não hesite em entrar em contato conosco. Tenha um ótimo dia!", "label": [[22, 29, "NOME"]]}
+{"text": "Claro, meu RG é 14.385,0842.", "label": [[16, 27, "NUMERO"]]}
+{"text": "Agradeço pelo seu RG, Eduarda. Agora, por favor, descreva o problema que está enfrentando com seu computador.", "label": [[22, 29, "NOME"]]}
+{"text": "Meu computador está muito lento e trava constantemente. Não sei o que fazer.", "label": []}
+{"text": "Entendo, Eduarda. Vamos realizar algumas verificações para identificar a causa desse problema. Primeiro, por favor, me informe qual o sistema operacional do seu computador.", "label": [[9, 16, "NOME"]]}
+{"text": "Estou usando o Windows 10.", "label": [[23, 25, "NUMERO"]]}
+{"text": "Ótimo, Eduarda! Vamos tentar algumas soluções básicas. Reinicie o computador e verifique se o desempenho melhorou. Além disso, você já realizou uma verificação completa de vírus recentemente?", "label": [[7, 14, "NOME"]]}
+{"text": "Sim, já reiniciei o computador algumas vezes e realizei uma varredura de vírus, mas o problema persiste.", "label": []}
+{"text": "Entendo, Eduarda. Vamos tentar outro procedimento. Você poderia desligar o computador, conectar e desconectar todos os cabos internos, inclusive o da fonte de energia, e ligá-lo novamente?", "label": [[9, 16, "NOME"]]}
+{"text": "Olá, estou tendo um problema com meu produto.", "label": []}
+{"text": "Olá, Joana. Como posso ajudar?", "label": [[5, 10, "NOME"]]}
+{"text": "Sim, estaremos no aguardo.", "label": []}
+{"text": "Perfeito, Joanas. Se houver qualquer alteração no horário, entraremos em contato com você. Obrigado por entrar em contato conosco e tenha um ótimo dia.", "label": [[10, 16, "NOME"]]}
+{"text": "Obrigada, Lucas. Tenha um bom dia também.", "label": [[10, 15, "NOME"]]}
+{"text": "Meu número de RG é 40816-450.", "label": [[19, 28, "NUMERO"]]}
+{"text": "Obrigado por fornecer seu RG, Joana. Qual é o problema específico que você está enfrentando?", "label": []}
+{"text": "Meu produto não liga mais. É como se estivesse sem energia.", "label": []}
+{"text": "Entendo, Joanas. Vamos verificar o que pode estar causando isso. Você já tentou trocar as pilhas ou verificar se está conectado à energia.", "label": [[9, 15, "NOME"]]}
+{"text": "Sim, já fiz essas verificações e nada resolveu.", "label": []}
+{"text": "Nesse caso, vamos precisar agendar um técnico para dar uma olhada no seu produto. Por favor, confirme seu endereço.", "label": []}
+{"text": "Meu endereço é Rua das Flores, 123, Bairro Jardim Primavera, Cidade X.", "label": [[31, 34, "NUMERO"]]}
+{"text": "Obrigado, Joana. Já registrei seu endereço. Um técnico será enviado à sua casa amanhã entre 10 horas e 12 horas. Alguém estará disponível para recebê-lo?", "label": [[10, 15, "NOME"], [92, 94, "NUMERO"], [103, 105, "NUMERO"]]}
+{"text": "Olá, estou com um problema no meu computador. Pode me ajudar?", "label": []}
+{"text": "Claro Alice, pode me dizer qual é o problema que você está enfrentando?", "label": [[6, 11, "NOME"]]}
+{"text": "Meu computador está travando constantemente. Já reiniciei, mas o problema persiste.", "label": []}
+{"text": "Entendo, Alice. Vou precisar do seu RG, por favor, para que eu possa acessar o seu histórico.", "label": [[9, 14, "NOME"]]}
+{"text": "Claro, meu RG é 32 139 311 9.", "label": [[16, 28, "NUMERO"]]}
+{"text": "Obrigado, Alice. Vou verificar as informações aqui. Enquanto isso, você já tentou executar uma verificação de vírus no seu sistema?", "label": [[10, 15, "NOME"]]}
+{"text": "Ainda não, John. Vou fazer isso agora mesmo.", "label": [[11, 15, "NOME"]]}
+{"text": "Olá, estou tendo problemas com minha conta. Pode me ajudar?", "label": []}
+{"text": "Claro, vou fazer o possível para ajudar. Preciso do seu RG para verificar suas informações, por favor.", "label": []}
+{"text": "Meu RG é 48.849,80577.", "label": [[9, 21, "NUMERO"]]}
+{"text": "Obrigado pelo seu RG. Agora, por favor, descreva o problema com mais detalhes.", "label": []}
+{"text": "Estou tendo dificuldades para acessar minha conta online. A senha não está funcionando.", "label": []}
+{"text": "Entendo. Vou verificar seu caso. Por favor, aguarde um momento.", "label": []}
+{"text": "Encontrei o problema. Parece que houve um bloqueio temporário da sua conta devido a várias tentativas de login mal-sucedidas. Vou desbloqueá-la pra você.", "label": []}
+{"text": "Pronto, sua conta está desbloqueada. Por favor, tente efetuar o login novamente e verifique se tudo está funcionando corretamente.", "label": []}
+{"text": "Muito obrigada pela ajuda. Vou tentar agora mesmo.", "label": []}
+{"text": "De nada, Lúcia. Estou aqui para ajudar. Caso tenha mais alguma dúvida ou problema, não hesite em entrar em contato conosco novamente. Tenha um bom dia.", "label": [[9, 14, "NOME"]]}
+{"text": "Olá, estou com um problema no meu sistema.", "label": []}
+{"text": "Olá, meu nome é Amanda Ferreira. Como posso ajudá-lo?", "label": [[16, 31, "NOME"]]}
+{"text": "Bom, eu recebi um aviso de erro com RG 34095-09265. Pode me auxiliar a resolver?", "label": [[39, 50, "NUMERO"]]}
+{"text": "Com certeza, João. Vou verificar o sistema e verificar o que está acontecendo com o seu RG.", "label": [[13, 17, "NOME"]]}
+{"text": "João, identifiquei que o problema está relacionado a uma falha de conexão. Vou reiniciar o seu acesso. Por favor, aguarde um momento.", "label": [[0, 4, "NOME"]]}
+{"text": "Tudo bem, estou no aguardo.", "label": []}
+{"text": "Pronto, João. O problema foi solucionado com sucesso. O seu acesso foi restabelecido.", "label": [[8, 12, "NOME"]]}
+{"text": "Ótimo. Muito obrigado pela ajuda, Amanda.", "label": [[34, 40, "NOME"]]}
+{"text": "De nada, João. Fico feliz em ter ajudado. Se precisar de mais alguma assistência, não hesite em entrar em contato novamente. Tenha um ótimo dia!", "label": [[9, 13, "NOME"]]}
+{"text": "Olá, estou com problemas no meu computador.", "label": []}
+{"text": "Olá, como posso ajudá-lo, senhor? Poderia me informar seu nome e seu RG, por favor?", "label": []}
+{"text": "Pronto, Sr. Silva. Estou visualizando o seu computador e identifiquei alguns problemas. Vou executar algumas correções.", "label": [[12, 17, "NOME"]]}
+{"text": "Muito obrigado, Carolina. Espero que isso resolva o problema.", "label": [[16, 24, "NOME"]]}
+{"text": "Eu que agradeço, Sr. Silva. As correções devem melhorar o desempenho do seu computador. Se tiver mais alguma dúvida, estou à disposição.", "label": [[21, 26, "NOME"]]}
+{"text": "Por enquanto é só. Obrigado novamente pela ajuda.", "label": []}
+{"text": "De nada, Sr. Silva. Tenha um ótimo dia.", "label": [[13, 18, "NOME"]]}
+{"text": "Meu nome é João Silva, meu RG é 23629 405 2.", "label": [[11, 21, "NOME"], [32, 43, "NUMERO"]]}
+{"text": "Obrigada, Sr. Silva. Agora, por favor, descreva o problema com mais detalhes.", "label": [[14, 19, "NOME"]]}
+{"text": "Estou enfrentando lentidão extrema e travamentos frequentes no sistema operacional.", "label": []}
+{"text": "Entendi, Sr. Silva. Vou precisar acessar seu computador remotamente para verificar o que está acontecendo. Você concorda?", "label": [[13, 18, "NOME"]]}
+{"text": "Sim, pode acessar remotamente.", "label": []}
+{"text": "Perfeito, vou enviar um link para download do software de acesso remoto. Por favor, abra-o e me informe o código de acesso.", "label": []}
+{"text": "Certo, estou abrindo o link. O código de acesso é 5E4-121.", "label": [[50, 51, "NUMERO"], [52, 53, "NUMERO"], [54, 57, "NUMERO"]]}
+{"text": "Ótimo, já estou conectando ao seu computador. Por favor, aguarde alguns instantes.", "label": []}
+{"text": "Olá, bem-vindo ao suporte ao cliente da nossa empresa. Como posso ajudar?", "label": []}
+{"text": "Olá, meu nome é Ricardo. Estou com um problema na minha conta.", "label": [[16, 23, "NOME"]]}
+{"text": "Olá, Ricardo. Como posso te ajudar? Poderia me fornecer o seu RG?", "label": [[5, 12, "NOME"]]}
+{"text": "Claro, meu RG é 24.789.667.892.", "label": [[16, 30, "NUMERO"]]}
+{"text": "Ótimo, obrigada por fornecer o seu RG. Agora poderia descrever qual é o problema que você está enfrentando.", "label": []}
+{"text": "Estou tendo dificuldades para acessar minha conta online. Sempre que tento login, aparece uma mensagem de erro.", "label": []}
+{"text": "Entendo, Ricardo. Vou verificar o que pode estar causando esse problema. Por favor, aguarde um momento.", "label": [[9, 16, "NOME"]]}
+{"text": "Ricardo, após analisar sua conta, identifiquei que o problema está relacionado ao seu e-mail cadastrado. O e-mail digitado possui algum erro?", "label": [[0, 7, "NOME"]]}
+{"text": "Ah, pode ser. Vou verificar meu e-mail e corrigir se tiver algum erro. Obrigado por me ajudar!", "label": []}
+{"text": "Você é muito bem-vindo, Ricardo. Se tiver mais alguma dúvida ou precisar de alguma outra assistência, estarei à disposição para ajudá-lo.", "label": [[24, 31, "NOME"]]}
+{"text": "Olá, estou com um problema em meu produto.", "label": []}
+{"text": "Olá, Maurício. Como posso ajudá-lo hoje?", "label": [[5, 13, "NOME"]]}
+{"text": "Bem, meu produto parece estar com defeito. O número do RG é 29.870-351.", "label": [[60, 70, "NUMERO"]]}
+{"text": "Entendo, Maurício. Vou verificar o que podemos fazer. Poderia me informar qual é o problema exatamente?", "label": [[9, 17, "NOME"]]}
+{"text": "O produto não liga mais e eu já tentei várias soluções.", "label": []}
+{"text": "Compreendo, Maurício. Vou abrir um chamado técnico para você. Por favor, aguarde um momento.", "label": [[12, 20, "NOME"]]}
+{"text": "Certo, aguardarei. Obrigado pela ajuda, Carolina.", "label": [[40, 48, "NOME"]]}
+{"text": "De nada, Maurício. Faremos o possível para resolver seu problema o mais rápido possível. Qualquer novidade, entraremos em contato pelo telefone cadastrado. Tenha um bom dia.", "label": [[9, 17, "NOME"]]}
+{"text": "Olá, tudo bem? Preciso de ajuda com o meu produto.", "label": []}
+{"text": "Olá, João. Claro, estou aqui para ajudar. Pode me dar seu RG para verificarmos seus dados?", "label": [[5, 9, "NOME"]]}
+{"text": "Claro, meu RG é R$ 28.748,116.", "label": [[19, 29, "NUMERO"]]}
+{"text": "Obrigada, João. Agora me conte qual é o problema que está enfrentando com seu produto.", "label": [[10, 14, "NOME"]]}
+{"text": "Olá, tudo bem? Preciso de ajuda com o meu produto.", "label": []}
+{"text": "Olá, João? Claro, estou aqui para ajudar. Pode me dar seu RG para verificarmos seus dados?", "label": [[5, 9, "NOME"]]}
+{"text": "Claro, meu RG é 28.748Mhz em 11.6", "label": [[16, 22, "NUMERO"], [29, 33, "NUMERO"]]}
+{"text": "Obrigada, João! Agora me conte qual é o problema que está enfrentando com seu produto.", "label": [[10, 14, "NOME"]]}
+{"text": "Olá, preciso de ajuda com meu produto.", "label": []}
+{"text": "Olá, Lucas. Claro, estou aqui para ajudá-lo. Poderia me fornecer seu RG, por favor?", "label": [[5, 10, "NOME"]]}
+{"text": "Não, isso é tudo. Obrigado pela ajuda, Laura.", "label": [[39, 44, "NOME"]]}
+{"text": "De nada, Lucas. Estamos à disposição para ajudar. Tenha um ótimo dia.", "label": [[9, 14, "NOME"]]}
+{"text": "Cara, o meu RG é R$ 25.197,99.", "label": [[20, 29, "NUMERO"]]}
+{"text": "Muito obrigada, Lucas. Agora, qual é a sua dúvida ou problema com o produto?", "label": [[16, 21, "NOME"]]}
+{"text": "Bom, estou enfrentando um problema com o carregador do meu celular. Ele não está funcionando corretamente.", "label": []}
+{"text": "Entendo, Lucas. Vamos tentar resolver essa situação. Você já verificou se está utilizando o carregador original que veio junto com o celular?", "label": [[9, 14, "NOME"]]}
+{"text": "Sim, tenho certeza de que é o carregador original.", "label": []}
+{"text": "Certo, Lucas. Vamos realizar alguns testes para identificar o problema. Você poderia tentar carregar o celular em uma tomada diferente e verificar se o carregador está conectado corretamente?", "label": [[7, 12, "NOME"]]}
+{"text": "Já tentei em diferentes tomadas e também conectei o carregador corretamente, mas ainda assim não funciona.", "label": []}
+{"text": "Entendi, Lucas. Parece que há um problema com o carregador. Vou registrar sua solicitação para que nossa equipe técnica possa analisar e tomar as devidas providências. RG 25197-9799 será o número de referência para o seu chamado. O prazo para retorno é de até 48 horas úteis. Alguma outra dúvida?", "label": [[9, 14, "NOME"], [171, 181, "NUMERO"], [260, 262, "NUMERO"]]}
+{"text": "Olá, estou precisando de ajuda com a minha conta. Poderia me auxiliar?", "label": []}
+{"text": "Claro! Qual é o problema que você está enfrentando?", "label": []}
+{"text": "Ok, estou aguardando.", "label": []}
+{"text": "Pronto! A alteração foi realizada com sucesso. Agora você deve conseguir fazer login normalmente com o seu nome de usuário correto. Alguma outra dúvida que posso ajudar?", "label": []}
+{"text": "Não, era somente esse problema. Muito obrigada pela ajuda!", "label": []}
+{"text": "De nada! Fico feliz em poder ajudá-la. Se surgir qualquer outra dificuldade, não hesite em nos contatar. Tenha um ótimo dia!", "label": []}
+{"text": "Eu não consigo fazer login na plataforma. Sempre que tento, aparece uma mensagem de erro.", "label": []}
+{"text": "Entendi. Para que eu possa ajudá-la, preciso que você me informe o seu RG, por favor.", "label": []}
+{"text": "Claro, meu RG é R$ 32.034,99.", "label": [[19, 28, "NUMERO"]]}
+{"text": "Obrigado por informar. Vou verificar os dados da sua conta. Por favor, aguarde um momento.", "label": []}
+{"text": "Certo, estou aguardando.", "label": []}
+{"text": "Verifiquei o seu cadastro e identifiquei o problema. Parece que você digitou o seu nome de usuário incorretamente. Você se lembra qual era o nome de usuário utilizado?", "label": []}
+{"text": "Sim, o meu nome de usuário é exemplo 123.", "label": [[37, 40, "NUMERO"]]}
+{"text": "Perfeito! Vou fazer a correção pra vocês. Aguarde mais um instante, por favor.", "label": []}
+{"text": "Olá, meu nome é Ângela. Como posso ajudar você hoje?", "label": [[16, 22, "NOME"]]}
+{"text": "Olá Ângela, meu RG é 35.155.40375 e estou com um problema no meu computador.", "label": [[4, 10, "NOME"], [21, 33, "NUMERO"]]}
+{"text": "Eu que agradeço, Rafael. Se precisar de mais alguma ajuda, estarei à disposição. Tenha um bom dia.", "label": [[17, 23, "NOME"]]}
+{"text": "Entendi, Rafael. Vou fazer o possível para te ajudar. Poderia me explicar qual é o problema?", "label": [[9, 15, "NOME"]]}
+{"text": "Claro, meu computador está apresentando tela azul constantemente e reiniciando sozinho.", "label": []}
+{"text": "Compreendo, Rafael. Vamos verificar o que podemos fazer para resolver esse problema. Você já tentou reiniciar o computador em modo de segurança?", "label": [[12, 18, "NOME"]]}
+{"text": "Sim, já tentei reiniciar em modo de segurança, mas o problema persiste.", "label": []}
+{"text": "Entendo. Vou te orientar a fazer algumas verificações adicionais. Primeiro, verifique se todos os seus drivers estão atualizados.", "label": []}
+{"text": "Certo, farei essa verificação agora mesmo.", "label": []}
+{"text": "Ótimo, Rafael. Caso não encontre nenhuma atualização de driver, procure por programas suspeitos ou incompatíveis instalados recentemente.", "label": [[7, 13, "NOME"]]}
+{"text": "Certo, vou verificar essa possibilidade também. Obrigado pelas orientações, Angela.", "label": [[76, 82, "NOME"]]}
+{"text": "Olá, estou com problemas no meu equipamento.", "label": []}
+{"text": "Olá, Alan. Seja bem-vindo. Como posso ajudá-lo hoje?", "label": [[5, 9, "NOME"]]}
+{"text": "Sim, já verifiquei e não encontrei nenhum programa que esteja consumindo excessivamente os recursos do computador.", "label": []}
+{"text": "Entendi, Alan. Nesse caso, recomendo que você traga o computador à nossa assistência técnica para uma análise mais detalhada. Podemos marcar um horário?", "label": [[9, 13, "NOME"]]}
+{"text": "Sim, pode ser amanhã às 10h.", "label": [[24, 26, "NUMERO"]]}
+{"text": "Claro, Alan. Agendei seu atendimento para amanhã às 10 horas. Anote o número do protocolo 11.169.1605A1-3. Por favor, compareça a nossa sede na Aveo Central, número 123. Alguém estará esperando por você.", "label": [[7, 11, "NOME"], [52, 54, "NUMERO"], [90, 105, "NUMERO"], [165, 168, "NUMERO"]]}
+{"text": "Certo, e obrigado pela ajuda, Joana. Até amanhã, então.", "label": [[30, 35, "NOME"]]}
+{"text": "De nada, Alan. Até amanhã e boa sorte com o seu computador.", "label": [[9, 13, "NOME"]]}
+{"text": "Meu computador está apresentando travamentos constantes.", "label": []}
+{"text": "Einstein do Alan, você já tentou reiniciar o computador para ver se resolve o problema?", "label": [[12, 16, "NOME"]]}
+{"text": "Sim, já reiniciei, mas o problema persiste.", "label": []}
+{"text": "Certo, vou verificar algumas informações antes de prosseguirmos. Por favor, poderia me passar o seu RG?", "label": []}
+{"text": "Claro, meu RG é 11.069.6513.", "label": [[16, 27, "NUMERO"]]}
+{"text": "Agradeço, Alan. Agora gostaria que você verificasse se os drivers do seu computador estão atualizados.", "label": [[10, 14, "NOME"]]}
+{"text": "Certo, vou verificar e te falo.", "label": []}
+{"text": "Estarei aguardando, Alan. Enquanto isso, você já verificou se há algum programa em segundo plano consumindo muitos recursos?", "label": [[20, 24, "NOME"]]}
+{"text": "Olá, estou tendo problemas com o meu produto.", "label": []}
+{"text": "Olá, Lucas, qual o problema que você está enfrentando?", "label": [[5, 10, "NOME"]]}
+{"text": "Certo, Lucas. Vou te passar algumas orientações específicas para o modelo AB123.", "label": [[7, 12, "NOME"], [76, 79, "NUMERO"]]}
+{"text": "Primeiramente, tente reiniciar o produto pressionando o botão de reset por 10 segundos.", "label": [[75, 77, "NUMERO"]]}
+{"text": "Ok, vou tentar fazer isso agora.", "label": []}
+{"text": "Ótimo, Lucas. Por favor, me avise se a reinicialização resolve o problema.", "label": [[7, 12, "NOME"]]}
+{"text": "Infelizmente, mesmo após reiniciar o produto, ele continua sem ligar.", "label": []}
+{"text": "Entendo, Lucas. Nesse caso, recomendo que você nos envie o produto para que possamos verificar mais detalhadamente o que está acontecendo.", "label": [[9, 14, "NOME"]]}
+{"text": "Vou enviar um e-mail com as instruções de envio para o endereço cadastrado no RG 312869-5. Você pode confirmar se é esse o endereço atualizado?", "label": [[81, 89, "NUMERO"]]}
+{"text": "Sim, o endereço está correto.", "label": []}
+{"text": "Perfeito, Lucas. Acabei de enviar o e-mail com todas as informações necessárias para você. Assim que recebermos o produto, nossa equipe técnica irá verificar e entrar em contato para dar continuidade ao suporte. Você tem alguma outra dúvida?", "label": [[10, 15, "NOME"]]}
+{"text": "Não? Acho que está tudo esclarecido. Agradeço pela ajuda, Isabela.", "label": []}
+{"text": "O meu RG é 31.020.28695 e o produto não está ligando.", "label": [[11, 23, "NUMERO"]]}
+{"text": "Eu que agradeço, Lucas. Estamos aqui para ajudar. Tenha um ótimo dia!", "label": [[17, 22, "NOME"]]}
+{"text": "Entendo, Lucas. Vou verificar o seu cadastro. Por favor, aguarde um momento.", "label": [[9, 14, "NOME"]]}
+{"text": "Obrigada por aguardar, Lucas. Verifiquei aqui e o nosso sistema possui o seu RG registrado corretamente.", "label": [[23, 28, "NOME"]]}
+{"text": "Podemos prosseguir com o suporte técnico. Você já tentou recarregar a bateria do produto?", "label": []}
+{"text": "Sim, já recarreguei a bateria algumas vezes, mas o problema persiste.", "label": []}
+{"text": "Compreendo, Lucas. Vou verificar algumas possíveis soluções. Por favor, aguarde mais um instante.", "label": [[12, 17, "NOME"]]}
+{"text": "Encontrei algumas instruções adicionais que podem te ajudar. Você poderia me informar qual é o modelo do seu produto.", "label": []}
+{"text": "Meu produto é o modelo ABC 123.", "label": [[27, 30, "NUMERO"]]}
+{"text": "Olá, estou tendo problemas com o meu produto.", "label": []}
+{"text": "Olá, Lucas! Qual o problema que você está enfrentando?", "label": [[5, 10, "NOME"]]}
+{"text": "Certo, Lucas, vou te passar algumas orientações específicas para o modelo ABC123.", "label": [[7, 12, "NOME"], [77, 80, "NUMERO"]]}
+{"text": "Primeiramente, tente reiniciar o produto pressionando o botão de resete por 10 segundos.", "label": [[76, 78, "NUMERO"]]}
+{"text": "Ok, vou tentar fazer isso agora.", "label": []}
+{"text": "Ótimo, Lucas! Por favor, me avise se a reinicialização resolve o problema.", "label": [[7, 12, "NOME"]]}
+{"text": "Infelizmente, mesmo após reiniciar o produto, ele continua sem ligar.", "label": []}
+{"text": "Entendo, Lucas. Nesse caso, recomendo que você nos envie o produto para que possamos verificar mais detalhadamente o que está acontecendo.", "label": [[9, 14, "NOME"]]}
+{"text": "Vou enviar um e-mail com as instruções de envio para o endereço cadastrado no RG31.020.8695. Você pode confirmar se é esse o endereço atualizado?", "label": [[80, 91, "NUMERO"]]}
+{"text": "Sim, o endereço está correto.", "label": []}
+{"text": "O meu RG é 31020B8S95, e o produto não está ligando.", "label": [[11, 21, "NUMERO"]]}
+{"text": "Entendo, Lucas. Vou verificar o seu cadastro. Por favor, aguarde um momento.", "label": [[9, 14, "NOME"]]}
+{"text": "Obrigada por aguardar, Lucas. Verifiquei aqui e o nosso sistema possui o seu RG registrado corretamente.", "label": [[23, 28, "NOME"]]}
+{"text": "Podemos prosseguir com o suporte técnico. Você já tentou recarregar a bateria do produto?", "label": []}
+{"text": "Sim, já recarreguei a bateria algumas vezes, mas o problema persiste.", "label": []}
+{"text": "Compreendo, Lucas. Vou verificar algumas possíveis soluções. Por favor, aguarde mais um instante.", "label": [[12, 17, "NOME"]]}
+{"text": "Encontrei algumas instruções adicionais que podem te ajudar. Você poderia me informar qual é o modelo do seu produto?", "label": []}
+{"text": "Meu produto é o modelo AB123.", "label": [[25, 28, "NUMERO"]]}
+{"text": "Olá, estou com problemas para configurar meu novo celular.", "label": []}
+{"text": "Olá, Matheus. Como posso ajudar? Pode me informar seu RG, por favor?", "label": [[5, 12, "NOME"]]}
+{"text": "Ótimo, Matheus! Agora selecione a opção Wi-Fi ou Redes Wi-Fi.", "label": [[7, 14, "NOME"]]}
+{"text": "Feito, Karen.", "label": [[7, 12, "NOME"]]}
+{"text": "Agora é necessário que você procure pelo nome da sua rede Wi-Fi e toque sobre ela.", "label": []}
+{"text": "Encontrei minha rede. O que devo fazer em seguida?", "label": []}
+{"text": "Você deve preencher sua senha Wi-Fi corretamente e confirmar a conexão.", "label": []}
+{"text": "Perfeito. Fiz a configuração da rede. Agora está tudo certo.", "label": []}
+{"text": "Linh Matheus, sua rede Wi-Fi foi configurada com sucesso. Se tiver mais alguma dúvida, estou à disposição para ajudar.", "label": [[5, 12, "NOME"]]}
+{"text": "Muito obrigado pela ajuda, Karen. Tenha um ótimo dia!", "label": [[27, 32, "NOME"]]}
+{"text": "Eu que agradeço, Matheus. Bom dia para você também.", "label": [[17, 24, "NOME"]]}
+{"text": "Claro! Meu RG é 3590.762.7.", "label": [[16, 26, "NUMERO"]]}
+{"text": "Obrigada, Matheus. Vamos verificar essa configuração para você. Qual é o modelo do seu celular?", "label": [[10, 17, "NOME"]]}
+{"text": "É o modelo XE5000 da marca IPTEC.", "label": [[13, 17, "NUMERO"]]}
+{"text": "Perfeito, Matheus. Vou fornecer instruções passo a passo para configurar seu celular.", "label": [[10, 17, "NOME"]]}
+{"text": "Primeiro, você precisa abrir as configurações do seu celular.", "label": []}
+{"text": "OK, encontrei as configurações.", "label": []}
+{"text": "Agora localize a opção Redes ou Conexões.", "label": []}
+{"text": "Encontrei, Karen.", "label": [[11, 16, "NOME"]]}
+{"text": "Olá, bem-vindo ao Suporte ao Cliente, em que posso ajudar hoje.", "label": []}
+{"text": "Oi, meu nome é John. Estou tendo problemas com meu produto.", "label": [[15, 19, "NOME"]]}
+{"text": "De nada, John. O procedimento de abertura de chamado pode levar até 48 horas úteis, mas faremos o possível para resolver o mais rápido possível. Tenha um ótimo dia!", "label": [[9, 13, "NOME"], [68, 70, "NUMERO"]]}
+{"text": "Olá, John. Sinto muito pelo problema. Podemos começar com seu RG para a identificação?", "label": [[5, 9, "NOME"]]}
+{"text": "Claro, meu RG é R$ 10.490,15.", "label": [[19, 28, "NUMERO"]]}
+{"text": "Ótimo. Obrigada. Agora, por favor, descreva qual é o problema que você está enfrentando com seu produto.", "label": []}
+{"text": "O meu produto está apresentando um erro constante. Tentei reiniciar, mas o problema persiste.", "label": []}
+{"text": "Entendo. Farei o possível para te ajudar. Você já tentou alguma solução além de reiniciar o dispositivo?", "label": []}
+{"text": "Tem já verifiquei as configurações e atualizei o software, mas o problema continua.", "label": []}
+{"text": "Compreendo. Nesse caso, vou abrir um chamado técnico para que nossa equipe especializada possa investigar a fundo o que está acontecendo. Você receberá um número de protocolo.", "label": []}
+{"text": "Ok. Espero que isso possa resolver o problema. Obrigado pela sua ajuda, Melissa.", "label": [[72, 79, "NOME"]]}
+{"text": "Olá, boa tarde. Estou com problemas no meu produto e gostaria de obter suporte.", "label": []}
+{"text": "Boa tarde, Lucas. Me chamo Camila e estou aqui para ajudá-lo. Poderia fornecer o número do seu RG para identificação, por favor?", "label": [[11, 16, "NOME"], [27, 33, "NOME"]]}
+{"text": "Pronto, fiz o que você pediu. Infelizmente, o aparelho ainda não está ligando.", "label": []}
+{"text": "Compreendo. Nesse caso, será necessário agendar uma visita técnica para a solução do problema. Gostaria que eu fizesse o agendamento?", "label": []}
+{"text": "Sim, por favor. Minha disponibilidade é na próxima semana, preferencialmente na quinta-feira, período da tarde.", "label": []}
+{"text": "Anotei suas preferências. Vou verificar a disponibilidade e entrar em contato para confirmar o agendamento. Por gentileza, aguarde um momento.", "label": []}
+{"text": "Claro, meu RG é 20.72410.", "label": [[16, 24, "NUMERO"]]}
+{"text": "Muito obrigada, Lucas. Agora, por favor, descreva o problema que está enfrentando com o produto.", "label": [[16, 21, "NOME"]]}
+{"text": "Bem, o meu aparelho não está ligando. Tentei diversas vezes, mas ele simplesmente não funciona.", "label": []}
+{"text": "Entendo a sua frustração, Lucas. Vou te auxiliar nesse caso. Você já tentou verificar se o aparelho está conectado corretamente à energia?", "label": [[26, 31, "NOME"]]}
+{"text": "Sim, já verifiquei. Tudo parece estar corretamente conectado.", "label": []}
+{"text": "Certo, vamos tentar reiniciar o aparelho. Desconecte o cabo de energia por alguns segundos e, em seguida, reconecte-o. Depois, tente ligar o aparelho novamente.", "label": []}
+{"text": "Ok, farei isso agora.", "label": []}
+{"text": "Ótimo! Depois que realizar o procedimento, me avise se o aparelho ligou normalmente.", "label": []}
+{"text": "Olá, preciso de ajuda com minha conta.", "label": []}
+{"text": "Claro, Jessica. Como posso te ajudar hoje?", "label": [[7, 14, "NOME"]]}
+{"text": "Obrigado, Jéssica. Tenha um ótimo dia também. Estamos aqui para ajudar sempre que precisar.", "label": [[10, 17, "NOME"]]}
+{"text": "Estou tendo problemas para fazer login. Digitei meu RG corretamente, mas não consigo acessar minha conta.", "label": []}
+{"text": "Entendo, Jessica. Vou verificar o que pode estar acontecendo. Por favor, me informe seu RG novamente.", "label": [[9, 16, "NOME"]]}
+{"text": "Meu RG é 13.253.7436.", "label": [[9, 20, "NUMERO"]]}
+{"text": "Obrigado, Jessica. Só mais um momento, por favor.", "label": [[10, 17, "NOME"]]}
+{"text": "Verifiquei em nosso sistema e parece que seu RG foi cadastrado incorretamente. Peço desculpas pelo inconveniente. Vou corrigir essa informação imediatamente para que você possa acessar sua conta.", "label": []}
+{"text": "Agradeço sua ajuda, Alex. Fico feliz que tenha sido identificado o problema. Por favor, me avise assim que estiver resolvido.", "label": [[20, 24, "NOME"]]}
+{"text": "Com certeza, Jéssica. Assim que o RG for corrigido, entrarei em contato com você para confirmar. Mais alguma dúvida ou problema que eu possa ajudar?", "label": [[13, 20, "NOME"]]}
+{"text": "Não, Alex. Agradeço seu atendimento e paciência. Tenha um ótimo dia!", "label": [[5, 9, "NOME"]]}
+{"text": "Olá, estou com um problema no meu computador. Podem me ajudar?", "label": []}
+{"text": "Claro! Sou a Roberta. Como posso te ajudar, Lucas?", "label": [[13, 20, "NOME"], [44, 49, "NOME"]]}
+{"text": "Ok, farei isso agora mesmo. Obrigado, Robert.", "label": [[38, 44, "NOME"]]}
+{"text": "Disponha, Lucas. Se o problema persistir, entre em contato novamente. Estamos aqui para ajudar.", "label": [[10, 15, "NOME"]]}
+{"text": "Meu computador está travando constantemente. O que devo fazer?", "label": []}
+{"text": "Podemos tentar algumas soluções básicas primeiro. Você já reiniciou o computador.", "label": []}
+{"text": "Sim, já reiniciei várias vezes e o problema persiste.", "label": []}
+{"text": "Entendo. Vou precisar do RG para acessar suas informações. Pode informar, por favor?", "label": []}
+{"text": "Claro, meu RG é 28.903, pinodo 961.", "label": [[16, 22, "NUMERO"], [31, 34, "NUMERO"]]}
+{"text": "Obrigada, Lucas. Vou verificar aqui. Enquanto isso, você pode limpar os arquivos temporários do seu computador. Isso pode ajudar no desempenho. Gostaria que eu te guiasse no processo?", "label": [[10, 15, "NOME"]]}
+{"text": "Sim, por favor. Como eu faço isso?", "label": []}
+{"text": "Primeiro, clique no botão Iniciar. Em seguida, digite Executar e pressione Enter. Na janela que aparece, digite %TempB e clique em OK. Uma nova janela será aberta com os arquivos temporários. Selecione todos e delete-os permanentemente. Após fazer isso, reinicie o computador novamente e veja se o problema persiste.", "label": []}
+{"text": "Olá, estou com problemas no meu computador.", "label": []}
+{"text": "Olá, Laura. Me chamo Daniel e serei seu atendente. Poderia me fornecer o seu RG, por favor?", "label": [[5, 10, "NOME"], [21, 27, "NOME"]]}
+{"text": "Ok, fiz isso!", "label": []}
+{"text": "Ótimo. Agora, na janela Executar, digite potempereira e pressione Enter.", "label": []}
+{"text": "Feito! Apareceu uma pasta com vários arquivos.", "label": []}
+{"text": "Perfeito, Laura. Selecione todos os arquivos e pressione Shift plus Delete para excluí-los permanentemente.", "label": [[10, 15, "NOME"]]}
+{"text": "Pronto, fiz a exclusão. O que devo fazer agora?", "label": []}
+{"text": "Agora, reinicie o seu computador novamente e verifique se o problema persiste. Caso persista, entraremos em contato para solucioná-lo de outra forma. Obrigado pela sua colaboração, Laura!", "label": [[181, 186, "NOME"]]}
+{"text": "Claro, meu RG é R$ 11.268.7088.", "label": [[19, 30, "NUMERO"]]}
+{"text": "Obrigado, Laura. Agora, poderia me descrever o problema que está enfrentando em seu computador?", "label": [[10, 15, "NOME"]]}
+{"text": "Meu computador está travando constantemente e está muito lento.", "label": []}
+{"text": "Entendo, Laura. Vamos fazer alguns procedimentos para tentar solucionar o problema. Primeiramente, você já reiniciou o computador?", "label": [[9, 14, "NOME"]]}
+{"text": "Sim, já reiniciei algumas vezes, mas o problema continua.", "label": []}
+{"text": "Certo, Laura. Vamos tentar limpar alguns arquivos temporários do seu sistema. Você sabe como fazer isso?", "label": []}
+{"text": "Eu não tenho certeza, poderia me orientar?", "label": []}
+{"text": "Claro, Laura. Primeiro, abra o menu Iniciar e pesquise por Executar. Clique nele.", "label": [[7, 12, "NOME"]]}
+{"text": "Olá, estou com um problema no meu computador.", "label": []}
+{"text": "Olá Ana, em que posso ajudar?", "label": [[4, 7, "NOME"]]}
+{"text": "Certo, vamos fazer mais alguns testes. Poderia me informar o modelo do seu modem?", "label": []}
+{"text": "É o modelo X-Bombs de 23.", "label": []}
+{"text": "Perfeito! Aguarde um momento enquanto verifico as informações do modelo XISXSU23.", "label": []}
+{"text": "Encontrei algumas informações relevantes sobre o modelo XYZ1023. Vou guiá-la por alguns passos de configuração.", "label": []}
+{"text": "Primeiramente, acesse as configurações avançadas do seu modem através do endereço IP T92-1168-1.1.", "label": []}
+{"text": "Ok, estou na página de configurações do modem.", "label": []}
+{"text": "Ótimo! Agora procure pela opção Restaurar configurações de fábrica e clique nelas.", "label": []}
+{"text": "Encontrei e cliquei em Restaurar configurações de fábrica.", "label": []}
+{"text": "Perfeito! Agora aguarde alguns segundos enquanto o modem reinicia e restaura as configurações.", "label": []}
+{"text": "Após o reinício, tente novamente acessar a internet. Isso deve resolver o problema.", "label": []}
+{"text": "Meu computador está barrando meu acesso à internet.", "label": []}
+{"text": "Ok, vou aguardar o reinício do modem.", "label": []}
+{"text": "Ótimo, Ana! Caso o problema persista, por favor entre em contato conosco novamente.", "label": [[7, 10, "NOME"]]}
+{"text": "Muito obrigada pela ajuda, Carlos. Espero que resolva.", "label": [[27, 33, "NOME"]]}
+{"text": "Por nada, Ana. Foi um prazer ajudar. Tenha um ótimo dia.", "label": [[10, 13, "NOME"]]}
+{"text": "Entendo. Vamos verificar o que está acontecendo. Poderia me informar o seu RG, por favor?", "label": []}
+{"text": "Claro, meu RG é R$ 18.142.622, sim.", "label": [[19, 29, "NUMERO"]]}
+{"text": "Obrigado, Ana! Aguarde um momento enquanto verifico o seu cadastro.", "label": [[10, 13, "NOME"]]}
+{"text": "Verifiquei aqui. Seu RG está correto. Vamos prosseguir com o suporte.", "label": []}
+{"text": "Primeiro, reinicie o seu modem e o computador. Em seguida, verifique se consegue acessar a internet novamente.", "label": []}
+{"text": "Ok, farei isso agora mesmo.", "label": []}
+{"text": "Pronto, fiz a reinicialização, mas ainda não consigo acessar a internet.", "label": []}
+{"text": "Bem-vinda à nossa central de suporte, em que posso ajudar, senhora.", "label": []}
+{"text": "Olá, Jasira! Meu nome é Henrique e estou com um problema no meu produto.", "label": [[5, 11, "NOME"], [24, 32, "NOME"]]}
+{"text": "Claro, meu e-mail é henriquemeu.com", "label": []}
+{"text": "Ótimo, Henrique. Já tenho o seu e-mail anotado. Nossa equipe de suporte entrará em contato com você o mais breve possível para solucionar o seu problema.", "label": [[7, 15, "NOME"]]}
+{"text": "Muito obrigado, Jasira. Aguardarei o contato da equipe de suporte.", "label": [[16, 22, "NOME"]]}
+{"text": "Por nada, Henrique. Espero que seu problema seja resolvido em breve. Se precisar de mais alguma coisa, estarei à disposição. Tenha um ótimo dia!", "label": [[10, 18, "NOME"]]}
+{"text": "Olá, Henrique. Agradeço por entrar em contato. Poderia me informar o número do seu RG?", "label": [[5, 13, "NOME"]]}
+{"text": "Claro, meu RG é 46205.054.3", "label": [[16, 27, "NUMERO"]]}
+{"text": "Perfeito, Henrique. Obrigada por me fornecer essa informação. Agora, por favor, descreva qual é o problema que está enfrentando.", "label": [[10, 18, "NOME"]]}
+{"text": "Bem, meu produto parou de funcionar do nada. Não sei o que pode ter acontecido.", "label": []}
+{"text": "Entendo, Henrique. Vamos tentar resolver esse problema juntos. Primeiro, você já tentou reiniciar o produto?", "label": [[9, 17, "NOME"]]}
+{"text": "Zim já tentei reiniciar algumas vezes, mas sem sucesso. Continua sem funcionar.", "label": [[0, 3, "NOME"]]}
+{"text": "Compreendo, Henrique. Vou verificar algumas possibilidades aqui. Por favor, aguarde um momento.", "label": [[12, 20, "NOME"]]}
+{"text": "Henrique, você se importaria de me passar seu endereço de e-mail para que eu possa criar um chamado de suporte?", "label": [[0, 8, "NOME"]]}
+{"text": "Olá, estou com um problema em um produto que comprei recentemente.", "label": []}
+{"text": "Olá, João. Me chamo Ana e estou aqui para ajudá-lo. Pode me fornecer o seu RG, por favor?", "label": [[5, 9, "NOME"], [20, 23, "NOME"]]}
+{"text": "Claro, meu RG é 14.136.0475. Agora, o produto que adquiri está com defeito e não consigo utilizá-lo corretamente.", "label": [[16, 27, "NUMERO"]]}
+{"text": "Entendo, João. Vou verificar o seu cadastro e as opções de solução para o problema do produto. Poderia me fornecer mais detalhes sobre o defeito?", "label": [[9, 13, "NOME"]]}
+{"text": "Com certeza, Ana, o produto apresenta falhas constantes durante o uso, desligando-se sozinho e travando com frequência.", "label": [[13, 16, "NOME"]]}
+{"text": "Entendo a situação, João. Vamos proceder com a abertura de um chamado para o setor responsável analisar o defeito em seu produto. Em até três dias úteis, você receberá um retorno com as orientações de como proceder.", "label": [[20, 24, "NOME"]]}
+{"text": "Ótimo, Ana. Agradeço pela atenção e aguardarei o contato do setor responsável. Alguma previsão de quando o problema será resolvido?", "label": [[7, 10, "NOME"]]}
+{"text": "Não posso garantir uma data exata, João, mas faremos o possível para solucionar o problema o mais rápido possível. Caso tenha mais alguma dúvida, estou à disposição.", "label": [[35, 39, "NOME"]]}
+{"text": "Está ótimo, Ana. Agradeço novamente pela ajuda e aguardarei o contato. Tenha um ótimo dia.", "label": [[12, 15, "NOME"]]}
+{"text": "Obrigada, João. Tenha um ótimo dia você também.", "label": [[10, 14, "NOME"]]}
+{"text": "Olá, estou com um problema no meu produto.", "label": []}
+{"text": "Boa tarde, posso ajudar? Qual é o seu nome?", "label": []}
+{"text": "Meu nome é Milena Santos.", "label": [[11, 24, "NOME"]]}
+{"text": "Muito prazer, Milena. Qual é o problema que você está enfrentando?", "label": [[14, 20, "NOME"]]}
+{"text": "Bem, meu produto está apresentando alguns defeitos. Preciso consertá-lo o mais rápido possível.", "label": []}
+{"text": "Entendo, Milena. Para prosseguirmos, poderia informar o número do seu RG. Preciso dessa informação para dar continuidade ao atendimento.", "label": [[9, 15, "NOME"]]}
+{"text": "Claro, meu RG é R$ 44.708,1819.", "label": [[19, 30, "NUMERO"]]}
+{"text": "Perfeito, obrigado. Vamos verificar os detalhes do seu produto com base nesse número de identificação. Agradeço a sua atenção. Aguarde um momento, por favor.", "label": []}
+{"text": "Olá, estou com um problema no meu computador. Podem me ajudar?", "label": []}
+{"text": "Claro, Gabriel. Eu sou a Camila, sua atendente. Pode me falar mais detalhes sobre o problema?", "label": [[7, 14, "NOME"], [25, 31, "NOME"]]}
+{"text": "Entendido, estou executando o comando agora.", "label": []}
+{"text": "Ótimo, Gabriel. Aguarde o processo ser concluído. Pode levar algum tempo.", "label": [[7, 14, "NOME"]]}
+{"text": "Certo, estou aguardando.", "label": []}
+{"text": "Pronto, Gabriel. O processo foi concluído. Alguma mensagem de erro foi exibida?", "label": [[8, 15, "NOME"]]}
+{"text": "Não, nenhuma mensagem de erro foi exibida.", "label": []}
+{"text": "Perfeito. Isso significa que as verificações não detectaram nenhum problema grave. Vamos tentar outra solução. Agora, digite chackdskf no prompt de comando e pressione Enter. Esse comando verifica e repara erros no disco rígido.", "label": []}
+{"text": "Ok, estou digitando o comando agora.", "label": []}
+{"text": "Ótimo, Gabriel. Esse processo também pode levar algum tempo. Fique atento às instruções exibidas.", "label": [[7, 14, "NOME"]]}
+{"text": "Entendido. Estou acompanhando.", "label": []}
+{"text": "Concluído, Gabriel. Alguma mensagem de erro foi exibida?", "label": [[11, 18, "NOME"]]}
+{"text": "Certamente, estou recebendo uma tela azul toda vez que tento inicializar.", "label": []}
+{"text": "Sim, foram encontrados alguns erros, e eles foram corrigidos.", "label": []}
+{"text": "Ótimo! Agora reinicie o computador e veja se o problema persiste. Se sim, podemos continuar com outras soluções.", "label": []}
+{"text": "Tudo bem, vou reiniciar agora mesmo.", "label": []}
+{"text": "Fico no aguardo, Gabriel. Espero que isso resolva o seu problema.", "label": [[17, 24, "NOME"]]}
+{"text": "Ótima notícia, Camila! O problema foi resolvido após o reinício. Muito obrigado pela ajuda!", "label": [[15, 21, "NOME"]]}
+{"text": "Fico feliz em ajudar, Gabriel. Qualquer outra dúvida, estarei à disposição. Tenha um ótimo dia.", "label": [[22, 29, "NOME"]]}
+{"text": "Entendo, Gabriel. Vamos verificar algumas possibilidades. Você já tentou reiniciar o computador?", "label": [[9, 16, "NOME"]]}
+{"text": "Sim, já tentei reiniciar algumas vezes e o problema persiste.", "label": []}
+{"text": "Tudo bem, Gabriel. Vamos tentar uma solução mais avançada. Você se sente confortável em fazer algumas alterações nas configurações do sistema?", "label": [[10, 17, "NOME"]]}
+{"text": "Sim, estou disposto a tentar qualquer coisa para resolver esse problema.", "label": []}
+{"text": "Ótimo, vou te guiar nesse processo. Primeiro, preciso que você abra o menu Iniciar e digite CMD para abrir o prompt de comando.", "label": []}
+{"text": "Ok, abriu o prompt de comando.", "label": []}
+{"text": "Agora digite sfc scanl e pressione Enter. Esse comando verificará e corrigirá quaisquer problemas de sistema que possam existir.", "label": []}
+{"text": "Olá, estou com um problema em meu computador.", "label": []}
+{"text": "Olá, Alexia! Serei o seu atendente. Pode me fornecer o seu RG para verificarmos o seu cadastro?", "label": [[5, 11, "NOME"]]}
+{"text": "Não tenho certeza poderia me guiar nesse processo.", "label": []}
+{"text": "Com certeza, vou lhe fornecer algumas instruções sobre como desinstalar o programa. Por favor, siga as orientações atentamente.", "label": []}
+{"text": "Ok, estou pronta para as instruções.", "label": []}
+{"text": "Primeiramente, clique no botão Iniciar, localizado no canto inferior esquerdo da sua tela. Em seguida, selecione Painel de controle.", "label": []}
+{"text": "Certo, encontrei o painel de controle.", "label": []}
+{"text": "Ótimo! Agora, dentro do painel de controle, localize a opção Programas e clique nela.", "label": []}
+{"text": "Encontrei a opção Programas e cliquei.", "label": []}
+{"text": "Perfeito! Agora, na lista de programas instalados, procure pelo programa que deseja desinstalar e clique sobre ele.", "label": []}
+{"text": "Encontrei o programa na lista e cliquei nele.", "label": []}
+{"text": "Muito bem, agora, no topo da janela, você verá a opção Desinstalar. Clique nela para iniciar o processo de remoção do programa selecionado.", "label": []}
+{"text": "Claro! Meu RG é R$ 27.162,411,826.", "label": [[19, 33, "NUMERO"]]}
+{"text": "Ok, acabei de clicar em Desinstalar.", "label": []}
+{"text": "Ótimo! Agora siga as instruções que aparecem na tela para concluir a desinstalação do programa. Após finalizar esse processo, reinicie o seu computador e verifique se o problema persiste.", "label": []}
+{"text": "Compreendido. Vou seguir essas etapas agora mesmo. Agradeço pela sua ajuda, Bruno.", "label": [[76, 81, "NOME"]]}
+{"text": "Eu que agradeço, Alexia. Espero que essas instruções resolvam o seu problema. Caso persista ou surja algo novo, por favor, entre em contato conosco novamente. Tenha um ótimo dia!", "label": [[17, 23, "NOME"]]}
+{"text": "Ótimo, obrigado pela confirmação, Alexia. Agora, por favor, descreva o problema que está enfrentando com o seu computador.", "label": [[34, 40, "NOME"]]}
+{"text": "Bem, toda vez que ligo meu computador, ele está muito lento e às vezes até trava.", "label": []}
+{"text": "Estendo, vamos tentar algumas soluções simples primeiro. Você já tentou reiniciar seu computador para verificar se esse problema persiste?", "label": []}
+{"text": "Zim já reiniciei algumas vezes, mas o problema continua.", "label": [[0, 3, "NOME"]]}
+{"text": "Compreendo. Vamos prosseguir para a próxima etapa, então. Você se lembra de ter instalado algum novo programa ou atualização recentemente?", "label": []}
+{"text": "Na verdade, sim. Instalei um programa novo há alguns dias. Pode ter relação com o problema?", "label": []}
+{"text": "É possível que sim. Recomendaria desinstalar esse programa temporariamente para verificarmos se ele é realmente a causa do seu computador lento. Você sabe como fazer isso?", "label": []}
